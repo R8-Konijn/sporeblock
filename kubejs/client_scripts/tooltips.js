@@ -1,5 +1,6 @@
 ItemEvents.modifyTooltips(event => {
-  event.add('minecraft:bedrock', 'test uwu')
+  event.add('minecraft:bone_block', 'Bones can be obtained from certain Spore creatures.')
+  event.add('minecraft:bone', 'Bones can be obtained from certain Spore creatures.')
   event.add('tiab:time_in_a_bottle', '\u00a77Does not make Mounds summon creatures more quickly.')
   event.add('spore:scent_spawnegg', '\u00a77Summon Spore creatures for a period of time. The more space the better. Will only summon creatures if there is a target nearby. Can be Overcharged with Lava to summon stronger creatures under any condition.')
   event.add('create_netherless:coal_rod', '\u00a77Requires a blasting furnace to be converted into a Blaze Rod.')
@@ -11,4 +12,5 @@ ItemEvents.modifyTooltips(event => {
   event.add('spore:bile_tumor', '\u00a77Throwable projectile.')
   event.add('spore:frozen_tumor', '\u00a77Throwable projectile.')
   event.add('spore:brain_remnants', '\u00a77Obtained by killing a Proto Hivemind or destroying an Outpost Watcher.')
+  event.add('spore:alveolic_sack', '\u00a77Right click a Cow with this item to milk it.')
 })

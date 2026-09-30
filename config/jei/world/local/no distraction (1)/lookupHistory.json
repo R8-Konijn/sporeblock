@@ -1,5 +1,16 @@
 [
   {"version":1},
+  {"ingredient":{"id":"minecraft:lead"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:soul_sand"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:bone_block"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:sugar"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:charcoal"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"spore:rotten_log"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"constructionwand:core_destruction"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"tiab:time_in_a_bottle","components":"{\"minecraft:lore\":[\u0027{\"color\":\"green\",\"translate\":\"item.tiab.time_in_a_bottle.tooltip.stored_time\",\"with\":[\"00\",\"00\",\"01\"]}\u0027,\u0027{\"color\":\"gray\",\"translate\":\"item.tiab.time_in_a_bottle.tooltip.total_accumulated_time\",\"with\":[\"00\",\"00\",\"01\"]}\u0027],\"tiab:stored_time\":{stored:20,total:20}}"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:nether_star"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"constructionwand:infinity_wand","components":"{\"minecraft:custom_data\":{wand_options:{}}}"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create:creative_motor"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"spore:bloomfung2"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"spore:fungal_bonemeal"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"spore:brain_remnants"},"type":"item_stack","bookmarkType":"INGREDIENT"},
@@ -30,7 +41,6 @@
   {"ingredient":{"id":"create:iron_sheet"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"minecraft:dirt"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"spore:hive_spawn"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"create:creative_motor"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"tiab:time_in_a_bottle","components":"{\"minecraft:lore\":[\u0027{\"color\":\"green\",\"translate\":\"item.tiab.time_in_a_bottle.tooltip.stored_time\",\"with\":[\"00\",\"00\",\"40\"]}\u0027,\u0027{\"color\":\"gray\",\"translate\":\"item.tiab.time_in_a_bottle.tooltip.total_accumulated_time\",\"with\":[\"00\",\"00\",\"40\"]}\u0027],\"tiab:stored_time\":{stored:800,total:800}}"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"tiab:time_in_a_bottle","components":"{\"minecraft:lore\":[\u0027{\"color\":\"green\",\"translate\":\"item.tiab.time_in_a_bottle.tooltip.stored_time\",\"with\":[\"00\",\"00\",\"35\"]}\u0027,\u0027{\"color\":\"gray\",\"translate\":\"item.tiab.time_in_a_bottle.tooltip.total_accumulated_time\",\"with\":[\"00\",\"00\",\"35\"]}\u0027],\"tiab:stored_time\":{stored:700,total:700}}"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"spore:biomass"},"type":"item_stack","bookmarkType":"INGREDIENT"},
@@ -89,10 +99,5 @@
   {"ingredient":{"id":"spore:inf_up_chest"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"minecraft:paper"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"minecraft:dried_kelp_block"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"minecraft:dried_kelp"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"minecraft:ominous_bottle"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"patchouli:guide_book","components":"{\"patchouli:book\":\"patchouli:for_you\"}"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"spore:hyperbolized_liver"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"spore:spine"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"minecraft:oak_trapdoor"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+  {"ingredient":{"id":"minecraft:dried_kelp"},"type":"item_stack","bookmarkType":"INGREDIENT"}
 ]

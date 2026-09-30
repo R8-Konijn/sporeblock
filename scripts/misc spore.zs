@@ -27,3 +27,6 @@ craftingTable.addShaped("lab_blocks", <item:spore:lab_block> * 32, [[<item:minec
 //Milky Sack
 <recipetype:create:mixing>.addJsonRecipe("milk_mixing", {type: "create:mixing", results: [{id: "minecraft:milk", amount: 250}], ingredients: [{item: "spore:milky_sack"}]});
 <recipetype:create:filling>.addJsonRecipe("create/filling/milk", {type: "create:filling", results: [{id: "spore:milky_sack"}], ingredients: [{item: "spore:alveolic_sack"}, {type: "neoforge:single", fluid: "minecraft:milk", amount: 250}]});
+
+//Vial
+craftingTable.addShapeless("bile_vial", <item:spore:bile_vial>*3, [<item:spore:crusted_bile>, <item:minecraft:glass_bottle>, <item:minecraft:glass_bottle>,<item:minecraft:glass_bottle>,]);

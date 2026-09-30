@@ -10,12 +10,16 @@ import crafttweaker.api.recipe.replacement.type.ModsFilteringRule;
 craftingTable.addShaped("rotten_logs", <item:spore:rotten_log>, [[<item:spore:biomass>,<item:spore:biomass>], [<item:spore:biomass>,<item:spore:biomass>]]);
 
 <tag:item:minecraft:planks>.add(<item:spore:rotten_planks>);
+<tag:item:create:pulpifiable>.add(<item:minecraft:stick>);
 craftingTable.addShaped("rotten_planks", <item:spore:rotten_planks>*4, [[<item:spore:rotten_log>]]);
 
 craftingTable.addShaped("rotten_planks_2", <item:spore:rotten_planks>*4, [[<item:kubejs:stripped_rotten_log>]]);
 <tag:item:minecraft:logs>.add(<item:kubejs:stripped_rotten_log>);
 <tag:item:minecraft:logs_that_burn>.add(<item:kubejs:stripped_rotten_log>);
 <tag:item:c:stripped_logs>.add(<item:kubejs:stripped_rotten_log>);
+
+furnace.remove(<item:minecraft:charcoal>);
+furnace.addRecipe("new_charcoal", <item:minecraft:charcoal>*2, <tag:item:minecraft:logs_that_burn>, 0.1, 200);
 
 
 //Zinc & Andesite
@@ -77,7 +81,7 @@ craftingTable.addShaped("blasting_furnace", <item:minecraft:blast_furnace:>, [[<
 <recipetype:create:mixing>.addJsonRecipe("create/mixing/lava", {type: "create:mixing", results: [{id: "minecraft:lava", amount: 200}], ingredients: [{item: "minecraft:blaze_rod"}]});
 
 //Water & Snow
-<recipetype:create:mixing>.addJsonRecipe("create/mixing/water", {type: "create:mixing", heat_requirement: "heated", results: [{id: "minecraft:water", amount: 100}], ingredients: [{type: "neoforge:single", fluid: "spore:bile", amount: 100}]});
+<recipetype:create:mixing>.addJsonRecipe("create/mixing/water", {type: "create:mixing", heat_requirement: "heated", results: [{id: "minecraft:water", amount: 100}], ingredients: [{type: "neoforge:single", fluid: "spore:bile", amount: 200}]});
 
 <recipetype:create:compacting>.addJsonRecipe("snowball", {type: "create:compacting", results: [{id: "minecraft:snowball"}], ingredients: [{type: "neoforge:single", fluid: "minecraft:water", amount: 100}]});
 
@@ -97,6 +101,9 @@ craftingTable.remove(<item:create:rose_quartz>);
 //Eggs
 <recipetype:create:mixing>.addJsonRecipe("normal_egg", {type: "create:mixing", heat_requirement: "heated", results: [{id: "minecraft:egg"}], ingredients: [{item: "spore:biomass"}, {item: "spore:armor_fragment"}, {item: "spore:armor_fragment"}, {type: "neoforge:single", fluid: "spore:bile", amount: 100}]});
 craftingTable.addShaped("moo_egg", <item:minecraft:mooshroom_spawn_egg>, [[<item:spore:organoid_membrane>, <item:spore:organoid_membrane>, <item:spore:organoid_membrane>], [<item:spore:organoid_membrane>,<item:minecraft:egg>,<item:spore:organoid_membrane>],[<item:spore:organoid_membrane>,<item:spore:organoid_membrane>,<item:spore:organoid_membrane>]]);
+
+//Sugar
+<recipetype:create:mixing>.addJsonRecipe("new_sugar", {type: "create:mixing", heat_requirement: "heated", results: [{id: "minecraft:sugar"}], ingredients: [{type: "neoforge:single", fluid: "minecraft:milk", amount: 100}, {type: "neoforge:single", fluid: "spore:bile", amount: 100}]});
 
 
 //Dome

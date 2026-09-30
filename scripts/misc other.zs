@@ -24,3 +24,8 @@ Replacer.create().replace<IIngredient>(<recipecomponent:crafttweaker:input/ingre
 
 craftingTable.remove(<item:tiab:time_in_a_bottle>);
 craftingTable.addShapeless("tiab", <item:tiab:time_in_a_bottle>, [<item:minecraft:glass_bottle>]);
+
+//Wand
+
+craftingTable.remove(<item:constructionwand:core_destruction>);
+craftingTable.addShaped("destruction_core", <item:constructionwand:core_destruction>,[[<item:minecraft:air>, <item:spore:calcified_biomass_block>, <item:minecraft:air>], [<item:spore:sicken_biomass_block>, <item:minecraft:iron_pickaxe>, <item:spore:gastric_biomass_block>], [<item:minecraft:air>, <tag:item:spore:amalgamated_biomass>, <item:minecraft:air>]]);

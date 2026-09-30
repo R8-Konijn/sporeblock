@@ -19,8 +19,7 @@
         "minecraft:dark_oak_slab", "minecraft:mangrove_slab", "minecraft:cherry_slab", "minecraft:bamboo_slab","minecraft:bamboo_mosaic_slab", "minecraft:crimson_slab",
         "minecraft:warped_slab", "spore:zoaholic", "spore:pci", "simply_traps:circular_barbed_wire_ivy", "simply_traps:grass_trap",
         "constructionwand:core_angel",
-        "minecraft:enchanted_book", "minecraft:enchanting_table", "minecraft:anvil", "minecraft:chipped_anvil", 
-        "minecraft:damaged_anvil", "crafting_on_a_stick:anvil", "crafting_on_a_stick:chipped_anvil", "crafting_on_a_stick:damaged_anvil",
+        "minecraft:enchanted_book", "minecraft:enchanting_table", "crafting_on_a_stick:anvil", "crafting_on_a_stick:chipped_anvil", "crafting_on_a_stick:damaged_anvil",
         "minecraft:water_bucket", "minecraft:cod_bucket", "minecraft:salmon_bucket", "minecraft:tropical_fish_bucket",
         "minecraft:pufferfish_bucket", "minecraft:axolotl_bucket", "minecraft:tadpole_bucket", "minecraft:lava_bucket", "minecraft:bucket",
         "minecraft:powder_snow_bucket", "minecraft:milk_bucket", "create:honey_bucket", "create:chocolate_bucket", "spore:bucket_of_bile",
@@ -65,6 +64,22 @@
         "minecraft:crimson_stem", "create:crimson_window_pane", "create:crimson_window", "minecraft:crimson_hanging_sign",
         "minecraft:crimson_sign", "minecraft:warped_button", "minecraft:warped_pressure_plate", "minecraft:warped_trapdoor",
         "minecraft:warped_door", "minecraft:warped_fence_gate", "minecraft:warped_fence", "minecraft:warped_stairs", "minecraft:warped_hyphae",
-        "minecraft:warped_stem", "creategbd:elder_guardian_beam_capacitor", "creategbd:guardian_beam_capacitor"]
+        "minecraft:warped_stem", "creategbd:elder_guardian_beam_capacitor", "creategbd:guardian_beam_capacitor", "create:cut_granite_stairs",
+        "create:cut_granite", "minecraft:polished_granite_slab", "minecraft:polished_granite_stairs", "minecraft:polished_granite",
+        "minecraft:granite_wall", "minecraft:granite_slab", "minecraft:granite_stairs", "minecraft:granite",
+        "create:cut_granite_brick_slab", "create:cut_granite_brick_stairs", "create:cut_granite_bricks",
+        "create:polished_cut_granite_wall", "create:polished_cut_granite_slab", "create:polished_cut_granite_stairs",
+        "create:polished_cut_granite", "create:cut_granite_wall", "create:cut_granite_slab", "create:granite_pillar",
+        "create:layered_granite", "create:small_granite_brick_wall", "create:small_granite_brick_slab",
+        "create:small_granite_brick_stairs", "create:small_granite_bricks", "create:cut_granite_brick_wall", "create:cut_diorite_stairs",
+        "create:cut_diorite", "minecraft:polished_diorite_slab", "minecraft:polished_diorite", "minecraft:diorite_slab",
+        "minecraft:diorite_stairs", "minecraft:diorite", "minecraft:diorite_wall", "minecraft:polished_diorite_stairs",
+        "create:cut_diorite_brick_slab", "create:cut_diorite_brick_stairs", "create:cut_diorite_bricks",
+        "create:polished_cut_diorite_wall", "create:polished_cut_diorite_slab",
+        "create:polished_cut_diorite_stairs", "create:polished_cut_diorite",
+        "create:cut_diorite_wall", "create:cut_diorite_slab","create:diorite_pillar", "create:layered_diorite",
+        "create:small_diorite_brick_wall", "create:small_diorite_brick_slab", "create:small_diorite_brick_stairs",
+        "create:small_diorite_bricks", "create:cut_diorite_brick_wall", "minecraft:mangrove_sign", "minecraft:mangrove_hanging_sign",
+        "minecraft:mangrove_boat", "minecraft:mangrove_chest_boat", "create:mangrove_window", "create:mangrove_window_pane"]
     }
 ]
