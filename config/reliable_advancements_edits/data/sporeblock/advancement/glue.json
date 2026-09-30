@@ -1,0 +1,24 @@
+{
+  "criteria": {
+    "0": {
+      "trigger": "create:super_glue_builtin"
+    }
+  },
+  "requirements": [
+    [
+      "0"
+    ]
+  ],
+  "parent": "sporeblock:waterwheel",
+  "display": {
+    "icon": {
+      "id": "create:super_glue"
+    },
+    "title": "I found a glue!",
+    "description": "Use a Super Glue to, well, glue blocks together",
+    "frame": "task"
+  },
+  "parents": [
+    "sporeblock:waterwheel"
+  ]
+}

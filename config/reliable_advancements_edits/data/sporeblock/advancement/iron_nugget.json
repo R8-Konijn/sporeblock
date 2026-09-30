@@ -1,0 +1,31 @@
+{
+  "criteria": {
+    "0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:iron_nugget"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "0"
+    ]
+  ],
+  "parent": "sporeblock:andesite_casing",
+  "display": {
+    "icon": {
+      "id": "minecraft:iron_nugget"
+    },
+    "title": "Recycling",
+    "description": "Extract Iron Nuggets from parts dropped by Spore creatures, summoned by a mature Mound or a Scent, with a Mechanical Mixer",
+    "frame": "task"
+  },
+  "parents": [
+    "sporeblock:andesite_casing"
+  ]
+}

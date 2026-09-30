@@ -1,0 +1,13 @@
+{"block.creategbd.basic_laser_turret": "Basic Beam Turret",
+"block.creategbd.basic_laser_turret.tooltip": "BASIC BEAM TURRET",
+"block.creategbd.basic_laser_turret.tooltip.summary": "A sophisticated _Laser Defense Unit_ that automatically _Locks_ on to a _specified_ mob should it come close.",
+"block.creategbd.basic_laser_turret.tooltip.condition1": "When Powered by Kinetics",
+"block.creategbd.basic_laser_turret.tooltip.behaviour1": "Charges up a _Laser Beam_ aimed at a _specified_ mob at a rate based on the _Rotation Speed_.",
+"block.creategbd.advanced_laser_turret": "Advanced Beam Turret",
+"block.creategbd.advanced_laser_turret.tooltip": "ADVANCED BEAM TURRET",
+"block.creategbd.advanced_laser_turret.tooltip.summary": "A much more advanced _Laser Defense Unit_ capable of _Locking_ on to _ten_ mobs at once.",
+"block.creategbd.advanced_laser_turret.tooltip.condition1": "When Powered by Kinetics",
+"block.creategbd.advanced_laser_turret.tooltip.behaviour1": "Charges up _Laser Beams_ aimed at _specified_ mobs at a rate based on the _Rotation Speed_.",
+"entity.creategbd.turret_beam_laser_entity": "Beam Turret",
+"entity.creategbd.beam_laser_entity": "Beam Laser",
+"creategbd.turret_beam_targeting_options": "Turret Targeting Option"}

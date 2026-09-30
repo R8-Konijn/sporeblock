@@ -1,0 +1,31 @@
+{
+  "criteria": {
+    "0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "create:zinc_nugget"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "0"
+    ]
+  ],
+  "parent": "sporeblock:wood",
+  "display": {
+    "icon": {
+      "id": "create:zinc_nugget"
+    },
+    "title": "Not Edible",
+    "description": "Obtain a Zinc Nugget. This will be useful to craft Andesite Alloys!",
+    "frame": "task"
+  },
+  "parents": [
+    "sporeblock:wood"
+  ]
+}

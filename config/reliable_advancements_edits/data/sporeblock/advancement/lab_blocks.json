@@ -1,0 +1,31 @@
+{
+  "criteria": {
+    "0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "spore:lab_block"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "0"
+    ]
+  ],
+  "parent": "sporeblock:blazeburner",
+  "display": {
+    "icon": {
+      "id": "spore:lab_block"
+    },
+    "title": "Building the laboratory",
+    "description": "Craft Laboratory Blocks. Being tougher than Stone, Spore Organoids such as the Mound cannot grow on top of this block, unless they get infested.",
+    "frame": "task"
+  },
+  "parents": [
+    "sporeblock:blazeburner"
+  ]
+}

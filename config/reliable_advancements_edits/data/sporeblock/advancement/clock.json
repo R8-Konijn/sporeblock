@@ -1,0 +1,31 @@
+{
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "create:cuckoo_clock"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "impossible"
+    ]
+  ],
+  "parent": "sporeblock:andesite_casing",
+  "display": {
+    "icon": {
+      "id": "create:cuckoo_clock"
+    },
+    "title": "One rotation per 15 minutes",
+    "description": "Keep track of the passing time with a Cuckoo Clock. But why?",
+    "frame": "task"
+  },
+  "parents": [
+    "sporeblock:andesite_casing"
+  ]
+}

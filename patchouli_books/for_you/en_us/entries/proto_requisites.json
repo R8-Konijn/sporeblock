@@ -1,0 +1,15 @@
+{
+    "name": "READ ME FIRST",
+    "icon": "minecraft:written_book",
+    "category": "patchouli:proto",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "The Proto-Hivemind is an extremely dangerous entity, and it is recommended to make sure you are prepared before letting a Reconstructed Mind evolve into one. It will attempt to send dangerous creatures to your location, and anything in a radius of 50 blocks around the Proto Hivemind should be viewed as perpetually infested territory."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "In addition to the multiplication of Spore creatures you might already be familiar with, the Proto-Hivemind comes with many other dangers. Read the other entries of this chapter to learn more about them and prepare accordingly."
+        }
+    ]
+}

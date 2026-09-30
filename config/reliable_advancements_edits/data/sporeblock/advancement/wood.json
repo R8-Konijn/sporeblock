@@ -1,0 +1,31 @@
+{
+  "criteria": {
+    "0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "spore:rotten_log"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "0"
+    ]
+  ],
+  "parent": "sporeblock:start",
+  "display": {
+    "icon": {
+      "id": "spore:rotten_log"
+    },
+    "title": "Fancy Agriculture",
+    "description": "Get Decayed Wood from Biomass",
+    "frame": "task"
+  },
+  "parents": [
+    "sporeblock:start"
+  ]
+}

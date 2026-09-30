@@ -1,0 +1,31 @@
+{
+  "criteria": {
+    "0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "creategbd:advanced_laser_turret"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "0"
+    ]
+  ],
+  "parent": "sporeblock:basic_turret",
+  "display": {
+    "icon": {
+      "id": "creategbd:advanced_laser_turret"
+    },
+    "title": "Hyper Beam",
+    "description": "Craft an Advanced Beam Turret",
+    "frame": "task"
+  },
+  "parents": [
+    "sporeblock:basic_turret"
+  ]
+}

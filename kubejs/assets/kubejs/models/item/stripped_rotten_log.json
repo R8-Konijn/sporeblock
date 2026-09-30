@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "kubejs:block/stripped_rotten_wood_top",
+    "side": "kubejs:block/stripped_rotten_wood"
+  }
+}

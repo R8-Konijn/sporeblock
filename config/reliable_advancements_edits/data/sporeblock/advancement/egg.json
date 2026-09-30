@@ -1,0 +1,32 @@
+{
+  "criteria": {
+    "egg": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:egg"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "egg"
+    ]
+  ],
+  "parent": "sporeblock:blazeburner",
+  "display": {
+    "icon": {
+      "id": "minecraft:egg"
+    },
+    "title": "Egg",
+    "description": "Make an Egg",
+    "frame": "task"
+  },
+  "parents": [
+    "sporeblock:blazeburner",
+    "sporeblock:armor_fragment"
+  ]
+}

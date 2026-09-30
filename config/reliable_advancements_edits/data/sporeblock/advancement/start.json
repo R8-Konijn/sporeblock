@@ -1,0 +1,20 @@
+{
+  "criteria": {
+    "0": {
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "0"
+    ]
+  ],
+  "display": {
+    "icon": {
+      "id": "minecraft:chest"
+    },
+    "title": "Achievements will guide you! Pay attention to them!",
+    "description": "Follow the most bottom achievement to progress through the main progress line. Good luck! ",
+    "frame": "task"
+  }
+}

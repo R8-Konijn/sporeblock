@@ -1,0 +1,23 @@
+{
+    "name": "What is this about?",
+    "icon": "minecraft:stone",
+    "category": "patchouli:introduction",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "SporeBlock is a Stoneblock modpack about getting your resources from a dangerous fungal infection you will need to keep under control. There are no ores to mine: you will get most of what you need from the infection. The achievements will guide you through the progression of this modpack. The infection will start as soon as you place the Mound down."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Be careful! As you depend on Mounds to progress, make sure to keep at least one of them alive - if you kill all Mounds, you might get stuck. Conversely, you should make sure you can maintain a safe distance from them. The infection will create hazardous terrain, and eventually will even be able to spawn hostile creatures, so make sure to be ready for that."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "One last disclaimer for people that have played with Fungal Infection: Spore before: Spore does not behave exactly like it does usually, as it had to be tweaked to evolve properly in a StoneBlock environnement, partly to account for the lack of naturally spawning mobs they could feed on. Everything you need to know will be explained in the relevant chapters of this book."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "This modpack was made for the Big Autumn Packjam. If you have any feedback, feel free to open an issue on the Github (you can find it on the Modrinth page of the modpack) or reach me out through the Big Autumn Packjam discord server! (My discord is @r8_konijn)$(br)$(br)Have fun :)"
+        }
+    ]
+}

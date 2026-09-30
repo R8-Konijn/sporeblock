@@ -1,0 +1,6 @@
+{
+    "name": "The Infection",
+    "description": "Learn how the infection works. You should read about the Mound first!",
+    "icon": "spore:mound_spawnegg",
+    "sortnum": 1
+}

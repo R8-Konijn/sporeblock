@@ -1,0 +1,50 @@
+{
+  "criteria": {
+    "blowback": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": [
+          {
+            "predicate": {
+              "type": "minecraft:breeze"
+            },
+            "entity": "this",
+            "condition": "minecraft:entity_properties"
+          }
+        ],
+        "killing_blow": {
+          "tags": [
+            {
+              "id": "minecraft:is_projectile",
+              "expected": true
+            }
+          ],
+          "direct_entity": {
+            "type": "minecraft:breeze_wind_charge"
+          }
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "blowback"
+    ]
+  ],
+  "sends_telemetry_event": true,
+  "parent": "minecraft:adventure/minecraft_trials_edition",
+  "display": {
+    "frame": "challenge",
+    "icon": {
+      "id": "minecraft:wind_charge"
+    },
+    "title": "Blowback",
+    "description": "Kill a Breeze with a deflected Breeze-shot Wind Charge"
+  },
+  "rewards": {
+    "experience": 40
+  },
+  "parents": [
+    "minecraft:adventure/minecraft_trials_edition"
+  ]
+}

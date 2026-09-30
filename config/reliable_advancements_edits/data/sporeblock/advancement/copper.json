@@ -1,0 +1,31 @@
+{
+  "criteria": {
+    "0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "create:copper_nugget"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "0"
+    ]
+  ],
+  "parent": "sporeblock:andesite_casing",
+  "display": {
+    "icon": {
+      "id": "create:copper_nugget"
+    },
+    "title": "Not Edible?",
+    "description": "Obtain a Copper Nugget with Bile. Copper can be used to craft many useful things, such as the Wrench and the Engineer\u0027s Goggles.",
+    "frame": "task"
+  },
+  "parents": [
+    "sporeblock:andesite_casing"
+  ]
+}

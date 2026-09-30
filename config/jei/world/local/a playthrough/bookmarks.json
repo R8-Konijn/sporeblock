@@ -1,0 +1,10 @@
+[
+  {"version":2},
+  {"recipe":"crafttweaker:spore_bile","recipeType":"create:mixing","bookmarkType":"RECIPE"},
+  {"recipe":"create:crafting/kinetics/water_wheel","recipeType":"minecraft:crafting","bookmarkType":"RECIPE"},
+  {"recipe":"crafttweaker:create/mechanical_plough","recipeType":"minecraft:crafting","bookmarkType":"RECIPE"},
+  {"recipe":"crafttweaker:create/super_glue_2","recipeType":"minecraft:crafting","bookmarkType":"RECIPE"},
+  {"recipe":"crafttweaker:create/mechanical_press","recipeType":"minecraft:crafting","bookmarkType":"RECIPE"},
+  {"recipe":"create:crafting/kinetics/fluid_pipe","recipeType":"minecraft:crafting","bookmarkType":"RECIPE"},
+  {"recipe":"create_netherless:blaze_burner_recipe_from_craft","recipeType":"minecraft:crafting","bookmarkType":"RECIPE"}
+]

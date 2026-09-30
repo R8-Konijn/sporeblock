@@ -1,0 +1,11 @@
+{
+    "name": "Creating the Hivemind",
+    "icon": "spore:hive_spawn",
+    "category": "patchouli:proto",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "See: $(l:inf_bm_rm)Reconstructed Mind$(/l)"
+        }
+    ]
+}

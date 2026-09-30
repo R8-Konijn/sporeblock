@@ -1,0 +1,31 @@
+{
+  "criteria": {
+    "0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "creategbd:basic_laser_turret"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "0"
+    ]
+  ],
+  "parent": "sporeblock:armor_fragment",
+  "display": {
+    "icon": {
+      "id": "creategbd:basic_laser_turret"
+    },
+    "title": "Automated Defense System",
+    "description": "Craft a Basic Beam Turret",
+    "frame": "task"
+  },
+  "parents": [
+    "sporeblock:armor_fragment"
+  ]
+}

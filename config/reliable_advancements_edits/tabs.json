@@ -1,0 +1,3633 @@
+{
+  "version": 1,
+  "tabs": {
+    "minecraft:story/root": {
+      "background": "minecraft:textures/gui/advancements/backgrounds/stone.png",
+      "index": 100,
+      "deleted": true,
+      "roots": [
+        "minecraft:story/root"
+      ]
+    },
+    "minecraft:adventure/root": {
+      "background": "minecraft:textures/gui/advancements/backgrounds/adventure.png",
+      "index": 100,
+      "deleted": true,
+      "roots": [
+        "minecraft:adventure/root"
+      ],
+      "positions": {
+        "minecraft:adventure/trade": [
+          32,
+          581
+        ],
+        "minecraft:adventure/blowback": [
+          64,
+          222
+        ],
+        "minecraft:adventure/overoverkill": [
+          64,
+          276
+        ],
+        "minecraft:adventure/play_jukebox_in_meadows": [
+          64,
+          492
+        ],
+        "minecraft:adventure/sniper_duel": [
+          96,
+          141
+        ],
+        "minecraft:adventure/revaulting": [
+          96,
+          303
+        ],
+        "minecraft:adventure/hero_of_the_village": [
+          64,
+          654
+        ],
+        "minecraft:adventure/bullseye": [
+          96,
+          114
+        ],
+        "minecraft:adventure/summon_iron_golem": [
+          64,
+          573
+        ],
+        "minecraft:adventure/avoid_vibration": [
+          32,
+          0
+        ],
+        "minecraft:adventure/read_power_of_chiseled_bookshelf": [
+          32,
+          411
+        ],
+        "minecraft:adventure/sleep_in_bed": [
+          32,
+          492
+        ],
+        "minecraft:adventure/trim_with_all_exclusive_armor_patterns": [
+          64,
+          627
+        ],
+        "minecraft:adventure/very_very_frightening": [
+          96,
+          168
+        ],
+        "minecraft:adventure/minecraft_trials_edition": [
+          32,
+          276
+        ],
+        "minecraft:adventure/root": [
+          0,
+          327
+        ],
+        "minecraft:adventure/kill_all_mobs": [
+          64,
+          74
+        ],
+        "minecraft:adventure/lightning_rod_with_villager_no_fire": [
+          32,
+          205
+        ],
+        "minecraft:adventure/two_birds_one_arrow": [
+          64,
+          384
+        ],
+        "minecraft:adventure/whos_the_pillager_now": [
+          64,
+          411
+        ],
+        "minecraft:adventure/spyglass_at_ghast": [
+          64,
+          546
+        ],
+        "minecraft:adventure/trim_with_any_armor_pattern": [
+          32,
+          627
+        ],
+        "minecraft:adventure/voluntary_exile": [
+          32,
+          654
+        ],
+        "minecraft:adventure/walk_on_powder_snow_with_leather_boots": [
+          64,
+          519
+        ],
+        "minecraft:adventure/craft_decorated_pot_using_only_sherds": [
+          64,
+          438
+        ],
+        "minecraft:adventure/salvage_sherd": [
+          32,
+          438
+        ],
+        "minecraft:adventure/spyglass_at_parrot": [
+          32,
+          546
+        ],
+        "minecraft:adventure/throw_trident": [
+          64,
+          168
+        ],
+        "minecraft:adventure/crafters_crafting_crafters": [
+          32,
+          54
+        ],
+        "minecraft:adventure/totem_of_undying": [
+          64,
+          195
+        ],
+        "minecraft:adventure/kill_a_mob": [
+          32,
+          135
+        ],
+        "minecraft:adventure/brush_armadillo": [
+          32,
+          27
+        ],
+        "minecraft:adventure/honey_block_slide": [
+          -28,
+          -68
+        ],
+        "minecraft:adventure/ol_betsy": [
+          32,
+          384
+        ],
+        "minecraft:adventure/adventuring_time": [
+          64,
+          465
+        ],
+        "minecraft:adventure/shoot_arrow": [
+          64,
+          128
+        ],
+        "minecraft:adventure/kill_mob_near_sculk_catalyst": [
+          64,
+          101
+        ],
+        "minecraft:adventure/spyglass_at_dragon": [
+          96,
+          546
+        ],
+        "minecraft:adventure/lighten_up": [
+          64,
+          249
+        ],
+        "minecraft:adventure/trade_at_world_height": [
+          64,
+          600
+        ],
+        "minecraft:adventure/arbalistic": [
+          64,
+          357
+        ],
+        "minecraft:adventure/under_lock_and_key": [
+          64,
+          303
+        ],
+        "minecraft:adventure/who_needs_rockets": [
+          64,
+          330
+        ],
+        "minecraft:adventure/fall_from_world_height": [
+          32,
+          81
+        ]
+      }
+    },
+    "minecraft:husbandry/root": {
+      "background": "minecraft:textures/gui/advancements/backgrounds/husbandry.png",
+      "index": 100,
+      "deleted": true,
+      "roots": [
+        "minecraft:husbandry/root"
+      ],
+      "positions": {
+        "minecraft:husbandry/wax_off": [
+          96,
+          202
+        ],
+        "minecraft:husbandry/wax_on": [
+          64,
+          202
+        ],
+        "minecraft:husbandry/remove_wolf_armor": [
+          64,
+          310
+        ],
+        "minecraft:husbandry/allay_deliver_item_to_player": [
+          32,
+          0
+        ],
+        "minecraft:husbandry/froglights": [
+          96,
+          256
+        ],
+        "minecraft:husbandry/tadpole_in_a_bucket": [
+          32,
+          256
+        ],
+        "minecraft:husbandry/balanced_diet": [
+          64,
+          135
+        ],
+        "minecraft:husbandry/bred_all_animals": [
+          64,
+          27
+        ],
+        "minecraft:husbandry/repair_wolf_armor": [
+          64,
+          337
+        ],
+        "minecraft:husbandry/root": [
+          0,
+          162
+        ],
+        "minecraft:husbandry/ride_a_boat_with_a_goat": [
+          32,
+          175
+        ],
+        "minecraft:husbandry/safely_harvest_honey": [
+          32,
+          202
+        ],
+        "minecraft:husbandry/obtain_sniffer_egg": [
+          32,
+          108
+        ],
+        "minecraft:husbandry/tame_an_animal": [
+          32,
+          324
+        ],
+        "minecraft:husbandry/tactical_fishing": [
+          64,
+          54
+        ],
+        "minecraft:husbandry/make_a_sign_glow": [
+          32,
+          81
+        ],
+        "minecraft:husbandry/kill_axolotl_target": [
+          128,
+          54
+        ],
+        "minecraft:husbandry/obtain_netherite_hoe": [
+          64,
+          162
+        ],
+        "minecraft:husbandry/leash_all_frog_variants": [
+          64,
+          256
+        ],
+        "minecraft:husbandry/feed_snifflet": [
+          64,
+          108
+        ],
+        "minecraft:husbandry/whole_pack": [
+          64,
+          364
+        ],
+        "minecraft:husbandry/plant_any_sniffer_seed": [
+          96,
+          108
+        ],
+        "minecraft:husbandry/plant_seed": [
+          32,
+          148
+        ],
+        "minecraft:husbandry/axolotl_in_a_bucket": [
+          96,
+          54
+        ],
+        "minecraft:husbandry/allay_deliver_cake_to_note_block": [
+          64,
+          0
+        ],
+        "minecraft:husbandry/silk_touch_nest": [
+          32,
+          229
+        ],
+        "minecraft:husbandry/fishy_business": [
+          32,
+          54
+        ],
+        "minecraft:husbandry/breed_an_animal": [
+          32,
+          27
+        ],
+        "minecraft:husbandry/complete_catalogue": [
+          64,
+          283
+        ]
+      }
+    },
+    "minecraft:nether/root": {
+      "background": "minecraft:textures/gui/advancements/backgrounds/nether.png",
+      "index": 100,
+      "deleted": true,
+      "roots": [
+        "minecraft:nether/root"
+      ],
+      "positions": {
+        "minecraft:nether/ride_strider": [
+          32,
+          256
+        ],
+        "minecraft:nether/obtain_crying_obsidian": [
+          32,
+          189
+        ],
+        "minecraft:nether/charge_respawn_anchor": [
+          64,
+          189
+        ],
+        "minecraft:nether/root": [
+          0,
+          128
+        ],
+        "minecraft:nether/obtain_ancient_debris": [
+          32,
+          148
+        ],
+        "minecraft:nether/distract_piglin": [
+          32,
+          0
+        ],
+        "minecraft:nether/create_full_beacon": [
+          160,
+          81
+        ],
+        "minecraft:nether/summon_wither": [
+          96,
+          81
+        ],
+        "minecraft:nether/all_effects": [
+          160,
+          108
+        ],
+        "minecraft:nether/fast_travel": [
+          32,
+          27
+        ],
+        "minecraft:nether/get_wither_skull": [
+          64,
+          81
+        ],
+        "minecraft:nether/return_to_sender": [
+          32,
+          216
+        ],
+        "minecraft:nether/use_lodestone": [
+          64,
+          162
+        ],
+        "minecraft:nether/uneasy_alliance": [
+          64,
+          216
+        ],
+        "minecraft:nether/all_potions": [
+          128,
+          108
+        ],
+        "minecraft:nether/find_fortress": [
+          32,
+          94
+        ],
+        "minecraft:nether/create_beacon": [
+          128,
+          81
+        ],
+        "minecraft:nether/obtain_blaze_rod": [
+          64,
+          108
+        ],
+        "minecraft:nether/brew_potion": [
+          96,
+          108
+        ],
+        "minecraft:nether/loot_bastion": [
+          64,
+          54
+        ],
+        "minecraft:nether/find_bastion": [
+          32,
+          54
+        ],
+        "minecraft:nether/netherite_armor": [
+          64,
+          135
+        ],
+        "minecraft:nether/ride_strider_in_overworld_lava": [
+          64,
+          270
+        ],
+        "minecraft:nether/explore_nether": [
+          64,
+          243
+        ]
+      }
+    },
+    "minecraft:end/root": {
+      "background": "minecraft:textures/gui/advancements/backgrounds/end.png",
+      "index": 100,
+      "deleted": true,
+      "roots": [
+        "minecraft:end/root"
+      ]
+    },
+    "create:root": {
+      "background": "create:textures/gui/advancements.png",
+      "index": 100,
+      "deleted": true,
+      "roots": [
+        "create:root"
+      ],
+      "positions": {
+        "create:andesite_alloy": [
+          32,
+          182
+        ],
+        "create:andesite_casing": [
+          64,
+          155
+        ],
+        "create:super_glue": [
+          192,
+          182
+        ],
+        "create:encased_fan": [
+          128,
+          155
+        ],
+        "create:water_wheel": [
+          64,
+          182
+        ],
+        "create:fist_bump": [
+          928,
+          81
+        ],
+        "create:hand_crank_000": [
+          384,
+          189
+        ],
+        "create:wrench_goggles": [
+          288,
+          182
+        ],
+        "create:red_signal": [
+          1120,
+          27
+        ],
+        "create:track_signal": [
+          1088,
+          54
+        ],
+        "create:mechanical_mixer": [
+          352,
+          155
+        ],
+        "create:mechanical_press": [
+          96,
+          155
+        ],
+        "create:extendo_grip": [
+          832,
+          108
+        ],
+        "create:cross_streams": [
+          640,
+          54
+        ],
+        "create:train_portal": [
+          1056,
+          0
+        ],
+        "create:portable_storage_interface": [
+          256,
+          182
+        ],
+        "create:glass_pipe": [
+          480,
+          121
+        ],
+        "create:conductor": [
+          1056,
+          54
+        ],
+        "create:self_deploying": [
+          800,
+          81
+        ],
+        "create:musical_arm": [
+          928,
+          108
+        ],
+        "create:funnel": [
+          288,
+          155
+        ],
+        "create:compacting": [
+          224,
+          155
+        ],
+        "create:display_link": [
+          768,
+          108
+        ],
+        "create:factory_gauge": [
+          544,
+          162
+        ],
+        "create:stock_ticker": [
+          448,
+          162
+        ],
+        "create:ejector_maxed": [
+          96,
+          209
+        ],
+        "create:brass": [
+          672,
+          81
+        ],
+        "create:mechanical_pump_0": [
+          448,
+          121
+        ],
+        "create:cart_pickup": [
+          160,
+          209
+        ],
+        "create:potato_cannon_collide": [
+          768,
+          81
+        ],
+        "create:burner": [
+          384,
+          94
+        ],
+        "create:precision_mechanism": [
+          800,
+          54
+        ],
+        "create:hose_pulley": [
+          544,
+          121
+        ],
+        "create:contraption_actors": [
+          224,
+          182
+        ],
+        "create:windmill": [
+          96,
+          182
+        ],
+        "create:rose_quartz": [
+          736,
+          54
+        ],
+        "create:frogport": [
+          480,
+          162
+        ],
+        "create:cardboard": [
+          384,
+          162
+        ],
+        "create:diving_suit": [
+          640,
+          81
+        ],
+        "create:saw_processing": [
+          192,
+          155
+        ],
+        "create:hose_pulley_lava": [
+          448,
+          94
+        ],
+        "create:train_crash": [
+          1120,
+          54
+        ],
+        "create:shifting_gears": [
+          128,
+          182
+        ],
+        "create:package_chute_throw": [
+          608,
+          175
+        ],
+        "create:long_travel": [
+          1056,
+          27
+        ],
+        "create:train_casing_00": [
+          992,
+          54
+        ],
+        "create:steam_engine_maxed": [
+          480,
+          94
+        ],
+        "create:clockwork_bearing": [
+          736,
+          108
+        ],
+        "create:root": [
+          0,
+          182
+        ],
+        "create:stressometer_maxed": [
+          384,
+          243
+        ],
+        "create:train_crash_backwards": [
+          1120,
+          81
+        ],
+        "create:track_crafting_factory": [
+          992,
+          27
+        ],
+        "create:belt": [
+          256,
+          155
+        ],
+        "create:display_board_0": [
+          1120,
+          0
+        ],
+        "create:steam_whistle": [
+          576,
+          67
+        ],
+        "create:long_train": [
+          1024,
+          27
+        ],
+        "create:cardboard_armor": [
+          576,
+          162
+        ],
+        "create:deployer": [
+          768,
+          54
+        ],
+        "create:diving_suit_lava": [
+          544,
+          94
+        ],
+        "create:arm_blaze_burner": [
+          896,
+          108
+        ],
+        "create:cuckoo_clock": [
+          352,
+          182
+        ],
+        "create:copper": [
+          416,
+          94
+        ],
+        "create:backtank": [
+          608,
+          67
+        ],
+        "create:anvil_plough": [
+          192,
+          209
+        ],
+        "create:steam_engine": [
+          544,
+          67
+        ],
+        "create:mechanical_arm": [
+          864,
+          54
+        ],
+        "create:extendo_grip_dual": [
+          928,
+          54
+        ],
+        "create:crafter_lazy_000": [
+          928,
+          0
+        ],
+        "create:stressometer": [
+          320,
+          182
+        ],
+        "create:potato_cannon": [
+          800,
+          108
+        ],
+        "create:copper_casing": [
+          448,
+          67
+        ],
+        "create:mechanical_crafter": [
+          896,
+          54
+        ],
+        "create:windmill_maxed": [
+          64,
+          209
+        ],
+        "create:table_cloth_shop": [
+          512,
+          162
+        ],
+        "create:foods": [
+          512,
+          94
+        ],
+        "create:sturdy_sheet": [
+          960,
+          27
+        ],
+        "create:lava_wheel_00000": [
+          384,
+          216
+        ],
+        "create:chute": [
+          320,
+          155
+        ],
+        "create:speed_controller": [
+          832,
+          54
+        ],
+        "create:train": [
+          1024,
+          54
+        ],
+        "create:track_0": [
+          992,
+          0
+        ],
+        "create:chained_drain": [
+          640,
+          27
+        ],
+        "create:drain": [
+          512,
+          67
+        ],
+        "create:packager": [
+          416,
+          162
+        ],
+        "create:haunted_bell": [
+          704,
+          108
+        ],
+        "create:spout": [
+          480,
+          67
+        ],
+        "create:millstone": [
+          160,
+          182
+        ],
+        "create:honey_drain": [
+          608,
+          121
+        ],
+        "create:pipe_organ": [
+          640,
+          108
+        ],
+        "create:belt_funnel_kiss": [
+          384,
+          67
+        ],
+        "create:crushing_wheel": [
+          928,
+          27
+        ],
+        "create:train_whistle": [
+          1024,
+          0
+        ],
+        "create:linked_controller": [
+          864,
+          108
+        ],
+        "create:arm_many_targets": [
+          736,
+          81
+        ],
+        "create:train_roadkill": [
+          1120,
+          108
+        ],
+        "create:pulley_maxed": [
+          128,
+          209
+        ],
+        "create:crusher_maxed_0000": [
+          704,
+          81
+        ],
+        "create:fan_processing": [
+          160,
+          155
+        ],
+        "create:cardboard_armor_trim": [
+          608,
+          148
+        ],
+        "create:water_supply": [
+          512,
+          121
+        ],
+        "create:brass_casing": [
+          704,
+          54
+        ],
+        "create:chocolate_bucket": [
+          576,
+          121
+        ]
+      }
+    },
+    "spore:spore": {
+      "background": "spore:textures/block/laboratory_block3.png",
+      "index": 100,
+      "deleted": true,
+      "roots": [
+        "spore:spore"
+      ],
+      "positions": {
+        "spore:spore": [
+          -27,
+          993
+        ],
+        "spore:proto": [
+          64,
+          931
+        ],
+        "spore:usurper": [
+          96,
+          972
+        ],
+        "spore:hohlfresser": [
+          128,
+          864
+        ],
+        "spore:chemist": [
+          96,
+          162
+        ],
+        "spore:inf_diseased_villager": [
+          64,
+          54
+        ],
+        "spore:braurei": [
+          96,
+          837
+        ],
+        "spore:thorn": [
+          96,
+          405
+        ],
+        "spore:naiad": [
+          96,
+          108
+        ],
+        "spore:scavenger": [
+          96,
+          378
+        ],
+        "spore:inf_hazmat": [
+          64,
+          189
+        ],
+        "spore:inf_mobs": [
+          32,
+          533
+        ],
+        "spore:lost_technology": [
+          32,
+          1228
+        ],
+        "spore:vigil": [
+          96,
+          1026
+        ],
+        "spore:stalker": [
+          96,
+          486
+        ],
+        "spore:gorgon": [
+          96,
+          756
+        ],
+        "spore:hive": [
+          96,
+          891
+        ],
+        "spore:hevoker": [
+          96,
+          135
+        ],
+        "spore:lacerator": [
+          64,
+          1120
+        ],
+        "spore:protector": [
+          96,
+          594
+        ],
+        "spore:leviathan": [
+          128,
+          945
+        ],
+        "spore:reconstructor": [
+          96,
+          918
+        ],
+        "spore:howitzer": [
+          128,
+          891
+        ],
+        "spore:conductor": [
+          96,
+          189
+        ],
+        "spore:anatomy_act_7": [
+          64,
+          1606
+        ],
+        "spore:anatomy_act_6": [
+          64,
+          1579
+        ],
+        "spore:anatomy_act_9": [
+          64,
+          1660
+        ],
+        "spore:anatomy_act_8": [
+          64,
+          1633
+        ],
+        "spore:hollen": [
+          128,
+          351
+        ],
+        "spore:inf_husk": [
+          64,
+          378
+        ],
+        "spore:brute": [
+          96,
+          432
+        ],
+        "spore:gazen": [
+          128,
+          810
+        ],
+        "spore:inf_player": [
+          64,
+          567
+        ],
+        "spore:nuclea": [
+          96,
+          567
+        ],
+        "spore:knight": [
+          96,
+          324
+        ],
+        "spore:grober": [
+          128,
+          648
+        ],
+        "spore:volatile": [
+          96,
+          810
+        ],
+        "spore:freezing_protocole": [
+          64,
+          1228
+        ],
+        "spore:focused_searched": [
+          64,
+          1201
+        ],
+        "spore:kraken": [
+          128,
+          918
+        ],
+        "spore:scamper": [
+          64,
+          1066
+        ],
+        "spore:gargoyle": [
+          96,
+          540
+        ],
+        "spore:wendigo": [
+          128,
+          486
+        ],
+        "spore:umarmed": [
+          96,
+          945
+        ],
+        "spore:mephitic": [
+          96,
+          783
+        ],
+        "spore:bloater": [
+          96,
+          81
+        ],
+        "spore:saugling": [
+          64,
+          1174
+        ],
+        "spore:inf_villager": [
+          64,
+          675
+        ],
+        "spore:delusioner": [
+          96,
+          864
+        ],
+        "spore:inf_witch": [
+          64,
+          783
+        ],
+        "spore:inf_drowned": [
+          64,
+          94
+        ],
+        "spore:specter": [
+          96,
+          621
+        ],
+        "spore:inf_pillager": [
+          64,
+          472
+        ],
+        "spore:bairn": [
+          64,
+          0
+        ],
+        "spore:spitter": [
+          96,
+          702
+        ],
+        "spore:anatomy_act_10": [
+          64,
+          1309
+        ],
+        "spore:jagd": [
+          96,
+          351
+        ],
+        "spore:inf_vindicator": [
+          64,
+          729
+        ],
+        "spore:anatomy_act_14": [
+          64,
+          1417
+        ],
+        "spore:brotkatze": [
+          128,
+          243
+        ],
+        "spore:inf_evoker": [
+          64,
+          135
+        ],
+        "spore:anatomy_act_13": [
+          64,
+          1390
+        ],
+        "spore:anatomy_act_12": [
+          64,
+          1363
+        ],
+        "spore:anatomy_act_11": [
+          64,
+          1336
+        ],
+        "spore:verfall": [
+          128,
+          1026
+        ],
+        "spore:inf_trader": [
+          64,
+          621
+        ],
+        "spore:anatomy_act_15": [
+          64,
+          1444
+        ],
+        "spore:howler": [
+          96,
+          459
+        ],
+        "spore:busser": [
+          96,
+          270
+        ],
+        "spore:anatomy_act_3": [
+          64,
+          1498
+        ],
+        "spore:anatomy_act_2": [
+          64,
+          1471
+        ],
+        "spore:stahl": [
+          128,
+          999
+        ],
+        "spore:anatomy_act_5": [
+          64,
+          1552
+        ],
+        "spore:gastgaber": [
+          96,
+          1053
+        ],
+        "spore:anatomy_act_4": [
+          64,
+          1525
+        ],
+        "spore:anatomy_act_1": [
+          64,
+          1282
+        ],
+        "spore:verva": [
+          96,
+          999
+        ],
+        "spore:plagued": [
+          64,
+          1147
+        ],
+        "spore:ogre": [
+          128,
+          432
+        ],
+        "spore:inebriater": [
+          96,
+          216
+        ],
+        "spore:inquisitor": [
+          128,
+          324
+        ],
+        "spore:mound": [
+          96,
+          1080
+        ],
+        "spore:griefer": [
+          96,
+          297
+        ],
+        "spore:vanguard": [
+          96,
+          513
+        ],
+        "spore:hindenburg": [
+          128,
+          837
+        ],
+        "spore:sieger": [
+          128,
+          972
+        ],
+        "spore:inf_human": [
+          64,
+          283
+        ],
+        "spore:slasher": [
+          96,
+          675
+        ],
+        "spore:bioblob": [
+          64,
+          1093
+        ],
+        "spore:inf_construct": [
+          64,
+          27
+        ],
+        "spore:scanning_world": [
+          32,
+          1471
+        ],
+        "spore:hindicator": [
+          96,
+          729
+        ],
+        "spore:braiomil": [
+          96,
+          243
+        ],
+        "spore:twisted_creation": [
+          64,
+          1255
+        ],
+        "spore:reaper": [
+          96,
+          54
+        ],
+        "spore:leaper": [
+          96,
+          648
+        ],
+        "spore:lore1": [
+          32,
+          1134
+        ]
+      }
+    },
+    "reliable_advancements:new_tab": {
+      "title": "New Tab",
+      "background": "minecraft:textures/gui/advancements/backgrounds/stone.png",
+      "index": 5,
+      "deleted": true,
+      "roots": [
+        "minecraft:start",
+        "minecraft:andesite_alloy",
+        "minecraft:mound"
+      ],
+      "positions": {
+        "minecraft:start": [
+          0,
+          0
+        ],
+        "minecraft:mound": [
+          0,
+          30
+        ],
+        "minecraft:andesite_alloy": [
+          0,
+          60
+        ],
+        "sporeblock:start": [
+          0,
+          0
+        ],
+        "sporeblock:mound": [
+          0,
+          30
+        ],
+        "sporeblock:andesite_alloy": [
+          0,
+          60
+        ]
+      }
+    },
+    "sporeblock:start": {
+      "title": "Sporeblock",
+      "background": "minecraft:textures/gui/advancements/backgrounds/stone.png",
+      "index": 5,
+      "roots": [
+        "sporeblock:start",
+        "sporeblock:clock",
+        "sporeblock:glue",
+        "sporeblock:iron_nugget",
+        "sporeblock:plough",
+        "sporeblock:pump",
+        "sporeblock:scent",
+        "sporeblock:waterwheel",
+        "sporeblock:andesite_casing"
+      ],
+      "positions": {
+        "sporeblock:mound_copy": [
+          0,
+          37
+        ],
+        "sporeblock:start": [
+          0,
+          -40
+        ],
+        "sporeblock:andesite_alloy_copy": [
+          -1,
+          82
+        ],
+        "sporeblock:mound": [
+          0,
+          0
+        ],
+        "sporeblock:andesite_alloy": [
+          0,
+          80
+        ],
+        "sporeblock:andesite_casing": [
+          0,
+          80
+        ],
+        "sporeblock:plough": [
+          102,
+          44
+        ],
+        "sporeblock:glue": [
+          102,
+          80
+        ],
+        "sporeblock:scent": [
+          -50,
+          64
+        ],
+        "sporeblock:iron_nugget": [
+          0,
+          118
+        ],
+        "sporeblock:miller": [
+          -56,
+          167
+        ],
+        "sporeblock:millstone": [
+          0,
+          174
+        ],
+        "sporeblock:blazeburner": [
+          0,
+          160
+        ],
+        "sporeblock:clock": [
+          -50,
+          98
+        ],
+        "sporeblock:waterwheel": [
+          66,
+          64
+        ],
+        "sporeblock:pump": [
+          66,
+          98
+        ],
+        "sporeblock:andesite": [
+          0,
+          80
+        ],
+        "minecraft:new_advancement": [
+          56,
+          6
+        ],
+        "sporeblock:zinc": [
+          0,
+          40
+        ],
+        "sporeblock:wood": [
+          0,
+          0
+        ],
+        "spore:spore_copy": [
+          52,
+          1
+        ],
+        "sporeblock:hammer": [
+          -50,
+          -21
+        ],
+        "spore_block:human_remains": [
+          -51,
+          160
+        ],
+        "sporeblock:human_remains": [
+          -69,
+          160
+        ],
+        "sporeblock:ar": [
+          -50,
+          199
+        ],
+        "sporeblock:armor_fragment": [
+          -69,
+          198
+        ],
+        "sporeblock:surgery_table": [
+          -109,
+          198
+        ],
+        "sporeblock:incubator": [
+          -147,
+          198
+        ],
+        "sporeblock:egg": [
+          -30,
+          198
+        ],
+        "sporeblock:lab_blocks": [
+          79,
+          330
+        ],
+        "sporeblock:mooshroom": [
+          -30,
+          229
+        ],
+        "sporeblock:brain": [
+          27,
+          330
+        ],
+        "minecraft:hyperevolve": [
+          0,
+          298
+        ],
+        "sporeblock:wand": [
+          -50,
+          15
+        ],
+        "sporeblock:core_destruction": [
+          -94,
+          15
+        ],
+        "sporeblock:trap": [
+          47,
+          0
+        ],
+        "sporeblock:hivemind": [
+          0,
+          298
+        ],
+        "spore:proto_copy": [
+          0,
+          291
+        ],
+        "sporeblock:proto": [
+          0,
+          291
+        ],
+        "sporeblock:snowball": [
+          30,
+          198
+        ],
+        "sporeblock:cdu": [
+          30,
+          229
+        ],
+        "sporeblock:reforged_biomass": [
+          -26,
+          330
+        ],
+        "sporeblock:final": [
+          0,
+          372
+        ],
+        "sporeblock:what_the_fuck": [
+          0,
+          411
+        ],
+        "sporeblock:creative_motor": [
+          0,
+          372
+        ],
+        "sporeblock:go_touch_grass": [
+          0,
+          411
+        ],
+        "sporeblock:copper": [
+          30,
+          80
+        ],
+        "sporeblock:tiab": [
+          -80,
+          80
+        ],
+        "sporeblock:basic_turret": [
+          -109,
+          229
+        ],
+        "sporeblock:advanced_turret": [
+          -147,
+          229
+        ]
+      }
+    },
+    "sporeblock:andesite_alloy": {
+      "background": "minecraft:textures/gui/advancements/backgrounds/stone.png",
+      "index": 5,
+      "deleted": true,
+      "roots": [
+        "sporeblock:andesite_alloy"
+      ]
+    },
+    "sporeblock:mound": {
+      "background": "minecraft:textures/gui/advancements/backgrounds/stone.png",
+      "index": 5,
+      "deleted": true,
+      "roots": [
+        "sporeblock:mound"
+      ]
+    }
+  },
+  "deleted_advancements": {
+    "minecraft:start": {
+      "owner": "reliable_advancements:standalone",
+      "tab": "reliable_advancements:new_tab",
+      "title": "\"It Begins\"",
+      "icon": "minecraft:chest"
+    },
+    "minecraft:mound": {
+      "owner": "reliable_advancements:standalone",
+      "tab": "reliable_advancements:new_tab",
+      "title": "\"Fancy Agriculture\"",
+      "icon": "spore:mound_spawnegg"
+    },
+    "minecraft:andesite_alloy": {
+      "owner": "reliable_advancements:standalone",
+      "tab": "reliable_advancements:new_tab",
+      "title": "\"Sturdier... Rocks?\"",
+      "icon": "create:andesite_alloy"
+    },
+    "sporeblock:mound_copy": {
+      "owner": "reliable_advancements:standalone",
+      "tab": "sporeblock:start",
+      "title": "\"Fancy Agriculture\"",
+      "icon": "spore:mound_spawnegg"
+    },
+    "sporeblock:andesite_alloy_copy": {
+      "owner": "reliable_advancements:standalone",
+      "tab": "sporeblock:start",
+      "title": "\"Sturdier... Rocks?\"",
+      "icon": "create:andesite_alloy"
+    },
+    "sporeblock:andesite_alloy": {
+      "owner": "reliable_advancements:standalone",
+      "tab": "sporeblock:start",
+      "title": "\"Sturdier... Rocks?\"",
+      "icon": "create:andesite_alloy"
+    },
+    "sporeblock:miller": {
+      "owner": "reliable_advancements:standalone",
+      "tab": "sporeblock:start",
+      "title": "\"Cronch cronch\"",
+      "icon": "minecraft:stone"
+    },
+    "sporeblock:millstone": {
+      "owner": "reliable_advancements:standalone",
+      "tab": "sporeblock:start",
+      "title": "\"Cronch cronch\"",
+      "icon": "create:millstone"
+    },
+    "sporeblock:andesite": {
+      "owner": "reliable_advancements:standalone",
+      "tab": "sporeblock:start",
+      "title": "\"The Andesite Age\"",
+      "icon": "create:andesite_casing"
+    },
+    "sporeblock:mound": {
+      "owner": "reliable_advancements:standalone",
+      "tab": "sporeblock:start",
+      "title": "\"Fancy Agriculture\"",
+      "icon": "spore:rotten_log"
+    },
+    "minecraft:new_advancement": {
+      "owner": "reliable_advancements:standalone",
+      "tab": "sporeblock:start",
+      "title": "\"New Advancement\"",
+      "icon": "minecraft:stone"
+    },
+    "spore:spore_copy": {
+      "owner": "reliable_advancements:standalone",
+      "tab": "sporeblock:start",
+      "title": "{\"translate\":\"advancement.spore.spore.title\"}",
+      "icon": "spore:proto_spawnegg"
+    },
+    "spore_block:human_remains": {
+      "owner": "reliable_advancements:standalone",
+      "tab": "sporeblock:start",
+      "title": "\"Bart\"",
+      "icon": "spore:remains"
+    },
+    "sporeblock:ar": {
+      "owner": "reliable_advancements:standalone",
+      "tab": "sporeblock:start",
+      "title": "\"New Advancement\"",
+      "icon": "minecraft:stone"
+    },
+    "minecraft:hyperevolve": {
+      "owner": "reliable_advancements:standalone",
+      "tab": "sporeblock:start",
+      "title": "\"hyper evolved? filler\"",
+      "icon": "minecraft:stone"
+    },
+    "sporeblock:hivemind": {
+      "owner": "reliable_advancements:standalone",
+      "tab": "sporeblock:start",
+      "title": "\"The End?\"",
+      "icon": "spore:proto_spawnegg"
+    },
+    "spore:proto_copy": {
+      "owner": "reliable_advancements:standalone",
+      "tab": "sporeblock:start",
+      "title": "\"Something Once Great...\"",
+      "icon": "spore:proto_spawnegg"
+    },
+    "sporeblock:final": {
+      "owner": "reliable_advancements:standalone",
+      "tab": "sporeblock:start",
+      "title": "\"Complete Mastery\"",
+      "icon": "create:creative_motor"
+    },
+    "sporeblock:go_touch_grass": {
+      "owner": "reliable_advancements:standalone",
+      "tab": "sporeblock:start",
+      "title": "\"No way you\u0027ll actually do that, right?\"",
+      "icon": "create:creative_motor"
+    },
+    "create:root": {
+      "owner": "create:root",
+      "tab": "create:root",
+      "title": "{\"translate\":\"advancement.create.root\"}",
+      "icon": "create:brass_hand"
+    },
+    "create:andesite_alloy": {
+      "owner": "create:root",
+      "tab": "create:root",
+      "title": "{\"translate\":\"advancement.create.andesite_alloy\"}",
+      "icon": "create:andesite_alloy"
+    },
+    "create:water_wheel": {
+      "owner": "create:root",
+      "tab": "create:root",
+      "title": "\"Harnessed Hydraulics\"",
+      "icon": "create:water_wheel"
+    },
+    "create:andesite_casing": {
+      "owner": "create:root",
+      "tab": "create:root",
+      "title": "{\"translate\":\"advancement.create.andesite_casing\"}",
+      "icon": "create:andesite_casing"
+    },
+    "create:windmill": {
+      "owner": "create:root",
+      "tab": "create:root",
+      "title": "{\"translate\":\"advancement.create.windmill\"}",
+      "icon": "create:sail_frame"
+    },
+    "create:windmill_maxed": {
+      "owner": "create:root",
+      "tab": "create:root",
+      "title": "{\"translate\":\"advancement.create.windmill_maxed\"}",
+      "icon": "create:white_sail"
+    },
+    "create:mechanical_press": {
+      "owner": "create:root",
+      "tab": "create:root",
+      "title": "{\"translate\":\"advancement.create.mechanical_press\"}",
+      "icon": "create:mechanical_press"
+    },
+    "create:shifting_gears": {
+      "owner": "create:root",
+      "tab": "create:root",
+      "title": "{\"translate\":\"advancement.create.shifting_gears\"}",
+      "icon": "create:cogwheel"
+    },
+    "create:ejector_maxed": {
+      "owner": "create:root",
+      "tab": "create:root",
+      "title": "{\"translate\":\"advancement.create.ejector_maxed\"}",
+      "icon": "create:weighted_ejector"
+    },
+    "create:encased_fan": {
+      "owner": "create:root",
+      "tab": "create:root",
+      "title": "{\"translate\":\"advancement.create.encased_fan\"}",
+      "icon": "create:encased_fan"
+    },
+    "create:pulley_maxed": {
+      "owner": "create:root",
+      "tab": "create:root",
+      "title": "{\"translate\":\"advancement.create.pulley_maxed\"}",
+      "icon": "create:rope_pulley"
+    },
+    "create:cart_pickup": {
+      "owner": "create:root",
+      "tab": "create:root",
+      "title": "{\"translate\":\"advancement.create.cart_pickup\"}",
+      "icon": "create:chest_minecart_contraption"
+    },
+    "create:millstone": {
+      "owner": "create:root",
+      "tab": "create:root",
+      "title": "{\"translate\":\"advancement.create.millstone\"}",
+      "icon": "create:millstone"
+    },
+    "create:fan_processing": {
+      "owner": "create:root",
+      "tab": "create:root",
+      "title": "{\"translate\":\"advancement.create.fan_processing\"}",
+      "icon": "create:propeller"
+    },
+    "create:anvil_plough": {
+      "owner": "create:root",
+      "tab": "create:root",
+      "title": "{\"translate\":\"advancement.create.anvil_plough\"}",
+      "icon": "minecraft:chipped_anvil"
+    },
+    "create:super_glue": {
+      "owner": "create:root",
+      "tab": "create:root",
+      "title": "{\"translate\":\"advancement.create.super_glue\"}",
+      "icon": "create:super_glue"
+    },
+    "create:saw_processing": {
+      "owner": "create:root",
+      "tab": "create:root",
+      "title": "{\"translate\":\"advancement.create.saw_processing\"}",
+      "icon": "create:mechanical_saw"
+    },
+    "create:contraption_actors": {
+      "owner": "create:root",
+      "tab": "create:root",
+      "title": "{\"translate\":\"advancement.create.contraption_actors\"}",
+      "icon": "create:mechanical_harvester"
+    },
+    "create:portable_storage_interface": {
+      "owner": "create:root",
+      "tab": "create:root",
+      "title": "{\"translate\":\"advancement.create.portable_storage_interface\"}",
+      "icon": "create:portable_storage_interface"
+    },
+    "create:compacting": {
+      "owner": "create:root",
+      "tab": "create:root",
+      "title": "{\"translate\":\"advancement.create.compacting\"}",
+      "icon": "minecraft:iron_block"
+    },
+    "create:belt": {
+      "owner": "create:root",
+      "tab": "create:root",
+      "title": "{\"translate\":\"advancement.create.belt\"}",
+      "icon": "create:belt_connector"
+    },
+    "create:wrench_goggles": {
+      "owner": "create:root",
+      "tab": "create:root",
+      "title": "{\"translate\":\"advancement.create.wrench_goggles\"}",
+      "icon": "create:wrench"
+    },
+    "create:funnel": {
+      "owner": "create:root",
+      "tab": "create:root",
+      "title": "{\"translate\":\"advancement.create.funnel\"}",
+      "icon": "create:andesite_funnel"
+    },
+    "create:stressometer": {
+      "owner": "create:root",
+      "tab": "create:root",
+      "title": "{\"translate\":\"advancement.create.stressometer\"}",
+      "icon": "create:stressometer"
+    },
+    "create:chute": {
+      "owner": "create:root",
+      "tab": "create:root",
+      "title": "{\"translate\":\"advancement.create.chute\"}",
+      "icon": "create:chute"
+    },
+    "create:mechanical_mixer": {
+      "owner": "create:root",
+      "tab": "create:root",
+      "title": "{\"translate\":\"advancement.create.mechanical_mixer\"}",
+      "icon": "create:mechanical_mixer"
+    },
+    "create:stressometer_maxed": {
+      "owner": "create:root",
+      "tab": "create:root",
+      "title": "{\"translate\":\"advancement.create.stressometer_maxed\"}",
+      "icon": "create:stressometer"
+    },
+    "create:belt_funnel_kiss": {
+      "owner": "create:root",
+      "tab": "create:root",
+      "title": "{\"translate\":\"advancement.create.belt_funnel_kiss\"}",
+      "icon": "create:brass_funnel"
+    },
+    "create:cuckoo_clock": {
+      "owner": "create:root",
+      "tab": "create:root",
+      "title": "{\"translate\":\"advancement.create.cuckoo_clock\"}",
+      "icon": "create:cuckoo_clock"
+    },
+    "create:burner": {
+      "owner": "create:root",
+      "tab": "create:root",
+      "title": "{\"translate\":\"advancement.create.burner\"}",
+      "icon": "create:blaze_burner"
+    },
+    "create:lava_wheel_00000": {
+      "owner": "create:root",
+      "tab": "create:root",
+      "title": "{\"translate\":\"advancement.create.lava_wheel_00000\"}",
+      "icon": "create:water_wheel"
+    },
+    "create:cardboard": {
+      "owner": "create:root",
+      "tab": "create:root",
+      "title": "{\"translate\":\"advancement.create.cardboard\"}",
+      "icon": "create:cardboard"
+    },
+    "create:copper": {
+      "owner": "create:root",
+      "tab": "create:root",
+      "title": "{\"translate\":\"advancement.create.copper\"}",
+      "icon": "minecraft:copper_ingot"
+    },
+    "create:hand_crank_000": {
+      "owner": "create:root",
+      "tab": "create:root",
+      "title": "{\"translate\":\"advancement.create.hand_crank_000\"}",
+      "icon": "create:hand_crank"
+    },
+    "create:mechanical_pump_0": {
+      "owner": "create:root",
+      "tab": "create:root",
+      "title": "{\"translate\":\"advancement.create.mechanical_pump_0\"}",
+      "icon": "create:mechanical_pump"
+    },
+    "create:packager": {
+      "owner": "create:root",
+      "tab": "create:root",
+      "title": "{\"translate\":\"advancement.create.packager\"}",
+      "icon": "create:packager"
+    },
+    "create:copper_casing": {
+      "owner": "create:root",
+      "tab": "create:root",
+      "title": "{\"translate\":\"advancement.create.copper_casing\"}",
+      "icon": "create:copper_casing"
+    },
+    "create:stock_ticker": {
+      "owner": "create:root",
+      "tab": "create:root",
+      "title": "{\"translate\":\"advancement.create.stock_ticker\"}",
+      "icon": "create:stock_ticker"
+    },
+    "create:frogport": {
+      "owner": "create:root",
+      "tab": "create:root",
+      "title": "{\"translate\":\"advancement.create.frogport\"}",
+      "icon": "create:package_frogport"
+    },
+    "create:table_cloth_shop": {
+      "owner": "create:root",
+      "tab": "create:root",
+      "title": "{\"translate\":\"advancement.create.table_cloth_shop\"}",
+      "icon": "create:red_table_cloth"
+    },
+    "create:hose_pulley_lava": {
+      "owner": "create:root",
+      "tab": "create:root",
+      "title": "{\"translate\":\"advancement.create.hose_pulley_lava\"}",
+      "icon": "create:hose_pulley"
+    },
+    "create:glass_pipe": {
+      "owner": "create:root",
+      "tab": "create:root",
+      "title": "{\"translate\":\"advancement.create.glass_pipe\"}",
+      "icon": "create:fluid_pipe"
+    },
+    "create:steam_engine_maxed": {
+      "owner": "create:root",
+      "tab": "create:root",
+      "title": "{\"translate\":\"advancement.create.steam_engine_maxed\"}",
+      "icon": "create:steam_engine"
+    },
+    "create:spout": {
+      "owner": "create:root",
+      "tab": "create:root",
+      "title": "{\"translate\":\"advancement.create.spout\"}",
+      "icon": "create:spout"
+    },
+    "create:drain": {
+      "owner": "create:root",
+      "tab": "create:root",
+      "title": "{\"translate\":\"advancement.create.drain\"}",
+      "icon": "create:item_drain"
+    },
+    "create:steam_engine": {
+      "owner": "create:root",
+      "tab": "create:root",
+      "title": "{\"translate\":\"advancement.create.steam_engine\"}",
+      "icon": "create:steam_engine"
+    },
+    "create:foods": {
+      "owner": "create:root",
+      "tab": "create:root",
+      "title": "{\"translate\":\"advancement.create.foods\"}",
+      "icon": "create:chocolate_glazed_berries"
+    },
+    "create:water_supply": {
+      "owner": "create:root",
+      "tab": "create:root",
+      "title": "{\"translate\":\"advancement.create.water_supply\"}",
+      "icon": "minecraft:water_bucket"
+    },
+    "create:factory_gauge": {
+      "owner": "create:root",
+      "tab": "create:root",
+      "title": "{\"translate\":\"advancement.create.factory_gauge\"}",
+      "icon": "create:factory_gauge"
+    },
+    "create:cardboard_armor": {
+      "owner": "create:root",
+      "tab": "create:root",
+      "title": "{\"translate\":\"advancement.create.cardboard_armor\"}",
+      "icon": "create:cardboard_chestplate"
+    },
+    "create:cardboard_armor_trim": {
+      "owner": "create:root",
+      "tab": "create:root",
+      "title": "{\"translate\":\"advancement.create.cardboard_armor_trim\"}",
+      "icon": "create:cardboard_chestplate"
+    },
+    "create:package_chute_throw": {
+      "owner": "create:root",
+      "tab": "create:root",
+      "title": "{\"translate\":\"advancement.create.package_chute_throw\"}",
+      "icon": "create:cardboard_package_12x12"
+    },
+    "create:steam_whistle": {
+      "owner": "create:root",
+      "tab": "create:root",
+      "title": "{\"translate\":\"advancement.create.steam_whistle\"}",
+      "icon": "create:steam_whistle"
+    },
+    "create:hose_pulley": {
+      "owner": "create:root",
+      "tab": "create:root",
+      "title": "{\"translate\":\"advancement.create.hose_pulley\"}",
+      "icon": "create:hose_pulley"
+    },
+    "create:backtank": {
+      "owner": "create:root",
+      "tab": "create:root",
+      "title": "{\"translate\":\"advancement.create.backtank\"}",
+      "icon": "create:copper_backtank"
+    },
+    "create:diving_suit_lava": {
+      "owner": "create:root",
+      "tab": "create:root",
+      "title": "{\"translate\":\"advancement.create.diving_suit_lava\"}",
+      "icon": "create:netherite_diving_helmet"
+    },
+    "create:pipe_organ": {
+      "owner": "create:root",
+      "tab": "create:root",
+      "title": "{\"translate\":\"advancement.create.pipe_organ\"}",
+      "icon": "create:steam_whistle"
+    },
+    "create:diving_suit": {
+      "owner": "create:root",
+      "tab": "create:root",
+      "title": "{\"translate\":\"advancement.create.diving_suit\"}",
+      "icon": "create:copper_diving_helmet"
+    },
+    "create:chocolate_bucket": {
+      "owner": "create:root",
+      "tab": "create:root",
+      "title": "{\"translate\":\"advancement.create.chocolate_bucket\"}",
+      "icon": "create:chocolate_bucket"
+    },
+    "create:chained_drain": {
+      "owner": "create:root",
+      "tab": "create:root",
+      "title": "{\"translate\":\"advancement.create.chained_drain\"}",
+      "icon": "create:item_drain"
+    },
+    "create:cross_streams": {
+      "owner": "create:root",
+      "tab": "create:root",
+      "title": "{\"translate\":\"advancement.create.cross_streams\"}",
+      "icon": "minecraft:cobblestone"
+    },
+    "create:brass": {
+      "owner": "create:root",
+      "tab": "create:root",
+      "title": "{\"translate\":\"advancement.create.brass\"}",
+      "icon": "create:brass_ingot"
+    },
+    "create:haunted_bell": {
+      "owner": "create:root",
+      "tab": "create:root",
+      "title": "{\"translate\":\"advancement.create.haunted_bell\"}",
+      "icon": "create:haunted_bell"
+    },
+    "create:clockwork_bearing": {
+      "owner": "create:root",
+      "tab": "create:root",
+      "title": "{\"translate\":\"advancement.create.clockwork_bearing\"}",
+      "icon": "create:clockwork_bearing"
+    },
+    "create:honey_drain": {
+      "owner": "create:root",
+      "tab": "create:root",
+      "title": "{\"translate\":\"advancement.create.honey_drain\"}",
+      "icon": "minecraft:beehive"
+    },
+    "create:brass_casing": {
+      "owner": "create:root",
+      "tab": "create:root",
+      "title": "{\"translate\":\"advancement.create.brass_casing\"}",
+      "icon": "create:brass_casing"
+    },
+    "create:rose_quartz": {
+      "owner": "create:root",
+      "tab": "create:root",
+      "title": "{\"translate\":\"advancement.create.rose_quartz\"}",
+      "icon": "create:polished_rose_quartz"
+    },
+    "create:crusher_maxed_0000": {
+      "owner": "create:root",
+      "tab": "create:root",
+      "title": "{\"translate\":\"advancement.create.crusher_maxed_0000\"}",
+      "icon": "create:crushing_wheel"
+    },
+    "create:arm_many_targets": {
+      "owner": "create:root",
+      "tab": "create:root",
+      "title": "{\"translate\":\"advancement.create.arm_many_targets\"}",
+      "icon": "create:mechanical_arm"
+    },
+    "create:display_link": {
+      "owner": "create:root",
+      "tab": "create:root",
+      "title": "{\"translate\":\"advancement.create.display_link\"}",
+      "icon": "create:display_link"
+    },
+    "create:deployer": {
+      "owner": "create:root",
+      "tab": "create:root",
+      "title": "{\"translate\":\"advancement.create.deployer\"}",
+      "icon": "create:deployer"
+    },
+    "create:precision_mechanism": {
+      "owner": "create:root",
+      "tab": "create:root",
+      "title": "{\"translate\":\"advancement.create.precision_mechanism\"}",
+      "icon": "create:precision_mechanism"
+    },
+    "create:potato_cannon": {
+      "owner": "create:root",
+      "tab": "create:root",
+      "title": "{\"translate\":\"advancement.create.potato_cannon\"}",
+      "icon": "create:potato_cannon"
+    },
+    "create:speed_controller": {
+      "owner": "create:root",
+      "tab": "create:root",
+      "title": "{\"translate\":\"advancement.create.speed_controller\"}",
+      "icon": "create:rotation_speed_controller"
+    },
+    "create:potato_cannon_collide": {
+      "owner": "create:root",
+      "tab": "create:root",
+      "title": "{\"translate\":\"advancement.create.potato_cannon_collide\"}",
+      "icon": "minecraft:carrot"
+    },
+    "create:mechanical_arm": {
+      "owner": "create:root",
+      "tab": "create:root",
+      "title": "{\"translate\":\"advancement.create.mechanical_arm\"}",
+      "icon": "create:mechanical_arm"
+    },
+    "create:extendo_grip": {
+      "owner": "create:root",
+      "tab": "create:root",
+      "title": "{\"translate\":\"advancement.create.extendo_grip\"}",
+      "icon": "create:extendo_grip"
+    },
+    "create:self_deploying": {
+      "owner": "create:root",
+      "tab": "create:root",
+      "title": "{\"translate\":\"advancement.create.self_deploying\"}",
+      "icon": "minecraft:rail"
+    },
+    "create:mechanical_crafter": {
+      "owner": "create:root",
+      "tab": "create:root",
+      "title": "{\"translate\":\"advancement.create.mechanical_crafter\"}",
+      "icon": "create:mechanical_crafter"
+    },
+    "create:linked_controller": {
+      "owner": "create:root",
+      "tab": "create:root",
+      "title": "{\"translate\":\"advancement.create.linked_controller\"}",
+      "icon": "create:linked_controller"
+    },
+    "create:fist_bump": {
+      "owner": "create:root",
+      "tab": "create:root",
+      "title": "{\"translate\":\"advancement.create.fist_bump\"}",
+      "icon": "create:deployer"
+    },
+    "create:musical_arm": {
+      "owner": "create:root",
+      "tab": "create:root",
+      "title": "{\"translate\":\"advancement.create.musical_arm\"}",
+      "icon": "minecraft:jukebox"
+    },
+    "create:arm_blaze_burner": {
+      "owner": "create:root",
+      "tab": "create:root",
+      "title": "{\"translate\":\"advancement.create.arm_blaze_burner\"}",
+      "icon": "create:blaze_burner"
+    },
+    "create:crushing_wheel": {
+      "owner": "create:root",
+      "tab": "create:root",
+      "title": "{\"translate\":\"advancement.create.crushing_wheel\"}",
+      "icon": "create:crushing_wheel"
+    },
+    "create:extendo_grip_dual": {
+      "owner": "create:root",
+      "tab": "create:root",
+      "title": "{\"translate\":\"advancement.create.extendo_grip_dual\"}",
+      "icon": "create:extendo_grip"
+    },
+    "create:crafter_lazy_000": {
+      "owner": "create:root",
+      "tab": "create:root",
+      "title": "{\"translate\":\"advancement.create.crafter_lazy_000\"}",
+      "icon": "create:mechanical_crafter"
+    },
+    "create:sturdy_sheet": {
+      "owner": "create:root",
+      "tab": "create:root",
+      "title": "{\"translate\":\"advancement.create.sturdy_sheet\"}",
+      "icon": "create:sturdy_sheet"
+    },
+    "create:track_0": {
+      "owner": "create:root",
+      "tab": "create:root",
+      "title": "{\"translate\":\"advancement.create.track_0\"}",
+      "icon": "create:track"
+    },
+    "create:train_whistle": {
+      "owner": "create:root",
+      "tab": "create:root",
+      "title": "{\"translate\":\"advancement.create.train_whistle\"}",
+      "icon": "create:steam_whistle"
+    },
+    "create:train_casing_00": {
+      "owner": "create:root",
+      "tab": "create:root",
+      "title": "{\"translate\":\"advancement.create.train_casing_00\"}",
+      "icon": "create:railway_casing"
+    },
+    "create:track_crafting_factory": {
+      "owner": "create:root",
+      "tab": "create:root",
+      "title": "{\"translate\":\"advancement.create.track_crafting_factory\"}",
+      "icon": "create:mechanical_press"
+    },
+    "create:train": {
+      "owner": "create:root",
+      "tab": "create:root",
+      "title": "{\"translate\":\"advancement.create.train\"}",
+      "icon": "create:track_station"
+    },
+    "create:long_train": {
+      "owner": "create:root",
+      "tab": "create:root",
+      "title": "{\"translate\":\"advancement.create.long_train\"}",
+      "icon": "minecraft:minecart"
+    },
+    "create:train_portal": {
+      "owner": "create:root",
+      "tab": "create:root",
+      "title": "{\"translate\":\"advancement.create.train_portal\"}",
+      "icon": "minecraft:amethyst_block"
+    },
+    "create:long_travel": {
+      "owner": "create:root",
+      "tab": "create:root",
+      "title": "{\"translate\":\"advancement.create.long_travel\"}",
+      "icon": "create:green_seat"
+    },
+    "create:conductor": {
+      "owner": "create:root",
+      "tab": "create:root",
+      "title": "{\"translate\":\"advancement.create.conductor\"}",
+      "icon": "create:schedule"
+    },
+    "create:track_signal": {
+      "owner": "create:root",
+      "tab": "create:root",
+      "title": "{\"translate\":\"advancement.create.track_signal\"}",
+      "icon": "create:track_signal"
+    },
+    "create:train_crash_backwards": {
+      "owner": "create:root",
+      "tab": "create:root",
+      "title": "{\"translate\":\"advancement.create.train_crash_backwards\"}",
+      "icon": "create:incomplete_track"
+    },
+    "create:train_roadkill": {
+      "owner": "create:root",
+      "tab": "create:root",
+      "title": "{\"translate\":\"advancement.create.train_roadkill\"}",
+      "icon": "minecraft:diamond_sword"
+    },
+    "create:display_board_0": {
+      "owner": "create:root",
+      "tab": "create:root",
+      "title": "{\"translate\":\"advancement.create.display_board_0\"}",
+      "icon": "create:display_board"
+    },
+    "create:red_signal": {
+      "owner": "create:root",
+      "tab": "create:root",
+      "title": "{\"translate\":\"advancement.create.red_signal\"}",
+      "icon": "create:track_signal"
+    },
+    "create:train_crash": {
+      "owner": "create:root",
+      "tab": "create:root",
+      "title": "{\"translate\":\"advancement.create.train_crash\"}",
+      "icon": "create:incomplete_track"
+    },
+    "minecraft:adventure/root": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.root.title\"}",
+      "icon": "minecraft:map"
+    },
+    "minecraft:adventure/minecraft_trials_edition": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.minecraft_trials_edition.title\"}",
+      "icon": "minecraft:chiseled_tuff"
+    },
+    "minecraft:adventure/overoverkill": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.overoverkill.title\"}",
+      "icon": "minecraft:mace"
+    },
+    "minecraft:adventure/under_lock_and_key": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.under_lock_and_key.title\"}",
+      "icon": "minecraft:trial_key"
+    },
+    "minecraft:adventure/revaulting": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.revaulting.title\"}",
+      "icon": "minecraft:ominous_trial_key"
+    },
+    "minecraft:adventure/sleep_in_bed": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.sleep_in_bed.title\"}",
+      "icon": "minecraft:red_bed"
+    },
+    "minecraft:adventure/voluntary_exile": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.voluntary_exile.title\"}",
+      "icon": "minecraft:white_banner"
+    },
+    "minecraft:adventure/spyglass_at_parrot": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.spyglass_at_parrot.title\"}",
+      "icon": "minecraft:spyglass"
+    },
+    "minecraft:adventure/play_jukebox_in_meadows": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.play_jukebox_in_meadows.title\"}",
+      "icon": "minecraft:jukebox"
+    },
+    "minecraft:adventure/hero_of_the_village": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.hero_of_the_village.title\"}",
+      "icon": "minecraft:white_banner"
+    },
+    "minecraft:adventure/trade": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.trade.title\"}",
+      "icon": "minecraft:emerald"
+    },
+    "minecraft:adventure/spyglass_at_ghast": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.spyglass_at_ghast.title\"}",
+      "icon": "minecraft:spyglass"
+    },
+    "minecraft:adventure/trim_with_any_armor_pattern": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.trim_with_any_armor_pattern.title\"}",
+      "icon": "minecraft:dune_armor_trim_smithing_template"
+    },
+    "minecraft:adventure/honey_block_slide": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.honey_block_slide.title\"}",
+      "icon": "minecraft:honey_block"
+    },
+    "minecraft:adventure/ol_betsy": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.ol_betsy.title\"}",
+      "icon": "minecraft:crossbow"
+    },
+    "minecraft:adventure/blowback": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "\"Blowback\"",
+      "icon": "minecraft:wind_charge"
+    },
+    "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.lightning_rod_with_villager_no_fire.title\"}",
+      "icon": "minecraft:lightning_rod"
+    },
+    "minecraft:adventure/fall_from_world_height": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.fall_from_world_height.title\"}",
+      "icon": "minecraft:water_bucket"
+    },
+    "minecraft:adventure/walk_on_powder_snow_with_leather_boots": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.walk_on_powder_snow_with_leather_boots.title\"}",
+      "icon": "minecraft:leather_boots"
+    },
+    "minecraft:adventure/salvage_sherd": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.salvage_sherd.title\"}",
+      "icon": "minecraft:brush"
+    },
+    "minecraft:adventure/lighten_up": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.lighten_up.title\"}",
+      "icon": "minecraft:copper_bulb"
+    },
+    "minecraft:adventure/avoid_vibration": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.avoid_vibration.title\"}",
+      "icon": "minecraft:sculk_sensor"
+    },
+    "minecraft:adventure/kill_a_mob": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.kill_a_mob.title\"}",
+      "icon": "minecraft:iron_sword"
+    },
+    "minecraft:adventure/brush_armadillo": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.brush_armadillo.title\"}",
+      "icon": "minecraft:armadillo_scute"
+    },
+    "minecraft:adventure/adventuring_time": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.adventuring_time.title\"}",
+      "icon": "minecraft:diamond_boots"
+    },
+    "minecraft:adventure/read_power_of_chiseled_bookshelf": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.read_power_from_chiseled_bookshelf.title\"}",
+      "icon": "minecraft:chiseled_bookshelf"
+    },
+    "minecraft:adventure/crafters_crafting_crafters": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.crafters_crafting_crafters.title\"}",
+      "icon": "minecraft:crafter"
+    },
+    "minecraft:adventure/who_needs_rockets": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.who_needs_rockets.title\"}",
+      "icon": "minecraft:wind_charge"
+    },
+    "minecraft:adventure/trim_with_all_exclusive_armor_patterns": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.trim_with_all_exclusive_armor_patterns.title\"}",
+      "icon": "minecraft:silence_armor_trim_smithing_template"
+    },
+    "minecraft:adventure/two_birds_one_arrow": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.two_birds_one_arrow.title\"}",
+      "icon": "minecraft:crossbow"
+    },
+    "minecraft:adventure/whos_the_pillager_now": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.whos_the_pillager_now.title\"}",
+      "icon": "minecraft:crossbow"
+    },
+    "minecraft:adventure/shoot_arrow": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.shoot_arrow.title\"}",
+      "icon": "minecraft:bow"
+    },
+    "minecraft:adventure/arbalistic": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.arbalistic.title\"}",
+      "icon": "minecraft:crossbow"
+    },
+    "minecraft:adventure/summon_iron_golem": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.summon_iron_golem.title\"}",
+      "icon": "minecraft:carved_pumpkin"
+    },
+    "minecraft:adventure/kill_all_mobs": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.kill_all_mobs.title\"}",
+      "icon": "minecraft:diamond_sword"
+    },
+    "minecraft:adventure/totem_of_undying": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.totem_of_undying.title\"}",
+      "icon": "minecraft:totem_of_undying"
+    },
+    "minecraft:adventure/spyglass_at_dragon": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.spyglass_at_dragon.title\"}",
+      "icon": "minecraft:spyglass"
+    },
+    "minecraft:adventure/trade_at_world_height": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.trade_at_world_height.title\"}",
+      "icon": "minecraft:emerald"
+    },
+    "minecraft:adventure/throw_trident": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.throw_trident.title\"}",
+      "icon": "minecraft:trident"
+    },
+    "minecraft:adventure/very_very_frightening": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.very_very_frightening.title\"}",
+      "icon": "minecraft:trident"
+    },
+    "minecraft:adventure/craft_decorated_pot_using_only_sherds": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.craft_decorated_pot_using_only_sherds.title\"}",
+      "icon": "minecraft:decorated_pot"
+    },
+    "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.kill_mob_near_sculk_catalyst.title\"}",
+      "icon": "minecraft:sculk_catalyst"
+    },
+    "minecraft:adventure/sniper_duel": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.sniper_duel.title\"}",
+      "icon": "minecraft:arrow"
+    },
+    "minecraft:adventure/bullseye": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.bullseye.title\"}",
+      "icon": "minecraft:target"
+    },
+    "minecraft:end/root": {
+      "owner": "minecraft:end/root",
+      "tab": "minecraft:end/root",
+      "title": "{\"translate\":\"advancements.end.root.title\"}",
+      "icon": "minecraft:end_stone"
+    },
+    "minecraft:end/kill_dragon": {
+      "owner": "minecraft:end/root",
+      "tab": "minecraft:end/root",
+      "title": "{\"translate\":\"advancements.end.kill_dragon.title\"}",
+      "icon": "minecraft:dragon_head"
+    },
+    "minecraft:end/dragon_egg": {
+      "owner": "minecraft:end/root",
+      "tab": "minecraft:end/root",
+      "title": "{\"translate\":\"advancements.end.dragon_egg.title\"}",
+      "icon": "minecraft:dragon_egg"
+    },
+    "minecraft:end/dragon_breath": {
+      "owner": "minecraft:end/root",
+      "tab": "minecraft:end/root",
+      "title": "{\"translate\":\"advancements.end.dragon_breath.title\"}",
+      "icon": "minecraft:dragon_breath"
+    },
+    "minecraft:end/enter_end_gateway": {
+      "owner": "minecraft:end/root",
+      "tab": "minecraft:end/root",
+      "title": "{\"translate\":\"advancements.end.enter_end_gateway.title\"}",
+      "icon": "minecraft:ender_pearl"
+    },
+    "minecraft:end/respawn_dragon": {
+      "owner": "minecraft:end/root",
+      "tab": "minecraft:end/root",
+      "title": "{\"translate\":\"advancements.end.respawn_dragon.title\"}",
+      "icon": "minecraft:end_crystal"
+    },
+    "minecraft:end/find_end_city": {
+      "owner": "minecraft:end/root",
+      "tab": "minecraft:end/root",
+      "title": "{\"translate\":\"advancements.end.find_end_city.title\"}",
+      "icon": "minecraft:purpur_block"
+    },
+    "minecraft:end/elytra": {
+      "owner": "minecraft:end/root",
+      "tab": "minecraft:end/root",
+      "title": "{\"translate\":\"advancements.end.elytra.title\"}",
+      "icon": "minecraft:elytra"
+    },
+    "minecraft:end/levitate": {
+      "owner": "minecraft:end/root",
+      "tab": "minecraft:end/root",
+      "title": "{\"translate\":\"advancements.end.levitate.title\"}",
+      "icon": "minecraft:shulker_shell"
+    },
+    "minecraft:husbandry/root": {
+      "owner": "minecraft:husbandry/root",
+      "tab": "minecraft:husbandry/root",
+      "title": "{\"translate\":\"advancements.husbandry.root.title\"}",
+      "icon": "minecraft:hay_block"
+    },
+    "minecraft:husbandry/allay_deliver_item_to_player": {
+      "owner": "minecraft:husbandry/root",
+      "tab": "minecraft:husbandry/root",
+      "title": "{\"translate\":\"advancements.husbandry.allay_deliver_item_to_player.title\"}",
+      "icon": "minecraft:cookie"
+    },
+    "minecraft:husbandry/make_a_sign_glow": {
+      "owner": "minecraft:husbandry/root",
+      "tab": "minecraft:husbandry/root",
+      "title": "{\"translate\":\"advancements.husbandry.make_a_sign_glow.title\"}",
+      "icon": "minecraft:glow_ink_sac"
+    },
+    "minecraft:husbandry/fishy_business": {
+      "owner": "minecraft:husbandry/root",
+      "tab": "minecraft:husbandry/root",
+      "title": "\"Fishy Business\"",
+      "icon": "minecraft:fishing_rod"
+    },
+    "minecraft:husbandry/silk_touch_nest": {
+      "owner": "minecraft:husbandry/root",
+      "tab": "minecraft:husbandry/root",
+      "title": "{\"translate\":\"advancements.husbandry.silk_touch_nest.title\"}",
+      "icon": "minecraft:bee_nest"
+    },
+    "minecraft:husbandry/tadpole_in_a_bucket": {
+      "owner": "minecraft:husbandry/root",
+      "tab": "minecraft:husbandry/root",
+      "title": "{\"translate\":\"advancements.husbandry.tadpole_in_a_bucket.title\"}",
+      "icon": "minecraft:tadpole_bucket"
+    },
+    "minecraft:husbandry/allay_deliver_cake_to_note_block": {
+      "owner": "minecraft:husbandry/root",
+      "tab": "minecraft:husbandry/root",
+      "title": "{\"translate\":\"advancements.husbandry.allay_deliver_cake_to_note_block.title\"}",
+      "icon": "minecraft:note_block"
+    },
+    "minecraft:husbandry/safely_harvest_honey": {
+      "owner": "minecraft:husbandry/root",
+      "tab": "minecraft:husbandry/root",
+      "title": "{\"translate\":\"advancements.husbandry.safely_harvest_honey.title\"}",
+      "icon": "minecraft:honey_bottle"
+    },
+    "minecraft:husbandry/breed_an_animal": {
+      "owner": "minecraft:husbandry/root",
+      "tab": "minecraft:husbandry/root",
+      "title": "\"The Parrots and the Bats\"",
+      "icon": "minecraft:wheat"
+    },
+    "minecraft:husbandry/ride_a_boat_with_a_goat": {
+      "owner": "minecraft:husbandry/root",
+      "tab": "minecraft:husbandry/root",
+      "title": "{\"translate\":\"advancements.husbandry.ride_a_boat_with_a_goat.title\"}",
+      "icon": "minecraft:oak_boat"
+    },
+    "minecraft:husbandry/tame_an_animal": {
+      "owner": "minecraft:husbandry/root",
+      "tab": "minecraft:husbandry/root",
+      "title": "{\"translate\":\"advancements.husbandry.tame_an_animal.title\"}",
+      "icon": "minecraft:lead"
+    },
+    "minecraft:husbandry/remove_wolf_armor": {
+      "owner": "minecraft:husbandry/root",
+      "tab": "minecraft:husbandry/root",
+      "title": "{\"translate\":\"advancements.husbandry.remove_wolf_armor.title\"}",
+      "icon": "minecraft:shears"
+    },
+    "minecraft:husbandry/bred_all_animals": {
+      "owner": "minecraft:husbandry/root",
+      "tab": "minecraft:husbandry/root",
+      "title": "{\"translate\":\"advancements.husbandry.breed_all_animals.title\"}",
+      "icon": "minecraft:golden_carrot"
+    },
+    "minecraft:husbandry/tactical_fishing": {
+      "owner": "minecraft:husbandry/root",
+      "tab": "minecraft:husbandry/root",
+      "title": "{\"translate\":\"advancements.husbandry.tactical_fishing.title\"}",
+      "icon": "minecraft:pufferfish_bucket"
+    },
+    "minecraft:husbandry/obtain_sniffer_egg": {
+      "owner": "minecraft:husbandry/root",
+      "tab": "minecraft:husbandry/root",
+      "title": "{\"translate\":\"advancements.husbandry.obtain_sniffer_egg.title\"}",
+      "icon": "minecraft:sniffer_egg"
+    },
+    "minecraft:husbandry/plant_seed": {
+      "owner": "minecraft:husbandry/root",
+      "tab": "minecraft:husbandry/root",
+      "title": "{\"translate\":\"advancements.husbandry.plant_seed.title\"}",
+      "icon": "minecraft:wheat"
+    },
+    "minecraft:husbandry/axolotl_in_a_bucket": {
+      "owner": "minecraft:husbandry/root",
+      "tab": "minecraft:husbandry/root",
+      "title": "{\"translate\":\"advancements.husbandry.axolotl_in_a_bucket.title\"}",
+      "icon": "minecraft:axolotl_bucket"
+    },
+    "minecraft:husbandry/balanced_diet": {
+      "owner": "minecraft:husbandry/root",
+      "tab": "minecraft:husbandry/root",
+      "title": "{\"translate\":\"advancements.husbandry.balanced_diet.title\"}",
+      "icon": "minecraft:apple"
+    },
+    "minecraft:husbandry/leash_all_frog_variants": {
+      "owner": "minecraft:husbandry/root",
+      "tab": "minecraft:husbandry/root",
+      "title": "{\"translate\":\"advancements.husbandry.leash_all_frog_variants.title\"}",
+      "icon": "minecraft:lead"
+    },
+    "minecraft:husbandry/whole_pack": {
+      "owner": "minecraft:husbandry/root",
+      "tab": "minecraft:husbandry/root",
+      "title": "{\"translate\":\"advancements.husbandry.whole_pack.title\"}",
+      "icon": "minecraft:bone"
+    },
+    "minecraft:husbandry/wax_on": {
+      "owner": "minecraft:husbandry/root",
+      "tab": "minecraft:husbandry/root",
+      "title": "{\"translate\":\"advancements.husbandry.wax_on.title\"}",
+      "icon": "minecraft:honeycomb"
+    },
+    "minecraft:husbandry/kill_axolotl_target": {
+      "owner": "minecraft:husbandry/root",
+      "tab": "minecraft:husbandry/root",
+      "title": "{\"translate\":\"advancements.husbandry.kill_axolotl_target.title\"}",
+      "icon": "minecraft:tropical_fish_bucket"
+    },
+    "minecraft:husbandry/complete_catalogue": {
+      "owner": "minecraft:husbandry/root",
+      "tab": "minecraft:husbandry/root",
+      "title": "{\"translate\":\"advancements.husbandry.complete_catalogue.title\"}",
+      "icon": "minecraft:cod"
+    },
+    "minecraft:husbandry/repair_wolf_armor": {
+      "owner": "minecraft:husbandry/root",
+      "tab": "minecraft:husbandry/root",
+      "title": "{\"translate\":\"advancements.husbandry.repair_wolf_armor.title\"}",
+      "icon": "minecraft:wolf_armor"
+    },
+    "minecraft:husbandry/feed_snifflet": {
+      "owner": "minecraft:husbandry/root",
+      "tab": "minecraft:husbandry/root",
+      "title": "{\"translate\":\"advancements.husbandry.feed_snifflet.title\"}",
+      "icon": "minecraft:torchflower_seeds"
+    },
+    "minecraft:husbandry/obtain_netherite_hoe": {
+      "owner": "minecraft:husbandry/root",
+      "tab": "minecraft:husbandry/root",
+      "title": "{\"translate\":\"advancements.husbandry.netherite_hoe.title\"}",
+      "icon": "minecraft:netherite_hoe"
+    },
+    "minecraft:husbandry/plant_any_sniffer_seed": {
+      "owner": "minecraft:husbandry/root",
+      "tab": "minecraft:husbandry/root",
+      "title": "{\"translate\":\"advancements.husbandry.plant_any_sniffer_seed.title\"}",
+      "icon": "minecraft:pitcher_pod"
+    },
+    "minecraft:husbandry/froglights": {
+      "owner": "minecraft:husbandry/root",
+      "tab": "minecraft:husbandry/root",
+      "title": "{\"translate\":\"advancements.husbandry.froglights.title\"}",
+      "icon": "minecraft:verdant_froglight"
+    },
+    "minecraft:husbandry/wax_off": {
+      "owner": "minecraft:husbandry/root",
+      "tab": "minecraft:husbandry/root",
+      "title": "\"Wax Off\"",
+      "icon": "minecraft:stone_axe"
+    },
+    "minecraft:nether/root": {
+      "owner": "minecraft:nether/root",
+      "tab": "minecraft:nether/root",
+      "title": "{\"translate\":\"advancements.nether.root.title\"}",
+      "icon": "minecraft:red_nether_bricks"
+    },
+    "minecraft:nether/obtain_crying_obsidian": {
+      "owner": "minecraft:nether/root",
+      "tab": "minecraft:nether/root",
+      "title": "{\"translate\":\"advancements.nether.obtain_crying_obsidian.title\"}",
+      "icon": "minecraft:crying_obsidian"
+    },
+    "minecraft:nether/ride_strider": {
+      "owner": "minecraft:nether/root",
+      "tab": "minecraft:nether/root",
+      "title": "\"This Boat Has Legs\"",
+      "icon": "minecraft:warped_fungus_on_a_stick"
+    },
+    "minecraft:nether/charge_respawn_anchor": {
+      "owner": "minecraft:nether/root",
+      "tab": "minecraft:nether/root",
+      "title": "{\"translate\":\"advancements.nether.charge_respawn_anchor.title\"}",
+      "icon": "minecraft:respawn_anchor"
+    },
+    "minecraft:nether/obtain_ancient_debris": {
+      "owner": "minecraft:nether/root",
+      "tab": "minecraft:nether/root",
+      "title": "{\"translate\":\"advancements.nether.obtain_ancient_debris.title\"}",
+      "icon": "minecraft:ancient_debris"
+    },
+    "minecraft:nether/netherite_armor": {
+      "owner": "minecraft:nether/root",
+      "tab": "minecraft:nether/root",
+      "title": "{\"translate\":\"advancements.nether.netherite_armor.title\"}",
+      "icon": "minecraft:netherite_chestplate"
+    },
+    "minecraft:nether/distract_piglin": {
+      "owner": "minecraft:nether/root",
+      "tab": "minecraft:nether/root",
+      "title": "{\"translate\":\"advancements.nether.distract_piglin.title\"}",
+      "icon": "minecraft:gold_ingot"
+    },
+    "minecraft:nether/return_to_sender": {
+      "owner": "minecraft:nether/root",
+      "tab": "minecraft:nether/root",
+      "title": "{\"translate\":\"advancements.nether.return_to_sender.title\"}",
+      "icon": "minecraft:fire_charge"
+    },
+    "minecraft:nether/find_bastion": {
+      "owner": "minecraft:nether/root",
+      "tab": "minecraft:nether/root",
+      "title": "{\"translate\":\"advancements.nether.find_bastion.title\"}",
+      "icon": "minecraft:polished_blackstone_bricks"
+    },
+    "minecraft:nether/ride_strider_in_overworld_lava": {
+      "owner": "minecraft:nether/root",
+      "tab": "minecraft:nether/root",
+      "title": "{\"translate\":\"advancements.nether.ride_strider_in_overworld_lava.title\"}",
+      "icon": "minecraft:warped_fungus_on_a_stick"
+    },
+    "minecraft:nether/fast_travel": {
+      "owner": "minecraft:nether/root",
+      "tab": "minecraft:nether/root",
+      "title": "\"Subspace Bubble\"",
+      "icon": "minecraft:map"
+    },
+    "minecraft:nether/use_lodestone": {
+      "owner": "minecraft:nether/root",
+      "tab": "minecraft:nether/root",
+      "title": "{\"translate\":\"advancements.nether.use_lodestone.title\"}",
+      "icon": "minecraft:lodestone"
+    },
+    "minecraft:nether/find_fortress": {
+      "owner": "minecraft:nether/root",
+      "tab": "minecraft:nether/root",
+      "title": "{\"translate\":\"advancements.nether.find_fortress.title\"}",
+      "icon": "minecraft:nether_bricks"
+    },
+    "minecraft:nether/explore_nether": {
+      "owner": "minecraft:nether/root",
+      "tab": "minecraft:nether/root",
+      "title": "{\"translate\":\"advancements.nether.explore_nether.title\"}",
+      "icon": "minecraft:netherite_boots"
+    },
+    "minecraft:nether/obtain_blaze_rod": {
+      "owner": "minecraft:nether/root",
+      "tab": "minecraft:nether/root",
+      "title": "{\"translate\":\"advancements.nether.obtain_blaze_rod.title\"}",
+      "icon": "minecraft:blaze_rod"
+    },
+    "minecraft:nether/uneasy_alliance": {
+      "owner": "minecraft:nether/root",
+      "tab": "minecraft:nether/root",
+      "title": "{\"translate\":\"advancements.nether.uneasy_alliance.title\"}",
+      "icon": "minecraft:ghast_tear"
+    },
+    "minecraft:nether/get_wither_skull": {
+      "owner": "minecraft:nether/root",
+      "tab": "minecraft:nether/root",
+      "title": "{\"translate\":\"advancements.nether.get_wither_skull.title\"}",
+      "icon": "minecraft:wither_skeleton_skull"
+    },
+    "minecraft:nether/loot_bastion": {
+      "owner": "minecraft:nether/root",
+      "tab": "minecraft:nether/root",
+      "title": "{\"translate\":\"advancements.nether.loot_bastion.title\"}",
+      "icon": "minecraft:chest"
+    },
+    "minecraft:nether/summon_wither": {
+      "owner": "minecraft:nether/root",
+      "tab": "minecraft:nether/root",
+      "title": "{\"translate\":\"advancements.nether.summon_wither.title\"}",
+      "icon": "minecraft:nether_star"
+    },
+    "minecraft:nether/create_beacon": {
+      "owner": "minecraft:nether/root",
+      "tab": "minecraft:nether/root",
+      "title": "{\"translate\":\"advancements.nether.create_beacon.title\"}",
+      "icon": "minecraft:beacon"
+    },
+    "minecraft:nether/brew_potion": {
+      "owner": "minecraft:nether/root",
+      "tab": "minecraft:nether/root",
+      "title": "{\"translate\":\"advancements.nether.brew_potion.title\"}",
+      "icon": "minecraft:potion"
+    },
+    "minecraft:nether/create_full_beacon": {
+      "owner": "minecraft:nether/root",
+      "tab": "minecraft:nether/root",
+      "title": "{\"translate\":\"advancements.nether.create_full_beacon.title\"}",
+      "icon": "minecraft:beacon"
+    },
+    "minecraft:nether/all_potions": {
+      "owner": "minecraft:nether/root",
+      "tab": "minecraft:nether/root",
+      "title": "{\"translate\":\"advancements.nether.all_potions.title\"}",
+      "icon": "minecraft:milk_bucket"
+    },
+    "minecraft:nether/all_effects": {
+      "owner": "minecraft:nether/root",
+      "tab": "minecraft:nether/root",
+      "title": "{\"translate\":\"advancements.nether.all_effects.title\"}",
+      "icon": "minecraft:bucket"
+    },
+    "minecraft:story/root": {
+      "owner": "minecraft:story/root",
+      "tab": "minecraft:story/root",
+      "title": "{\"translate\":\"advancements.story.root.title\"}",
+      "icon": "minecraft:grass_block"
+    },
+    "minecraft:story/mine_stone": {
+      "owner": "minecraft:story/root",
+      "tab": "minecraft:story/root",
+      "title": "{\"translate\":\"advancements.story.mine_stone.title\"}",
+      "icon": "minecraft:wooden_pickaxe"
+    },
+    "minecraft:story/upgrade_tools": {
+      "owner": "minecraft:story/root",
+      "tab": "minecraft:story/root",
+      "title": "{\"translate\":\"advancements.story.upgrade_tools.title\"}",
+      "icon": "minecraft:stone_pickaxe"
+    },
+    "minecraft:story/smelt_iron": {
+      "owner": "minecraft:story/root",
+      "tab": "minecraft:story/root",
+      "title": "{\"translate\":\"advancements.story.smelt_iron.title\"}",
+      "icon": "minecraft:iron_ingot"
+    },
+    "minecraft:story/lava_bucket": {
+      "owner": "minecraft:story/root",
+      "tab": "minecraft:story/root",
+      "title": "{\"translate\":\"advancements.story.lava_bucket.title\"}",
+      "icon": "minecraft:lava_bucket"
+    },
+    "minecraft:story/form_obsidian": {
+      "owner": "minecraft:story/root",
+      "tab": "minecraft:story/root",
+      "title": "{\"translate\":\"advancements.story.form_obsidian.title\"}",
+      "icon": "minecraft:obsidian"
+    },
+    "minecraft:story/obtain_armor": {
+      "owner": "minecraft:story/root",
+      "tab": "minecraft:story/root",
+      "title": "{\"translate\":\"advancements.story.obtain_armor.title\"}",
+      "icon": "minecraft:iron_chestplate"
+    },
+    "minecraft:story/deflect_arrow": {
+      "owner": "minecraft:story/root",
+      "tab": "minecraft:story/root",
+      "title": "{\"translate\":\"advancements.story.deflect_arrow.title\"}",
+      "icon": "minecraft:shield"
+    },
+    "minecraft:story/iron_tools": {
+      "owner": "minecraft:story/root",
+      "tab": "minecraft:story/root",
+      "title": "{\"translate\":\"advancements.story.iron_tools.title\"}",
+      "icon": "minecraft:iron_pickaxe"
+    },
+    "minecraft:story/enter_the_nether": {
+      "owner": "minecraft:story/root",
+      "tab": "minecraft:story/root",
+      "title": "{\"translate\":\"advancements.story.enter_the_nether.title\"}",
+      "icon": "minecraft:flint_and_steel"
+    },
+    "minecraft:story/cure_zombie_villager": {
+      "owner": "minecraft:story/root",
+      "tab": "minecraft:story/root",
+      "title": "{\"translate\":\"advancements.story.cure_zombie_villager.title\"}",
+      "icon": "minecraft:golden_apple"
+    },
+    "minecraft:story/follow_ender_eye": {
+      "owner": "minecraft:story/root",
+      "tab": "minecraft:story/root",
+      "title": "{\"translate\":\"advancements.story.follow_ender_eye.title\"}",
+      "icon": "minecraft:ender_eye"
+    },
+    "minecraft:story/mine_diamond": {
+      "owner": "minecraft:story/root",
+      "tab": "minecraft:story/root",
+      "title": "{\"translate\":\"advancements.story.mine_diamond.title\"}",
+      "icon": "minecraft:diamond"
+    },
+    "minecraft:story/enter_the_end": {
+      "owner": "minecraft:story/root",
+      "tab": "minecraft:story/root",
+      "title": "{\"translate\":\"advancements.story.enter_the_end.title\"}",
+      "icon": "minecraft:end_stone"
+    },
+    "minecraft:story/shiny_gear": {
+      "owner": "minecraft:story/root",
+      "tab": "minecraft:story/root",
+      "title": "{\"translate\":\"advancements.story.shiny_gear.title\"}",
+      "icon": "minecraft:diamond_chestplate"
+    },
+    "minecraft:story/enchant_item": {
+      "owner": "minecraft:story/root",
+      "tab": "minecraft:story/root",
+      "title": "{\"translate\":\"advancements.story.enchant_item.title\"}",
+      "icon": "minecraft:enchanted_book"
+    },
+    "spore:spore": {
+      "owner": "spore:spore",
+      "tab": "spore:spore",
+      "title": "\"Spore\"",
+      "icon": "spore:proto_spawnegg"
+    },
+    "spore:inf_mobs": {
+      "owner": "spore:spore",
+      "tab": "spore:spore",
+      "title": "{\"translate\":\"advancement.spore.inf_mobs.title\"}",
+      "icon": "spore:mutated_fiber"
+    },
+    "spore:inf_witch": {
+      "owner": "spore:spore",
+      "tab": "spore:spore",
+      "title": "{\"translate\":\"advancement.spore.inf_witch.title\"}",
+      "icon": "spore:inf_witch_spawnegg"
+    },
+    "spore:inf_evoker": {
+      "owner": "spore:spore",
+      "tab": "spore:spore",
+      "title": "{\"translate\":\"advancement.spore.inf_evoker.title\"}",
+      "icon": "spore:inf_evo_spawnegg"
+    },
+    "spore:inf_husk": {
+      "owner": "spore:spore",
+      "tab": "spore:spore",
+      "title": "{\"translate\":\"advancement.spore.inf_husk.title\"}",
+      "icon": "spore:inf_husk_spawnegg"
+    },
+    "spore:scamper": {
+      "owner": "spore:spore",
+      "tab": "spore:spore",
+      "title": "{\"translate\":\"advancement.spore.scamper.title\"}",
+      "icon": "spore:scamper_spawnegg"
+    },
+    "spore:gastgaber": {
+      "owner": "spore:spore",
+      "tab": "spore:spore",
+      "title": "{\"translate\":\"advancement.spore.gastgaber.title\"}",
+      "icon": "spore:gastgaber_spawnegg"
+    },
+    "spore:scavenger": {
+      "owner": "spore:spore",
+      "tab": "spore:spore",
+      "title": "{\"translate\":\"advancement.spore.scavenger.title\"}",
+      "icon": "spore:scavenger_spawnegg"
+    },
+    "spore:inf_pillager": {
+      "owner": "spore:spore",
+      "tab": "spore:spore",
+      "title": "{\"translate\":\"advancement.spore.inf_pillager.title\"}",
+      "icon": "spore:inf_pillager_spawnegg"
+    },
+    "spore:bairn": {
+      "owner": "spore:spore",
+      "tab": "spore:spore",
+      "title": "{\"translate\":\"advancement.spore.bairn.title\"}",
+      "icon": "spore:bairn_spawnegg"
+    },
+    "spore:inf_vindicator": {
+      "owner": "spore:spore",
+      "tab": "spore:spore",
+      "title": "{\"translate\":\"advancement.spore.inf_vindicator.title\"}",
+      "icon": "spore:inf_vind_spawnegg"
+    },
+    "spore:inf_trader": {
+      "owner": "spore:spore",
+      "tab": "spore:spore",
+      "title": "{\"translate\":\"advancement.spore.inf_wanderer.title\"}",
+      "icon": "spore:inf_wanderer_spawnegg"
+    },
+    "spore:mephitic": {
+      "owner": "spore:spore",
+      "tab": "spore:spore",
+      "title": "{\"translate\":\"advancement.spore.mephitic.title\"}",
+      "icon": "spore:meph_spawnegg"
+    },
+    "spore:inf_villager": {
+      "owner": "spore:spore",
+      "tab": "spore:spore",
+      "title": "{\"translate\":\"advancement.spore.inf_villager.title\"}",
+      "icon": "spore:inf_villager_spawnegg"
+    },
+    "spore:inf_drowned": {
+      "owner": "spore:spore",
+      "tab": "spore:spore",
+      "title": "{\"translate\":\"advancement.spore.inf_drowned.title\"}",
+      "icon": "spore:inf_drowned_spawnegg"
+    },
+    "spore:jagd": {
+      "owner": "spore:spore",
+      "tab": "spore:spore",
+      "title": "{\"translate\":\"advancement.spore.jagd.title\"}",
+      "icon": "spore:jagd_spawnegg"
+    },
+    "spore:volatile": {
+      "owner": "spore:spore",
+      "tab": "spore:spore",
+      "title": "{\"translate\":\"advancement.spore.volatile.title\"}",
+      "icon": "spore:volatile_spawnegg"
+    },
+    "spore:bloater": {
+      "owner": "spore:spore",
+      "tab": "spore:spore",
+      "title": "{\"translate\":\"advancement.spore.bloater.title\"}",
+      "icon": "spore:bloater_spawnegg"
+    },
+    "spore:hindicator": {
+      "owner": "spore:spore",
+      "tab": "spore:spore",
+      "title": "{\"translate\":\"advancement.spore.hindicator.title\"}",
+      "icon": "spore:hvindicator_spawnegg"
+    },
+    "spore:lost_technology": {
+      "owner": "spore:spore",
+      "tab": "spore:spore",
+      "title": "{\"translate\":\"advancement.spore.compound_plate.title\"}",
+      "icon": "spore:compound_plate"
+    },
+    "spore:inf_player": {
+      "owner": "spore:spore",
+      "tab": "spore:spore",
+      "title": "{\"translate\":\"advancement.spore.inf_player.title\"}",
+      "icon": "spore:inf_player_spawnegg"
+    },
+    "spore:spitter": {
+      "owner": "spore:spore",
+      "tab": "spore:spore",
+      "title": "{\"translate\":\"advancement.spore.spitter.title\"}",
+      "icon": "spore:spitter_spawnegg"
+    },
+    "spore:inf_construct": {
+      "owner": "spore:spore",
+      "tab": "spore:spore",
+      "title": "{\"translate\":\"advancement.spore.inf_contruct.title\"}",
+      "icon": "spore:construct_spawnegg"
+    },
+    "spore:naiad": {
+      "owner": "spore:spore",
+      "tab": "spore:spore",
+      "title": "{\"translate\":\"advancement.spore.naiad.title\"}",
+      "icon": "spore:naiad_spawnegg"
+    },
+    "spore:hevoker": {
+      "owner": "spore:spore",
+      "tab": "spore:spore",
+      "title": "{\"translate\":\"advancement.spore.hevoker.title\"}",
+      "icon": "spore:hevoker_spawnegg"
+    },
+    "spore:brute": {
+      "owner": "spore:spore",
+      "tab": "spore:spore",
+      "title": "{\"translate\":\"advancement.spore.brute.title\"}",
+      "icon": "spore:brute_spawnegg"
+    },
+    "spore:focused_searched": {
+      "owner": "spore:spore",
+      "tab": "spore:spore",
+      "title": "{\"translate\":\"advancement.spore.zoaholic.title\"}",
+      "icon": "spore:zoaholic"
+    },
+    "spore:specter": {
+      "owner": "spore:spore",
+      "tab": "spore:spore",
+      "title": "{\"translate\":\"advancement.spore.specter.title\"}",
+      "icon": "spore:specter_spawnegg"
+    },
+    "spore:inf_human": {
+      "owner": "spore:spore",
+      "tab": "spore:spore",
+      "title": "{\"translate\":\"advancement.spore.inf_human.title\"}",
+      "icon": "spore:infected_human_spawnegg"
+    },
+    "spore:scanning_world": {
+      "owner": "spore:spore",
+      "tab": "spore:spore",
+      "title": "{\"translate\":\"advancement.spore.scanner.title\"}",
+      "icon": "spore:scanner"
+    },
+    "spore:lore1": {
+      "owner": "spore:spore",
+      "tab": "spore:spore",
+      "title": "{\"translate\":\"advancement.spore.lore_1.title\"}",
+      "icon": "spore:corrupted_record"
+    },
+    "spore:plagued": {
+      "owner": "spore:spore",
+      "tab": "spore:spore",
+      "title": "{\"translate\":\"advancement.spore.plagued.title\"}",
+      "icon": "spore:plagued_spawnegg"
+    },
+    "spore:proto": {
+      "owner": "spore:spore",
+      "tab": "spore:spore",
+      "title": "{\"translate\":\"advancement.spore.proto.title\"}",
+      "icon": "spore:proto_spawnegg"
+    },
+    "spore:leaper": {
+      "owner": "spore:spore",
+      "tab": "spore:spore",
+      "title": "{\"translate\":\"advancement.spore.leaper.title\"}",
+      "icon": "spore:leaper_spawnegg"
+    },
+    "spore:inf_diseased_villager": {
+      "owner": "spore:spore",
+      "tab": "spore:spore",
+      "title": "{\"translate\":\"advancement.spore.inf_diseased_villager.title\"}",
+      "icon": "spore:inf_diseased_villager_spawnegg"
+    },
+    "spore:thorn": {
+      "owner": "spore:spore",
+      "tab": "spore:spore",
+      "title": "{\"translate\":\"advancement.spore.thorn.title\"}",
+      "icon": "spore:thorn_spawnegg"
+    },
+    "spore:inf_hazmat": {
+      "owner": "spore:spore",
+      "tab": "spore:spore",
+      "title": "{\"translate\":\"advancement.spore.inf_hazmat.title\"}",
+      "icon": "spore:inf_hazmat_spawnegg"
+    },
+    "spore:stalker": {
+      "owner": "spore:spore",
+      "tab": "spore:spore",
+      "title": "{\"translate\":\"advancement.spore.stalker.title\"}",
+      "icon": "spore:stalker_spawnegg"
+    },
+    "spore:gorgon": {
+      "owner": "spore:spore",
+      "tab": "spore:spore",
+      "title": "{\"translate\":\"advancement.spore.gorgon.title\"}",
+      "icon": "spore:gorgon_spawnegg"
+    },
+    "spore:lacerator": {
+      "owner": "spore:spore",
+      "tab": "spore:spore",
+      "title": "{\"translate\":\"advancement.spore.lacerator.title\"}",
+      "icon": "spore:lacerator_spawnegg"
+    },
+    "spore:anatomy_act_7": {
+      "owner": "spore:spore",
+      "tab": "spore:spore",
+      "title": "{\"translate\":\"advancement.spore.anatomy_act_7.title\"}",
+      "icon": "spore:alveolic_sack"
+    },
+    "spore:anatomy_act_6": {
+      "owner": "spore:spore",
+      "tab": "spore:spore",
+      "title": "{\"translate\":\"advancement.spore.anatomy_act_6.title\"}",
+      "icon": "spore:cerebrum"
+    },
+    "spore:anatomy_act_9": {
+      "owner": "spore:spore",
+      "tab": "spore:spore",
+      "title": "{\"translate\":\"advancement.spore.anatomy_act_9.title\"}",
+      "icon": "spore:corrosive_sack"
+    },
+    "spore:anatomy_act_8": {
+      "owner": "spore:spore",
+      "tab": "spore:spore",
+      "title": "{\"translate\":\"advancement.spore.anatomy_act_8.title\"}",
+      "icon": "spore:altered_spleen"
+    },
+    "spore:anatomy_act_10": {
+      "owner": "spore:spore",
+      "tab": "spore:spore",
+      "title": "{\"translate\":\"advancement.spore.anatomy_act_10.title\"}",
+      "icon": "spore:organoid_membrane"
+    },
+    "spore:anatomy_act_14": {
+      "owner": "spore:spore",
+      "tab": "spore:spore",
+      "title": "{\"translate\":\"advancement.spore.anatomy_act_14.title\"}",
+      "icon": "spore:fins"
+    },
+    "spore:anatomy_act_13": {
+      "owner": "spore:spore",
+      "tab": "spore:spore",
+      "title": "{\"translate\":\"advancement.spore.anatomy_act_13.title\"}",
+      "icon": "spore:ligaments"
+    },
+    "spore:anatomy_act_12": {
+      "owner": "spore:spore",
+      "tab": "spore:spore",
+      "title": "{\"translate\":\"advancement.spore.anatomy_act_12.title\"}",
+      "icon": "spore:acidic_gland"
+    },
+    "spore:anatomy_act_11": {
+      "owner": "spore:spore",
+      "tab": "spore:spore",
+      "title": "{\"translate\":\"advancement.spore.anatomy_act_11.title\"}",
+      "icon": "spore:amalgamated_heart"
+    },
+    "spore:anatomy_act_15": {
+      "owner": "spore:spore",
+      "tab": "spore:spore",
+      "title": "{\"translate\":\"advancement.spore.anatomy_act_15.title\"}",
+      "icon": "spore:hyperbolized_liver"
+    },
+    "spore:anatomy_act_3": {
+      "owner": "spore:spore",
+      "tab": "spore:spore",
+      "title": "{\"translate\":\"advancement.spore.anatomy_act_3.title\"}",
+      "icon": "spore:mutated_heart"
+    },
+    "spore:anatomy_act_2": {
+      "owner": "spore:spore",
+      "tab": "spore:spore",
+      "title": "{\"translate\":\"advancement.spore.anatomy_act_2.title\"}",
+      "icon": "spore:armor_fragment"
+    },
+    "spore:anatomy_act_5": {
+      "owner": "spore:spore",
+      "tab": "spore:spore",
+      "title": "{\"translate\":\"advancement.spore.anatomy_act_5.title\"}",
+      "icon": "spore:wing_membrane"
+    },
+    "spore:anatomy_act_4": {
+      "owner": "spore:spore",
+      "tab": "spore:spore",
+      "title": "{\"translate\":\"advancement.spore.anatomy_act_4.title\"}",
+      "icon": "spore:mutated_fiber"
+    },
+    "spore:anatomy_act_1": {
+      "owner": "spore:spore",
+      "tab": "spore:spore",
+      "title": "{\"translate\":\"advancement.spore.anatomy_act_1.title\"}",
+      "icon": "spore:claw_fragment"
+    },
+    "spore:ogre": {
+      "owner": "spore:spore",
+      "tab": "spore:spore",
+      "title": "{\"translate\":\"advancement.spore.ogre.title\"}",
+      "icon": "spore:ogre_spawnegg"
+    },
+    "spore:mound": {
+      "owner": "spore:spore",
+      "tab": "spore:spore",
+      "title": "{\"translate\":\"advancement.spore.mound.title\"}",
+      "icon": "spore:mound_spawnegg"
+    },
+    "spore:braiomil": {
+      "owner": "spore:spore",
+      "tab": "spore:spore",
+      "title": "{\"translate\":\"advancement.spore.braiomil.title\"}",
+      "icon": "spore:braio_spawnegg"
+    },
+    "spore:twisted_creation": {
+      "owner": "spore:spore",
+      "tab": "spore:spore",
+      "title": "{\"translate\":\"advancement.spore.surgery_table.title\"}",
+      "icon": "spore:surgery_table"
+    },
+    "spore:hollen": {
+      "owner": "spore:spore",
+      "tab": "spore:spore",
+      "title": "{\"translate\":\"advancement.spore.hollen.title\"}",
+      "icon": "spore:hollen_spawnegg"
+    },
+    "spore:freezing_protocole": {
+      "owner": "spore:spore",
+      "tab": "spore:spore",
+      "title": "{\"translate\":\"advancement.spore.cdu.title\"}",
+      "icon": "spore:cdu"
+    },
+    "spore:gargoyle": {
+      "owner": "spore:spore",
+      "tab": "spore:spore",
+      "title": "{\"translate\":\"advancement.spore.gargoyle.title\"}",
+      "icon": "spore:garg_spawnegg"
+    },
+    "spore:umarmed": {
+      "owner": "spore:spore",
+      "tab": "spore:spore",
+      "title": "{\"translate\":\"advancement.spore.umarmed.title\"}",
+      "icon": "spore:umarmed_spawnegg"
+    },
+    "spore:howler": {
+      "owner": "spore:spore",
+      "tab": "spore:spore",
+      "title": "{\"translate\":\"advancement.spore.howler.title\"}",
+      "icon": "spore:howler_spawnegg"
+    },
+    "spore:vanguard": {
+      "owner": "spore:spore",
+      "tab": "spore:spore",
+      "title": "{\"translate\":\"advancement.spore.vanguard.title\"}",
+      "icon": "spore:vanguard_spawnegg"
+    },
+    "spore:slasher": {
+      "owner": "spore:spore",
+      "tab": "spore:spore",
+      "title": "{\"translate\":\"advancement.spore.slasher.title\"}",
+      "icon": "spore:slasher_spawnegg"
+    },
+    "spore:vigil": {
+      "owner": "spore:spore",
+      "tab": "spore:spore",
+      "title": "{\"translate\":\"advancement.spore.vigil.title\"}",
+      "icon": "spore:vigil_spawnegg"
+    },
+    "spore:protector": {
+      "owner": "spore:spore",
+      "tab": "spore:spore",
+      "title": "{\"translate\":\"advancement.spore.protector.title\"}",
+      "icon": "spore:prot_spawnegg"
+    },
+    "spore:knight": {
+      "owner": "spore:spore",
+      "tab": "spore:spore",
+      "title": "{\"translate\":\"advancement.spore.knight.title\"}",
+      "icon": "spore:knight_spawnegg"
+    },
+    "spore:delusioner": {
+      "owner": "spore:spore",
+      "tab": "spore:spore",
+      "title": "{\"translate\":\"advancement.spore.delusioner.title\"}",
+      "icon": "spore:delusioner_spawnegg"
+    },
+    "spore:inebriater": {
+      "owner": "spore:spore",
+      "tab": "spore:spore",
+      "title": "{\"translate\":\"advancement.spore.inebriater.title\"}",
+      "icon": "spore:inebriater_spawnegg"
+    },
+    "spore:nuclea": {
+      "owner": "spore:spore",
+      "tab": "spore:spore",
+      "title": "{\"translate\":\"advancement.spore.nuclea.title\"}",
+      "icon": "spore:nuclea_spawnegg"
+    },
+    "spore:grober": {
+      "owner": "spore:spore",
+      "tab": "spore:spore",
+      "title": "{\"translate\":\"advancement.spore.grober.title\"}",
+      "icon": "spore:groberfub_spawnegg"
+    },
+    "spore:inquisitor": {
+      "owner": "spore:spore",
+      "tab": "spore:spore",
+      "title": "{\"translate\":\"advancement.spore.inquisitor.title\"}",
+      "icon": "spore:inquisitor_spawnegg"
+    },
+    "spore:griefer": {
+      "owner": "spore:spore",
+      "tab": "spore:spore",
+      "title": "{\"translate\":\"advancement.spore.griefer.title\"}",
+      "icon": "spore:griefer_spawnegg"
+    },
+    "spore:usurper": {
+      "owner": "spore:spore",
+      "tab": "spore:spore",
+      "title": "{\"translate\":\"advancement.spore.usurper.title\"}",
+      "icon": "spore:usurper_spawnegg"
+    },
+    "spore:braurei": {
+      "owner": "spore:spore",
+      "tab": "spore:spore",
+      "title": "{\"translate\":\"advancement.spore.braurei.title\"}",
+      "icon": "spore:braurei_spawnegg"
+    },
+    "spore:wendigo": {
+      "owner": "spore:spore",
+      "tab": "spore:spore",
+      "title": "{\"translate\":\"advancement.spore.wendigo.title\"}",
+      "icon": "spore:wendigo_spawnegg"
+    },
+    "spore:bioblob": {
+      "owner": "spore:spore",
+      "tab": "spore:spore",
+      "title": "{\"translate\":\"advancement.spore.biobloob.title\"}",
+      "icon": "spore:biobloob_spawnegg"
+    },
+    "spore:reaper": {
+      "owner": "spore:spore",
+      "tab": "spore:spore",
+      "title": "{\"translate\":\"advancement.spore.reaper.title\"}",
+      "icon": "spore:reaper_spawnegg"
+    },
+    "spore:reconstructor": {
+      "owner": "spore:spore",
+      "tab": "spore:spore",
+      "title": "{\"translate\":\"advancement.spore.reconstructor.title\"}",
+      "icon": "spore:reconstructor_spawnegg"
+    },
+    "spore:kraken": {
+      "owner": "spore:spore",
+      "tab": "spore:spore",
+      "title": "{\"translate\":\"advancement.spore.kraken.title\"}",
+      "icon": "spore:kraken_spawnegg"
+    },
+    "spore:saugling": {
+      "owner": "spore:spore",
+      "tab": "spore:spore",
+      "title": "{\"translate\":\"advancement.spore.saugling.title\"}",
+      "icon": "spore:saugling_spawnegg"
+    },
+    "spore:busser": {
+      "owner": "spore:spore",
+      "tab": "spore:spore",
+      "title": "{\"translate\":\"advancement.spore.busser.title\"}",
+      "icon": "spore:busser_spawnegg"
+    },
+    "spore:chemist": {
+      "owner": "spore:spore",
+      "tab": "spore:spore",
+      "title": "{\"translate\":\"advancement.spore.chemist.title\"}",
+      "icon": "spore:chemist_spawnegg"
+    },
+    "spore:hohlfresser": {
+      "owner": "spore:spore",
+      "tab": "spore:spore",
+      "title": "{\"translate\":\"advancement.spore.hohlfresser.title\"}",
+      "icon": "spore:hohlfresser_spawnegg"
+    },
+    "spore:conductor": {
+      "owner": "spore:spore",
+      "tab": "spore:spore",
+      "title": "{\"translate\":\"advancement.spore.conductor.title\"}",
+      "icon": "spore:conductor_spawnegg"
+    },
+    "spore:hive": {
+      "owner": "spore:spore",
+      "tab": "spore:spore",
+      "title": "{\"translate\":\"advancement.spore.hivetumor.title\"}",
+      "icon": "spore:hive_spawnegg"
+    },
+    "spore:brotkatze": {
+      "owner": "spore:spore",
+      "tab": "spore:spore",
+      "title": "{\"translate\":\"advancement.spore.brotkatze.title\"}",
+      "icon": "spore:brotkatze_spawnegg"
+    },
+    "spore:verva": {
+      "owner": "spore:spore",
+      "tab": "spore:spore",
+      "title": "{\"translate\":\"advancement.spore.verva.title\"}",
+      "icon": "spore:verva_spawnegg"
+    },
+    "spore:leviathan": {
+      "owner": "spore:spore",
+      "tab": "spore:spore",
+      "title": "{\"translate\":\"advancement.spore.leviathan.title\"}",
+      "icon": "spore:levi_spawnegg"
+    },
+    "spore:verfall": {
+      "owner": "spore:spore",
+      "tab": "spore:spore",
+      "title": "{\"translate\":\"advancement.spore.verfall.title\"}",
+      "icon": "spore:verfall_spawnegg"
+    },
+    "spore:sieger": {
+      "owner": "spore:spore",
+      "tab": "spore:spore",
+      "title": "{\"translate\":\"advancement.spore.sieger.title\"}",
+      "icon": "spore:sieger_spawnegg"
+    },
+    "spore:howitzer": {
+      "owner": "spore:spore",
+      "tab": "spore:spore",
+      "title": "{\"translate\":\"advancement.spore.howitzer.title\"}",
+      "icon": "spore:howitzer_spawnegg"
+    },
+    "spore:hindenburg": {
+      "owner": "spore:spore",
+      "tab": "spore:spore",
+      "title": "{\"translate\":\"advancement.spore.hindenburg.title\"}",
+      "icon": "spore:hinden_spawnegg"
+    },
+    "spore:gazen": {
+      "owner": "spore:spore",
+      "tab": "spore:spore",
+      "title": "{\"translate\":\"advancement.spore.gazen.title\"}",
+      "icon": "spore:gazen_spawnegg"
+    },
+    "spore:stahl": {
+      "owner": "spore:spore",
+      "tab": "spore:spore",
+      "title": "{\"translate\":\"advancement.spore.stahl.title\"}",
+      "icon": "spore:stahl_spawnegg"
+    }
+  },
+  "derived_presentation": {
+    "minecraft:story/root": {
+      "title": "Minecraft",
+      "icon": "minecraft:grass_block",
+      "background": "minecraft:textures/gui/advancements/backgrounds/stone.png"
+    },
+    "minecraft:adventure/root": {
+      "title": "Adventure",
+      "icon": "minecraft:map",
+      "background": "minecraft:textures/gui/advancements/backgrounds/adventure.png"
+    },
+    "minecraft:husbandry/root": {
+      "title": "Husbandry",
+      "icon": "minecraft:hay_block",
+      "background": "minecraft:textures/gui/advancements/backgrounds/husbandry.png"
+    },
+    "minecraft:nether/root": {
+      "title": "Nether",
+      "icon": "minecraft:red_nether_bricks",
+      "background": "minecraft:textures/gui/advancements/backgrounds/nether.png"
+    },
+    "minecraft:end/root": {
+      "title": "The End",
+      "icon": "minecraft:end_stone",
+      "background": "minecraft:textures/gui/advancements/backgrounds/end.png"
+    },
+    "create:root": {
+      "title": "Welcome to Create",
+      "icon": "create:brass_hand",
+      "background": "create:textures/gui/advancements.png"
+    },
+    "spore:spore": {
+      "title": "Spore",
+      "icon": "spore:proto_spawnegg",
+      "background": "spore:textures/block/laboratory_block3.png"
+    },
+    "minecraft:start": {
+      "title": "It Begins",
+      "icon": "minecraft:chest"
+    },
+    "sporeblock:start": {
+      "title": "It Begins",
+      "icon": "minecraft:chest"
+    },
+    "sporeblock:mound": {
+      "title": "Fancy Agriculture",
+      "icon": "spore:mound_spawnegg"
+    },
+    "sporeblock:andesite_alloy": {
+      "title": "Sturdier... Rocks?",
+      "icon": "create:andesite_alloy"
+    },
+    "sporeblock:iron_nugget": {
+      "title": "Recycling",
+      "icon": "minecraft:iron_nugget"
+    },
+    "sporeblock:scent": {
+      "title": "Frankenstein",
+      "icon": "spore:scent_spawnegg"
+    },
+    "sporeblock:andesite_casing": {
+      "title": "The Andesite Age",
+      "icon": "create:andesite_casing"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "criteria": {
+    "0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "create:creative_motor"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "0"
+    ]
+  ],
+  "parent": "sporeblock:reforged_biomass",
+  "display": {
+    "icon": {
+      "id": "create:creative_motor"
+    },
+    "title": "Complete Mastery",
+    "description": "Prove your ability to subdue a completely developped infection by crafting the final item of this modpack: the Creative Motor!",
+    "frame": "task"
+  },
+  "parents": [
+    "sporeblock:reforged_biomass",
+    "sporeblock:brain"
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "criteria": {
+    "salmon": {
+      "trigger": "minecraft:fishing_rod_hooked",
+      "conditions": {
+        "item": {
+          "items": "minecraft:salmon"
+        }
+      }
+    },
+    "cod": {
+      "trigger": "minecraft:fishing_rod_hooked",
+      "conditions": {
+        "item": {
+          "items": "minecraft:cod"
+        }
+      }
+    },
+    "pufferfish": {
+      "trigger": "minecraft:fishing_rod_hooked",
+      "conditions": {
+        "item": {
+          "items": "minecraft:pufferfish"
+        }
+      }
+    },
+    "tropical_fish": {
+      "trigger": "minecraft:fishing_rod_hooked",
+      "conditions": {
+        "item": {
+          "items": "minecraft:tropical_fish"
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "cod",
+      "tropical_fish",
+      "pufferfish",
+      "salmon"
+    ]
+  ],
+  "sends_telemetry_event": true,
+  "parent": "minecraft:husbandry/root",
+  "display": {
+    "icon": {
+      "id": "minecraft:fishing_rod"
+    },
+    "title": "Fishy Business",
+    "description": "Catch a fish",
+    "frame": "task"
+  },
+  "parents": [
+    "minecraft:husbandry/root"
+  ]
+}

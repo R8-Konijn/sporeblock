@@ -1,0 +1,31 @@
+{
+  "display": {
+    "icon": {
+      "id": "constructionwand:core_destruction"
+    },
+    "title": "Cooler Hammer",
+    "description": "Craft a Core Of Destruction to turn your wand into a terraforming tool",
+    "frame": "task"
+  },
+  "criteria": {
+    "0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "constructionwand:core_destruction"
+          }
+        ]
+      }
+    }
+  },
+  "parent": "sporeblock:wand",
+  "parents": [
+    "sporeblock:wand"
+  ],
+  "requirements": [
+    [
+      "0"
+    ]
+  ]
+}

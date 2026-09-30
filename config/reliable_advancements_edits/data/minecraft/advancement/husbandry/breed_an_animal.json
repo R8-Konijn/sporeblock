@@ -1,0 +1,25 @@
+{
+  "criteria": {
+    "bred": {
+      "trigger": "minecraft:bred_animals"
+    }
+  },
+  "requirements": [
+    [
+      "bred"
+    ]
+  ],
+  "sends_telemetry_event": true,
+  "parent": "minecraft:husbandry/root",
+  "display": {
+    "icon": {
+      "id": "minecraft:wheat"
+    },
+    "title": "The Parrots and the Bats",
+    "description": "Breed two animals together",
+    "frame": "task"
+  },
+  "parents": [
+    "minecraft:husbandry/root"
+  ]
+}

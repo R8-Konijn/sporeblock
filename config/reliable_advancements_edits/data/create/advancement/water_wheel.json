@@ -1,0 +1,26 @@
+{
+  "criteria": {
+    "0": {
+      "trigger": "create:water_wheel_builtin"
+    }
+  },
+  "requirements": [
+    [
+      "0"
+    ]
+  ],
+  "sends_telemetry_event": true,
+  "parent": "create:andesite_alloy",
+  "display": {
+    "announce_to_chat": false,
+    "icon": {
+      "id": "create:water_wheel"
+    },
+    "title": "Harnessed Hydraulics",
+    "description": "Place a Water Wheel and use it to generate torque",
+    "frame": "task"
+  },
+  "parents": [
+    "create:andesite_alloy"
+  ]
+}

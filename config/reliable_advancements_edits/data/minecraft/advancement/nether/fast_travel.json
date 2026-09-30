@@ -1,0 +1,35 @@
+{
+  "criteria": {
+    "travelled": {
+      "trigger": "minecraft:nether_travel",
+      "conditions": {
+        "distance": {
+          "horizontal": {
+            "min": 7000.0
+          }
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "travelled"
+    ]
+  ],
+  "sends_telemetry_event": true,
+  "parent": "minecraft:nether/root",
+  "display": {
+    "frame": "challenge",
+    "icon": {
+      "id": "minecraft:map"
+    },
+    "title": "Subspace Bubble",
+    "description": "Use the Nether to travel 7 km in the Overworld"
+  },
+  "rewards": {
+    "experience": 100
+  },
+  "parents": [
+    "minecraft:nether/root"
+  ]
+}

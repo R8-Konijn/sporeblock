@@ -1,0 +1,31 @@
+{
+  "criteria": {
+    "0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "tiab:time_in_a_bottle"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "0"
+    ]
+  ],
+  "parent": "sporeblock:andesite_casing",
+  "display": {
+    "icon": {
+      "id": "tiab:time_in_a_bottle"
+    },
+    "title": "Rush Hours",
+    "description": "Put some Time in a Bottle, to speed up entities or blocks.",
+    "frame": "task"
+  },
+  "parents": [
+    "sporeblock:andesite_casing"
+  ]
+}

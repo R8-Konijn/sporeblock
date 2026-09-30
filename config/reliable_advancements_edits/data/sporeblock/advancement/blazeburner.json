@@ -1,0 +1,31 @@
+{
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "create:blaze_burner"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "impossible"
+    ]
+  ],
+  "parent": "sporeblock:iron_nugget",
+  "display": {
+    "icon": {
+      "id": "create:blaze_burner"
+    },
+    "title": "Nether at home",
+    "description": "Craft a Blaze Burner. Use a millestone to get sand!",
+    "frame": "task"
+  },
+  "parents": [
+    "sporeblock:iron_nugget"
+  ]
+}

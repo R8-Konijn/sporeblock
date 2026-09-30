@@ -1,0 +1,24 @@
+{
+  "criteria": {
+    "impossible": {
+      "trigger": "create:andesite_casing_builtin"
+    }
+  },
+  "requirements": [
+    [
+      "impossible"
+    ]
+  ],
+  "parent": "sporeblock:zinc",
+  "display": {
+    "icon": {
+      "id": "create:andesite_casing"
+    },
+    "title": "The Andesite Age",
+    "description": "Use an axe to strip a Decayed Log, then apply an Andesite Alloy to it",
+    "frame": "task"
+  },
+  "parents": [
+    "sporeblock:zinc"
+  ]
+}

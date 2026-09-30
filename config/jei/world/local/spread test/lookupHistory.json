@@ -1,0 +1,6 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"spore:bile"},"type":"fluid_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:weathered_copper_trapdoor"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:weathered_copper_bulb"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

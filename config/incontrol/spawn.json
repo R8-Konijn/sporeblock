@@ -1,0 +1,27 @@
+[
+  {
+    "mob": "minecraft:bat",
+    "incontrol": false,
+    "result": "deny"
+  },
+  {
+    "mod": "minecraft",
+    "incontrol": false,
+    "mincount": {
+      "amount": 4,
+      "mod": "minecraft",
+      "perplayer": true
+    },
+    "result": "deny"
+  },
+    {
+    "mod": "spore",
+    "incontrol": false,
+    "mincount": {
+      "amount": 1,
+      "mod": "spore",
+      "perplayer": true
+    },
+    "result": "deny"
+  }
+]

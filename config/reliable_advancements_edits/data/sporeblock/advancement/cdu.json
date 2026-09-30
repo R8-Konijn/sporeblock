@@ -1,0 +1,31 @@
+{
+  "criteria": {
+    "0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "spore:cdu"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "0"
+    ]
+  ],
+  "parent": "sporeblock:snowball",
+  "display": {
+    "icon": {
+      "id": "spore:cdu"
+    },
+    "title": "AC Overkill",
+    "description": "Make a C.D.U. to purify an area from the Spore in a 8 blocks radius, killing creatures and purifying blocks. You will need Ice Canisters to use it!",
+    "frame": "task"
+  },
+  "parents": [
+    "sporeblock:snowball"
+  ]
+}

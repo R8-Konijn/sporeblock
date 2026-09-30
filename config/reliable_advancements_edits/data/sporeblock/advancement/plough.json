@@ -1,0 +1,31 @@
+{
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "create:mechanical_plough"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "impossible"
+    ]
+  ],
+  "parent": "sporeblock:waterwheel",
+  "display": {
+    "icon": {
+      "id": "create:mechanical_plough"
+    },
+    "title": "A cheap contraption",
+    "description": "Craft a Mechanical Plough. What could you use that for?",
+    "frame": "task"
+  },
+  "parents": [
+    "sporeblock:waterwheel"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "criteria": {
+    "0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "#sporeblock:human_remains"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "0"
+    ]
+  ],
+  "parent": "sporeblock:iron_nugget",
+  "display": {
+    "icon": {
+      "id": "spore:remains"
+    },
+    "title": "More Recycling",
+    "description": "Wait for an unevolved Spore creature to starve to death, then retrieve its remains",
+    "frame": "task"
+  },
+  "parents": [
+    "sporeblock:iron_nugget"
+  ]
+}

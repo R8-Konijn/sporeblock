@@ -1,0 +1,6 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"create:zinc_nugget"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"spore:rotten_log"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"spore:biomass"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

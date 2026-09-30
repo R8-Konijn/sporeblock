@@ -1,0 +1,15 @@
+{
+    "name": "Calamities",
+    "icon": "spore:sieger_spawnegg",
+    "category": "patchouli:proto",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Calamities are the strongest creatures the Proto Hivemind is capable of summoning. These behemoths are extremely destructive, to the point that proper containment of them is usually not realistic. However, eliminating them is how you may obtain Reforged Biomass items, which are necessary to craft a Creative Motor."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Calamities requires a long process to be created, requiring the creation of a Womb. When a Womb is created, the message 'Prepare...' is sent in the chat. A player killing Spore creatures increases the odds that the Proto Hivemind creates a Womb. Wombs spawn inside the $(l:proto_dome)Flesh Domes.$(/l)"
+        }
+    ]
+}

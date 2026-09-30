@@ -1,0 +1,31 @@
+{
+  "criteria": {
+    "0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "#sporeblock:traps"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "0"
+    ]
+  ],
+  "parent": "sporeblock:wood",
+  "display": {
+    "icon": {
+      "id": "simply_traps:stake"
+    },
+    "title": "It\u0027s a Trap",
+    "description": "Craft any trap from the Simply Traps mods",
+    "frame": "task"
+  },
+  "parents": [
+    "sporeblock:wood"
+  ]
+}

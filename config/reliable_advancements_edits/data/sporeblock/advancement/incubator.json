@@ -1,0 +1,31 @@
+{
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "spore:incubator"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "impossible"
+    ]
+  ],
+  "parent": "sporeblock:surgery_table",
+  "display": {
+    "icon": {
+      "id": "spore:incubator"
+    },
+    "title": "Dubious Experiments",
+    "description": "Make an Incubator to repair your Spore tools",
+    "frame": "task"
+  },
+  "parents": [
+    "sporeblock:surgery_table"
+  ]
+}

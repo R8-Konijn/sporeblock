@@ -1,0 +1,23 @@
+{
+  "bookGuiScale": 7,
+  "clickedVisualize": false,
+  "bookData": {
+    "patchouli:for_you": {
+      "viewedEntries": [
+        "patchouli:a",
+        "patchouli:inf_intro",
+        "patchouli:intro_intro",
+        "patchouli:inf_scent",
+        "patchouli:inf_bm_rm",
+        "patchouli:inf_evolution",
+        "patchouli:proto_spawn",
+        "patchouli:proto_requisites",
+        "patchouli:proto_dome",
+        "patchouli:proto_calamities",
+        "patchouli:proto_organoids"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    }
+  }
+}

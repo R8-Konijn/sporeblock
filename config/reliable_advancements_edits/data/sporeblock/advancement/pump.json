@@ -1,0 +1,31 @@
+{
+  "criteria": {
+    "0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "create:mechanical_pump"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "0"
+    ]
+  ],
+  "parent": "sporeblock:copper",
+  "display": {
+    "icon": {
+      "id": "create:mechanical_pump"
+    },
+    "title": "Fluid manipulation",
+    "description": "Craft a Mechanical Pump. Buckets are not obtainable, so this is how you will be able to place fluids.",
+    "frame": "task"
+  },
+  "parents": [
+    "sporeblock:copper"
+  ]
+}

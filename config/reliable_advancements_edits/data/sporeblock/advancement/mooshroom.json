@@ -1,0 +1,31 @@
+{
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:mooshroom_spawn_egg"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "impossible"
+    ]
+  ],
+  "parent": "sporeblock:egg",
+  "display": {
+    "icon": {
+      "id": "minecraft:mooshroom_spawn_egg"
+    },
+    "title": "Food for our Spore friends",
+    "description": "Obtain a Mooshroom Spawn Egg",
+    "frame": "task"
+  },
+  "parents": [
+    "sporeblock:egg"
+  ]
+}

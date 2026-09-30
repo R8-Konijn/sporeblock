@@ -1,0 +1,31 @@
+{
+  "criteria": {
+    "0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "#spore:amalgamated_biomass"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "0"
+    ]
+  ],
+  "parent": "sporeblock:proto",
+  "display": {
+    "icon": {
+      "id": "spore:sieger_spawnegg"
+    },
+    "title": "Elite Material",
+    "description": "Kill a Calamity and obtain any piece of Reforged Biomass",
+    "frame": "task"
+  },
+  "parents": [
+    "sporeblock:proto"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Scent",
+    "icon": "spore:scent_spawnegg",
+    "category": "patchouli:inf",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "The Scent is a temporary entity summoning Spore creatures. It can be placed by the fungal infestation once it reaches a certain level of maturity (most notably with stage 4 Mounds). You can also create one artificially by using a Spout and Bile on a Glass Bottle (see JEI), and place it down yourself or with a Deployer. Scents come with an Overcharged variant, which have an other appareance and are more dangerous."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Scents will only spawn a mob if there is a target (a player or any non Spore creature) in a 32x32x32 area around it, or if it is Overcharged. The Scent will spawn mobs within a 23x2x23 block rectangle centered around it. Overcharged Scents summon creatures with potion effects and capable of evolving, and will summon creatures even if there are no targets nearby."
+        }
+    ]
+}

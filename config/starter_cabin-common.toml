@@ -1,0 +1,32 @@
+#Automatically generate the saved building in new worlds.
+autoGenerate = true
+#Dimension used for generation. Use "template" to use the dimension where the cabin was saved, or a dimension id such as minecraft:overworld.
+generationDimension = "template"
+#Save and place entities inside the selected area.
+copyEntities = true
+#Clear the target area before placing the saved building.
+clearGenerationArea = true
+#Move each player to the saved spawn once when first joining that world.
+teleportPlayersOnFirstJoin = true
+#Remove the spawn carpet after a successful save while keeping its position recorded.
+hideSpawnCarpetAfterSave = true
+#When true, the generated Starter Cabin can be broken by players and explosions.
+starterCabinBreakable = true
+#Search near world spawn for a flatter and safer position before generating the building.
+smartPlacement = false
+#Maximum number of blocks allowed in one saved selection. Default is 512 x 512 x 512.
+# Default: 134217728
+# Range: > 1
+maxBlocks = 134217728
+#Horizontal search radius, in blocks, used by smart placement.
+# Default: 96
+# Range: 0 ~ 512
+placementSearchRadius = 96
+#Preferred maximum height difference across the building footprint. Higher values allow rougher terrain.
+# Default: 4
+# Range: 0 ~ 64
+maxSurfaceVariation = 4
+#Extra blocks of air cleared above the building footprint when clearGenerationArea is true.
+# Default: 8
+# Range: 0 ~ 128
+extraClearHeight = 0

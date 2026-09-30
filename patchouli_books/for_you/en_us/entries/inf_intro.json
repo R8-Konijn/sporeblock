@@ -1,0 +1,23 @@
+{
+    "name": "The Mound",
+    "icon": "spore:biomass",
+    "category": "patchouli:inf",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Once placed, the Mound corrupts the terrain around it, making it dangerous. It will start to create various hazardous blocks, which will drop Biomass if mined, which is an important material to obtain various things such as Andesite. Be careful as making contact with some of these blocks will hurt you!$(br)$(br)Every 15 minutes, the Mound will grow by one stage, and its infestation radius will increase. It can start to cause serious problems once it reaches stage 4, its final stage. The Mound also grows in size every time its stage increases."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Once reaching stage 3, a Mound will periodically scan nearby chests for food. If it finds one, it will eventually make a level 1 Mound grow on it. Mounds display a similar behavior with Human Remains, which are blocks left behind by Spore creatures dying from starvation. Mounds can feed off any kind of food: if you can eat it, a Mound can too. Not a picky eater, i'm sure you could even invite one next time you go to the restaurant to eat with friends."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Once reaching stage 4, the Mound will summon a (non-overcharged) Scent every 10 minutes, which will summon hostile creatures around the Mound that will pose a threat if not contained. Scents are able to summon Scampers, which might lead to new mounds to be created. More informations on how scent function in $(l:inf_scent)the Scent entry$(/l). "
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Once created, a Mound can be quite difficult to move around. However, some Create components might be able to push or move it around."
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+  "criteria": {
+    "hurt_infected": {
+      "trigger": "minecraft:player_hurt_entity",
+      "conditions": {
+        "entity": [
+          {
+            "predicate": {
+              "type": "spore:proto"
+            },
+            "entity": "this",
+            "condition": "minecraft:entity_properties"
+          }
+        ]
+      }
+    },
+    "hurt_by_infected": {
+      "trigger": "minecraft:entity_hurt_player",
+      "conditions": {
+        "damage": {
+          "source_entity": {
+            "type": "spore:proto"
+          }
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "hurt_infected",
+      "hurt_by_infected"
+    ]
+  ],
+  "parent": "sporeblock:blazeburner",
+  "display": {
+    "icon": {
+      "id": "spore:proto_spawnegg"
+    },
+    "title": "Something Now Great",
+    "description": "Grow and interact with a Proto Hivemind. More informations on how to grow one in the book.",
+    "frame": "task"
+  },
+  "parents": [
+    "sporeblock:blazeburner",
+    "sporeblock:armor_fragment"
+  ]
+}

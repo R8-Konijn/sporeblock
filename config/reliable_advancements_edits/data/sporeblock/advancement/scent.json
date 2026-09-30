@@ -1,0 +1,31 @@
+{
+  "criteria": {
+    "0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "spore:scent_spawnegg"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "0"
+    ]
+  ],
+  "display": {
+    "icon": {
+      "id": "spore:scent_spawnegg"
+    },
+    "title": "Frankenstein",
+    "description": "Obtain a bottle of Scent",
+    "frame": "task"
+  },
+  "parent": "sporeblock:andesite_casing",
+  "parents": [
+    "sporeblock:andesite_casing"
+  ]
+}

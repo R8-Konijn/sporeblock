@@ -1,0 +1,24 @@
+{
+  "criteria": {
+    "0": {
+      "trigger": "create:water_wheel_builtin"
+    }
+  },
+  "requirements": [
+    [
+      "0"
+    ]
+  ],
+  "parent": "sporeblock:copper",
+  "display": {
+    "icon": {
+      "id": "create:water_wheel"
+    },
+    "title": "Water wheels.... with no water?",
+    "description": "Place a Water Wheel and use any fluid to generate torque with it. Doesn\u0027t have to be water...!",
+    "frame": "task"
+  },
+  "parents": [
+    "sporeblock:copper"
+  ]
+}

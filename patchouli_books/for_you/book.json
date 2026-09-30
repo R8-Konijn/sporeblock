@@ -1,0 +1,8 @@
+{
+    "name": "Manual Of Funky Biology",
+    "version": 1,
+    "landing_text": "",
+    "creative_tab": "minecraft:tools_and_utilities",
+    "use_resource_pack": false,
+    "model": "patchouli:book_red"
+}

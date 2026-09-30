@@ -1,0 +1,32 @@
+{
+  "criteria": {
+    "0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "create:creative_motor",
+            "count": 64
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "0"
+    ]
+  ],
+  "parent": "sporeblock:creative_motor",
+  "display": {
+    "icon": {
+      "id": "create:creative_motor"
+    },
+    "title": "Bonus achievement if you\u0027re feeling crazy",
+    "description": "Prove your ability to automate anything: hold a full stack of Creative Motors in your inventory",
+    "frame": "task"
+  },
+  "parents": [
+    "sporeblock:creative_motor"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "criteria": {
+    "0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "spore:brain_remnants"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "0"
+    ]
+  ],
+  "parent": "sporeblock:proto",
+  "display": {
+    "icon": {
+      "id": "spore:brain_remnants"
+    },
+    "title": "Big Brain",
+    "description": "Destroy an Outpost Watcher or kill a Proto Hivemind to obtain Brain Remnants",
+    "frame": "task"
+  },
+  "parents": [
+    "sporeblock:proto"
+  ]
+}

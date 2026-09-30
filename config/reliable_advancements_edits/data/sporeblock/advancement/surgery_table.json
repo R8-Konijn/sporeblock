@@ -1,0 +1,31 @@
+{
+  "criteria": {
+    "0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "spore:surgery_table"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "0"
+    ]
+  ],
+  "parent": "sporeblock:armor_fragment",
+  "display": {
+    "icon": {
+      "id": "spore:surgery_table"
+    },
+    "title": "Fancy Legos",
+    "description": "Craft a Surgery Table to assemble stronger armor and tools",
+    "frame": "task"
+  },
+  "parents": [
+    "sporeblock:armor_fragment"
+  ]
+}

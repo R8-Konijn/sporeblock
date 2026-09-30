@@ -1,0 +1,15 @@
+{
+    "name": "Organoids",
+    "icon": "spore:organoid_membrane",
+    "category": "patchouli:proto",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Organoids are stationnary creatures. The Mound and the Proto-Hivemind are examples of Organoids, but not the only ones. The Proto-Hivemind is capable of locating non-Spore creatures surrounding it, and grow Organoids at their location. This can include your own location."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "In order to prevent this, you will need some kind of floor they cannot grow on. Laboratory Blocks (or any blocks as hard as them) prevent the growth of Organoids, and can be unvaluable to make your base Spore-proof. However, they will lose this ability if they get infested, in which case you will need to purify them with a C.D.U."
+        }
+    ]
+}
