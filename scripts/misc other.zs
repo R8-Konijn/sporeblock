@@ -29,3 +29,14 @@ craftingTable.addShapeless("tiab", <item:tiab:time_in_a_bottle>, [<item:minecraf
 
 craftingTable.remove(<item:constructionwand:core_destruction>);
 craftingTable.addShaped("destruction_core", <item:constructionwand:core_destruction>,[[<item:minecraft:air>, <item:spore:calcified_biomass_block>, <item:minecraft:air>], [<item:spore:sicken_biomass_block>, <item:minecraft:iron_pickaxe>, <item:spore:gastric_biomass_block>], [<item:minecraft:air>, <tag:item:spore:amalgamated_biomass>, <item:minecraft:air>]]);
+
+//Plank items
+craftingTable.addShaped("minecraft/sign", <item:minecraft:oak_sign> * 3, [[<item:spore:rotten_planks>, <item:spore:rotten_planks>, <item:spore:rotten_planks>], [<item:spore:rotten_planks>, <item:spore:rotten_planks>, <item:spore:rotten_planks>], [<item:minecraft:air>, <tag:item:c:rods/wooden>, <item:minecraft:air>]]);
+
+<recipetype:create:cutting>.addJsonRecipe("create/cutting/runtime_generated/compat/minecraft/oak_planks_to_sign", {type: "create:cutting", processing_time: 50, results: [{id: "minecraft:oak_sign"}], ingredients: [{item: "spore:rotten_planks"}]});
+
+craftingTable.addShaped("minecraft/hanging_sign", <item:minecraft:oak_hanging_sign>*6, [[<item:minecraft:chain>,<item:minecraft:air>,<item:minecraft:chain>],[<item:kubejs:stripped_rotten_log>,<item:kubejs:stripped_rotten_log>,<item:kubejs:stripped_rotten_log>],[<item:kubejs:stripped_rotten_log>,<item:kubejs:stripped_rotten_log>,<item:kubejs:stripped_rotten_log>]]);
+
+craftingTable.addShaped("minecraft/boat", <item:minecraft:oak_boat>, [[<item:spore:rotten_planks>, <item:minecraft:air>, <item:spore:rotten_planks>], [<item:spore:rotten_planks>, <item:spore:rotten_planks>, <item:spore:rotten_planks>]]);
+
+craftingTable.addShaped("create/oak_window", <item:create:oak_window> * 2, [[<item:minecraft:air>, <item:spore:rotten_planks>, <item:minecraft:air>], [<item:spore:rotten_planks>, <tag:item:c:glass_blocks/colorless>, <item:spore:rotten_planks>]]);

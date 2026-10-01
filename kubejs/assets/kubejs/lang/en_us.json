@@ -1,2 +1,3 @@
 {"block.minecraft.oak_door":"Wooden Door",
-"block.minecraft.oak_trapdoor":"Wooden Trapdoor"}
+"block.minecraft.oak_trapdoor":"Wooden Trapdoor", "block.minecraft.oak_sign": "Sign", "block.minecraft.oak_hanging_sign": "Hanging Sign", "item.minecraft.oak_chest_boat": "Chest Boat", "item.minecraft.oak_boat": "Boat"
+}
