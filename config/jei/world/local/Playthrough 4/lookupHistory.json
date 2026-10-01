@@ -1,5 +1,13 @@
 [
   {"version":1},
+  {"ingredient":{"id":"create:basin"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"spore:bile"},"type":"fluid_stack","bookmarkType":"INGREDIENT"},
+  {"recipe":"crafttweaker:new_copper_nugget","recipeType":"create:mixing","bookmarkType":"RECIPE"},
+  {"recipe":"create:crafting/kinetics/mechanical_mixer","recipeType":"minecraft:crafting","bookmarkType":"RECIPE"},
+  {"ingredient":{"id":"create:cogwheel"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create:whisk"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create:mechanical_mixer"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create:copper_nugget"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"create:zinc_nugget"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"spore:rotten_log"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"spore:biomass"},"type":"item_stack","bookmarkType":"INGREDIENT"}

@@ -22,7 +22,7 @@
       "id": "create:copper_nugget"
     },
     "title": "Not Edible?",
-    "description": "Obtain a Copper Nugget with Bile. Copper can be used to craft many useful things, such as the Wrench and the Engineer\u0027s Goggles.",
+    "description": "Obtain a Copper Nugget with Bile. This achievement line leads to a source of energy. Copper can also be used to craft the Wrench or Engineer\u0027s Googles ",
     "frame": "task"
   },
   "parents": [

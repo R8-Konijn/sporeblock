@@ -1329,12 +1329,12 @@
           80
         ],
         "sporeblock:plough": [
-          102,
-          44
+          129,
+          64
         ],
         "sporeblock:glue": [
-          102,
-          80
+          129,
+          98
         ],
         "sporeblock:scent": [
           -50,
@@ -1361,12 +1361,12 @@
           98
         ],
         "sporeblock:waterwheel": [
-          66,
-          64
+          93,
+          80
         ],
         "sporeblock:pump": [
-          66,
-          98
+          61,
+          80
         ],
         "sporeblock:andesite": [
           0,

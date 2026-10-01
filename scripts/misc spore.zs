@@ -30,3 +30,7 @@ craftingTable.addShaped("lab_blocks", <item:spore:lab_block> * 32, [[<item:minec
 
 //Vial
 craftingTable.addShapeless("bile_vial", <item:spore:bile_vial>*3, [<item:spore:crusted_bile>, <item:minecraft:glass_bottle>, <item:minecraft:glass_bottle>,<item:minecraft:glass_bottle>,]);
+
+//Gas Mask
+craftingTable.remove(<item:spore:gas_mask>);
+craftingTable.addShaped("gas_mask", <item:spore:gas_mask>, [[<item:minecraft:iron_nugget>, <item:minecraft:iron_nugget>, <item:minecraft:iron_nugget>], [<item:minecraft:iron_nugget>, <item:minecraft:glass_pane>,<item:minecraft:iron_nugget>], [<tag:item:minecraft:wool>,<item:create:iron_sheet>,<tag:item:minecraft:wool>]]);

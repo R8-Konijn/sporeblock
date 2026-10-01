@@ -1,0 +1,6 @@
+[
+  {"version":2},
+  {"recipe":"crafttweaker:new_copper_nugget","recipeType":"create:mixing","bookmarkType":"RECIPE"},
+  {"recipe":"create:crafting/kinetics/mechanical_mixer","recipeType":"minecraft:crafting","bookmarkType":"RECIPE"},
+  {"recipe":"create:crafting/kinetics/basin","recipeType":"minecraft:crafting","bookmarkType":"RECIPE"}
+]
