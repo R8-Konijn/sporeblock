@@ -30,6 +30,12 @@ craftingTable.addShapeless("tiab", <item:tiab:time_in_a_bottle>, [<item:minecraf
 craftingTable.remove(<item:constructionwand:core_destruction>);
 craftingTable.addShaped("destruction_core", <item:constructionwand:core_destruction>,[[<item:minecraft:air>, <item:spore:calcified_biomass_block>, <item:minecraft:air>], [<item:spore:sicken_biomass_block>, <item:minecraft:iron_pickaxe>, <item:spore:gastric_biomass_block>], [<item:minecraft:air>, <tag:item:spore:amalgamated_biomass>, <item:minecraft:air>]]);
 
+craftingTable.remove(<item:constructionwand:diamond_wand>);
+craftingTable.addShaped("brass_wand", <item:constructionwand:diamond_wand>.withJsonComponent(<componenttype:minecraft:custom_data>, {wand_options: {}}), [[<item:minecraft:air>, <item:minecraft:air>, <item:create:brass_ingot>], [<item:minecraft:air>, <item:minecraft:stick>, <item:minecraft:air>], [<item:minecraft:stick>,<item:minecraft:air>,<item:minecraft:air>]]);
+
+craftingTable.remove(<item:constructionwand:infinity_wand>);
+craftingTable.addShaped("infinity_wand", <item:constructionwand:infinity_wand>.withJsonComponent(<componenttype:minecraft:custom_data>, {wand_options: {}}), [[<item:minecraft:air>, <item:minecraft:air>, <tag:item:spore:amalgamated_biomass>], [<item:minecraft:air>, <item:minecraft:stick>, <item:minecraft:air>], [<item:minecraft:stick>,<item:minecraft:air>,<item:minecraft:air>]]);
+
 //Plank items
 craftingTable.addShaped("minecraft/sign", <item:minecraft:oak_sign> * 3, [[<item:spore:rotten_planks>, <item:spore:rotten_planks>, <item:spore:rotten_planks>], [<item:spore:rotten_planks>, <item:spore:rotten_planks>, <item:spore:rotten_planks>], [<item:minecraft:air>, <tag:item:c:rods/wooden>, <item:minecraft:air>]]);
 
