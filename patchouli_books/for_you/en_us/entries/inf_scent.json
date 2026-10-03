@@ -5,7 +5,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "The Scent is a temporary entity summoning Spore creatures. It can be placed by the fungal infestation once it reaches a certain level of maturity (most notably with stage 4 Mounds). You can also create one artificially by using a Spout and Bile on a Glass Bottle (see JEI), and place it down yourself or with a Deployer. Scents come with an Overcharged variant, which have an other appearance and are more dangerous."
+            "text": "The Scent is a temporary entity summoning Spore creatures. You can create one artificially by using a Spout and Bile on a Glass Bottle (see JEI), and place it down yourself or with a Deployer. Scents come with an Overcharged variant, which have an other appearance and are more dangerous."
         },
         {
             "type": "patchouli:text",

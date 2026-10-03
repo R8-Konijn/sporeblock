@@ -1,0 +1,31 @@
+{
+  "criteria": {
+    "0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "create:large_water_wheel"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "0"
+    ]
+  ],
+  "parent": "sporeblock:copper",
+  "display": {
+    "icon": {
+      "id": "create:large_water_wheel"
+    },
+    "title": "Water wheels.... with no water?",
+    "description": "Craft a Large Water Wheel... Which you may be able to use without water!",
+    "frame": "task"
+  },
+  "parents": [
+    "sporeblock:copper"
+  ]
+}

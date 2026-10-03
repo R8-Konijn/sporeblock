@@ -1503,6 +1503,10 @@
         "sporeblock:advanced_turret": [
           -147,
           229
+        ],
+        "sporeblock:large_waterwheel": [
+          93,
+          80
         ]
       }
     },
@@ -3563,6 +3567,12 @@
       "tab": "spore:spore",
       "title": "{\"translate\":\"advancement.spore.stahl.title\"}",
       "icon": "spore:stahl_spawnegg"
+    },
+    "sporeblock:waterwheel": {
+      "owner": "reliable_advancements:standalone",
+      "tab": "sporeblock:start",
+      "title": "\"Water wheels.... with no water?\"",
+      "icon": "create:water_wheel"
     }
   },
   "derived_presentation": {

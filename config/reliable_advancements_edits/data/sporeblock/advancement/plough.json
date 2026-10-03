@@ -16,7 +16,6 @@
       "impossible"
     ]
   ],
-  "parent": "sporeblock:waterwheel",
   "display": {
     "icon": {
       "id": "create:mechanical_plough"
@@ -25,7 +24,8 @@
     "description": "Craft a Mechanical Plough. What could you use that for?",
     "frame": "task"
   },
+  "parent": "sporeblock:large_waterwheel",
   "parents": [
-    "sporeblock:waterwheel"
+    "sporeblock:large_waterwheel"
   ]
 }

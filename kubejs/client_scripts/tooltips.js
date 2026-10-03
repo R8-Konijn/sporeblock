@@ -1,7 +1,7 @@
 ItemEvents.modifyTooltips(event => {
   event.add('minecraft:bone_block', 'Bones can be obtained from certain Spore creatures.')
   event.add('minecraft:bone', 'Bones can be obtained from certain Spore creatures.')
-  event.add('tiab:time_in_a_bottle', '\u00a77Does not make Mounds summon creatures more quickly.')
+  event.add('tiab:time_in_a_bottle', '\u00a77Can be used on Mounds to make them generate more Biomass. It however does not affect the mob spawning rate.')
   event.add('spore:scent_spawnegg', '\u00a77Summon Spore creatures for a period of time. The more space the better. Will only summon creatures if there is a target nearby. Can be Overcharged with Lava to summon stronger creatures under any condition.')
   event.add('create_netherless:coal_rod', '\u00a77Requires a blasting furnace to be converted into a Blaze Rod.')
   event.add('spore:container', '\u00a77Food can safely be stored in a B.C.U. without risking to be contaminated by a Mound.')

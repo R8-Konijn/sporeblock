@@ -13,7 +13,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "Once reaching stage 4, the Mound will summon a (non-overcharged) Scent every 10 minutes, which will summon hostile creatures around the Mound that will pose a threat if not contained. Scents are able to summon Scampers, which might lead to new mounds to be created. More information on how scent function in $(l:inf_scent)the Scent entry$(/l). "
+            "text": "Once reaching stage 4, the Mound will summon hostile creatures that will pose a threat if not contained. They will occasionally summon Scampers, might lead to new mounds to be created. "
         },
         {
             "type": "patchouli:text",

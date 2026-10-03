@@ -9,7 +9,6 @@
       "0"
     ]
   ],
-  "parent": "sporeblock:waterwheel",
   "display": {
     "icon": {
       "id": "create:super_glue"
@@ -18,7 +17,8 @@
     "description": "Use a Super Glue to, well, glue blocks together",
     "frame": "task"
   },
+  "parent": "sporeblock:large_waterwheel",
   "parents": [
-    "sporeblock:waterwheel"
+    "sporeblock:large_waterwheel"
   ]
 }

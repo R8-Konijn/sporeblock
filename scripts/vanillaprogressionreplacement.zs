@@ -37,7 +37,7 @@ craftingTable.addShaped("new_whisk", <item:create:whisk>,[[<item:minecraft:air>,
 craftingTable.remove(<item:create:mechanical_press>);
 craftingTable.addShaped("create/mechanical_press", <item:create:mechanical_press>, [[<item:create:shaft>], [<item:create:andesite_casing>], [<tag:item:c:storage_blocks/andesite_alloy>]]);
 
-<recipetype:create:mixing>.addJsonRecipe("spore_bile", {type: "create:mixing", results: [{id: "spore:bile", amount: 100}], ingredients: [{item: "spore:biomass"}]});
+<recipetype:create:mixing>.addJsonRecipe("spore_bile_", {type: "create:mixing", results: [{id: "spore:bile", amount: 100}], ingredients: [{item: "spore:biomass"}]});
 
 <recipetype:create:compacting>.addJsonRecipe("new_slime", {type: "create:compacting", results: [{id: "minecraft:slime_ball"}], ingredients: [{type: "neoforge:single", fluid: "spore:bile", amount: 100}]});
 
@@ -107,7 +107,7 @@ craftingTable.addShaped("moo_egg", <item:minecraft:mooshroom_spawn_egg>, [[<item
 
 
 //Dome
-<recipetype:create:mixing>.addJsonRecipe("spore_bile_2", {type: "create:mixing", results: [{id: "spore:bile", amount: 1000}], ingredients: [{item: "spore:gastric_biomass_block"}]});
+<recipetype:create:mixing>.addJsonRecipe("spore_bile", {type: "create:mixing", results: [{id: "spore:bile", amount: 1000}], ingredients: [{item: "spore:gastric_biomass_block"}]});
 
 
 //Creative Motor

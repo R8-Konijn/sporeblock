@@ -5,7 +5,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "SporeBlock is a Stoneblock modpack about getting your resources from a dangerous fungal infection you will need to keep under control. There are no ores to mine: you will get most of what you need from the infection. The achievements will guide you through the progression of this modpack. The infection will start as soon as you place the Mound down. Your final goal will be crafting the $(l)Creative Motor$()."
+            "text": "SporeBlock is a Stoneblock modpack about getting your resources from a dangerous fungal infection you will need to keep under control. There are no ores to mine: you will get most of what you need from the infection. The achievements will guide you through the progression of this modpack. You will find the Mound in the other room. Your final goal will be crafting the $(l)Creative Motor$()."
         },
         {
             "type": "patchouli:text",
