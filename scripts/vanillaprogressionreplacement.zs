@@ -74,7 +74,7 @@ craftingTable.addShaped("coal_road", <item:create_netherless:coal_rod>*4, [[<ite
 <recipetype:minecraft:blasting>.addRecipe("blaze_rod", <item:minecraft:blaze_rod>, <item:create_netherless:coal_rod>, 0.1, 200);
 
 craftingTable.remove(<item:minecraft:blast_furnace>);
-craftingTable.addShaped("blasting_furnace", <item:minecraft:blast_furnace:>, [[<item:minecraft:cobblestone>, <item:create:iron_sheet>, <item:minecraft:cobblestone>],[<item:minecraft:cobblestone>, <item:minecraft:furnace>, <item:minecraft:cobblestone>], [<item:minecraft:smooth_stone>, <item:minecraft:smooth_stone>, <item:minecraft:smooth_stone>]]);
+craftingTable.addShaped("blasting_furnace", <item:minecraft:blast_furnace>, [[<item:minecraft:cobblestone>, <item:create:iron_sheet>, <item:minecraft:cobblestone>],[<item:minecraft:cobblestone>, <item:minecraft:furnace>, <item:minecraft:cobblestone>], [<item:minecraft:smooth_stone>, <item:minecraft:smooth_stone>, <item:minecraft:smooth_stone>]]);
 
 <recipetype:create:mixing>.addJsonRecipe("create/mixing/netherrack", {type: "create:mixing", results: [{id: "minecraft:netherrack"}], ingredients: [{item: "minecraft:blaze_powder"}, {item: "minecraft:cobblestone"}]});
 

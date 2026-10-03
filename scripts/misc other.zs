@@ -46,3 +46,9 @@ craftingTable.addShaped("minecraft/hanging_sign", <item:minecraft:oak_hanging_si
 craftingTable.addShaped("minecraft/boat", <item:minecraft:oak_boat>, [[<item:spore:rotten_planks>, <item:minecraft:air>, <item:spore:rotten_planks>], [<item:spore:rotten_planks>, <item:spore:rotten_planks>, <item:spore:rotten_planks>]]);
 
 craftingTable.addShaped("create/oak_window", <item:create:oak_window> * 2, [[<item:minecraft:air>, <item:spore:rotten_planks>, <item:minecraft:air>], [<item:spore:rotten_planks>, <tag:item:c:glass_blocks/colorless>, <item:spore:rotten_planks>]]);
+
+//Glass
+furnace.removeByName("create:smelting/glass_from_framed_glass");
+furnace.removeByName("create:smelting/glass_from_horizontal_framed_glass");
+furnace.removeByName("create:smelting/glass_from_tiled_glass");
+furnace.removeByName("create:smelting/glass_from_vertical_framed_glass");
