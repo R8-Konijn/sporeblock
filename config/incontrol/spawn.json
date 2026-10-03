@@ -8,7 +8,7 @@
     "mod": "minecraft",
     "incontrol": false,
     "mincount": {
-      "amount": 4,
+      "amount": 0,
       "mod": "minecraft",
       "perplayer": true
     },
