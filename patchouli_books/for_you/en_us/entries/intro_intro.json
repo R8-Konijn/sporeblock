@@ -13,7 +13,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "One last disclaimer for people that have played with Fungal Infection: Spore before: Spore does not behave exactly like it does usually, as it had to be tweaked to evolve properly in a StoneBlock environment, partly to account for the lack of naturally spawning mobs they could feed on. Everything you need to know will be explained in the relevant chapters of this book."
+            "text": "One last disclaimer for people that have played with Fungal Infection: Spore before: Spore does not behave exactly like it does usually, as it had to be tweaked to evolve properly in a StoneBlock environment, partly to account for the lack of naturally spawning mobs they could feed on. Everything you need to know will be explained in the relevant chapters of this book.$(br)$(br)Also, you might have noticed that your do not have a hunger bar anymore. Instead, eating food will directly regen your health. Note that you can eat biomass!"
         },
         {
             "type": "patchouli:text",

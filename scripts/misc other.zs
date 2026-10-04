@@ -52,3 +52,7 @@ furnace.removeByName("create:smelting/glass_from_framed_glass");
 furnace.removeByName("create:smelting/glass_from_horizontal_framed_glass");
 furnace.removeByName("create:smelting/glass_from_tiled_glass");
 furnace.removeByName("create:smelting/glass_from_vertical_framed_glass");
+
+//Lighter
+craftingTable.remove(<item:minecraft:flint_and_steel>);
+craftingTable.addShapeless("lighter", <item:minecraft:flint_and_steel>, [<item:create:zinc_nugget>, <item:minecraft:flint>]);

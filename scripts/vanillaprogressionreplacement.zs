@@ -32,7 +32,7 @@ craftingTable.addShapeless("new_andesite", <item:minecraft:andesite>, [<item:min
 
 //Mixing, Pressing, Bile, Slime Balls, Plough, Slab (For Bearing)
 craftingTable.remove(<item:create:whisk>);
-craftingTable.addShaped("new_whisk", <item:create:whisk>,[[<item:minecraft:air>, <item:create:andesite_alloy>, <item:minecraft:air>], [<item:minecraft:air>, <item:create:andesite_alloy>, <item:minecraft:air>], [<item:create:andesite_alloy>, <item:create:andesite_alloy>, <item:create:andesite_alloy>]]);
+craftingTable.addShaped("new_whisk", <item:create:whisk>,[[<item:minecraft:air>, <item:create:andesite_alloy>, <item:minecraft:air>], [<item:create:andesite_alloy>, <item:create:andesite_alloy>, <item:create:andesite_alloy>]]);
 
 craftingTable.remove(<item:create:mechanical_press>);
 craftingTable.addShaped("create/mechanical_press", <item:create:mechanical_press>, [[<item:create:shaft>], [<item:create:andesite_casing>], [<tag:item:c:storage_blocks/andesite_alloy>]]);

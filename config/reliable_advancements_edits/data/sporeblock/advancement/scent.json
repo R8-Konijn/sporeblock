@@ -16,15 +16,15 @@
       "0"
     ]
   ],
+  "parent": "sporeblock:andesite_casing",
   "display": {
     "icon": {
       "id": "spore:scent_spawnegg"
     },
     "title": "Frankenstein",
-    "description": "Obtain a bottle of Scent",
+    "description": "Obtain a Bottle of Scent",
     "frame": "task"
   },
-  "parent": "sporeblock:andesite_casing",
   "parents": [
     "sporeblock:andesite_casing"
   ]

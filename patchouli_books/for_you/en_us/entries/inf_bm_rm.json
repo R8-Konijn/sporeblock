@@ -5,7 +5,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "Structure Blocks are blocks which can eventually evolve to something greater. They evolve gaining Kill Points, which they can get by entering into contact with a Spore creature that itself got Kill Points. Structures Blocks can also be given Kill Points by a nearby Mound. Structure Blocks are placed by level 4 Mounds, and each Mound can only place a structure block once in its life. Spore creatures may get Kill Points in various ways, most notably by killing other creatures or being spawned by an Overcharged Scent."
+            "text": "Structure Blocks are blocks which can eventually evolve to something greater. They evolve gaining Kill Points, which they can get by entering into contact with a Spore creature that itself got Kill Points. Structures Blocks can also be given Kill Points by a nearby Mound. Structure Blocks are placed by level 4 Mounds, and $(l)each Mound can only place a structure block once in its life$(). Spore creatures may get Kill Points in various ways, most notably by killing other creatures or being spawned by an Overcharged Scent."
         },
         {
             "type": "patchouli:text",

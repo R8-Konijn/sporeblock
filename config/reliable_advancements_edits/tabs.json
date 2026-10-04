@@ -1445,7 +1445,7 @@
           15
         ],
         "sporeblock:trap": [
-          47,
+          30,
           0
         ],
         "sporeblock:hivemind": [
@@ -1507,6 +1507,14 @@
         "sporeblock:large_waterwheel": [
           93,
           80
+        ],
+        "sporeblock:campfire": [
+          61,
+          40
+        ],
+        "sporeblock:lighter": [
+          31,
+          40
         ]
       }
     },

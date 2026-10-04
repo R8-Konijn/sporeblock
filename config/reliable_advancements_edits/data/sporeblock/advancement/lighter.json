@@ -5,7 +5,7 @@
       "conditions": {
         "items": [
           {
-            "items": "spore:rotten_log"
+            "items": "minecraft:flint_and_steel"
           }
         ]
       }
@@ -16,16 +16,16 @@
       "0"
     ]
   ],
-  "parent": "sporeblock:start",
+  "parent": "sporeblock:zinc",
   "display": {
     "icon": {
-      "id": "spore:rotten_log"
+      "id": "minecraft:flint_and_steel"
     },
-    "title": "Fancy Agriculture",
-    "description": "Craft Decayed Wood from Biomass",
+    "title": "Fire Emoji",
+    "description": "Craft a Lighter with Zinc",
     "frame": "task"
   },
   "parents": [
-    "sporeblock:start"
+    "sporeblock:zinc"
   ]
 }
