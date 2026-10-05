@@ -81,9 +81,9 @@
 		"Infected Drowned Evolutions" = ["spore:bloater", "spore:naiad"]
 		"Infected Adventurer Evolutions" = ["spore:nuclea", "spore:protector", "spore:gargoyle"]
 		#Default 300
-		"Evolution Timer in seconds" = 120
+		"Evolution Timer in seconds" = 60
 		#Default 600
-		"Evolution Timer in seconds for hyper evolution" = 600
+		"Evolution Timer in seconds for hyper evolution" = 300
 		#Default 1
 		"Minimum amount of kills to start the evolution" = 1
 		#Default 7

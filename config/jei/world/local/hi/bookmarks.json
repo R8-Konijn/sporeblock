@@ -1,4 +1,4 @@
 [
   {"version":2},
-  {"recipe":"create_netherless:blaze_burner_recipe_from_craft","recipeType":"minecraft:crafting","bookmarkType":"RECIPE"}
+  {"recipe":"minecraft:campfire","recipeType":"minecraft:crafting","bookmarkType":"RECIPE"}
 ]
