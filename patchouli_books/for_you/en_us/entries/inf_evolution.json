@@ -5,7 +5,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "Spore creatures can evolve into more dangerous forms. A Spore creature needs to gain an Evolution Point to be able to evolve, which they can obtain by killing an other creature or eating a Human Remains block, which they can do eventually to avoid starvation if this block is available nearby (Human Remains are left behind by Spore creatures that died from starvation). They will evolve five minutes after obtaining an Evolution Point, and might evolve again ten minutes after their first evolution to an even more dangerous form."
+            "text": "Spore creatures can evolve into more dangerous forms. A Spore creature needs to gain an Evolution Point to be able to evolve, which they can obtain by killing an other creature or eating a Human Remains block, which they can do eventually to avoid starvation if this block is available nearby (Human Remains are left behind by Spore creatures that died from starvation). They will evolve one minute after obtaining an Evolution Point, and might evolve again five minutes after their first evolution to an even more dangerous form."
         },
         {
             "type": "patchouli:text",
