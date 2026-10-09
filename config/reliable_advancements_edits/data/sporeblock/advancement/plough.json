@@ -16,15 +16,15 @@
       "impossible"
     ]
   ],
+  "parent": "sporeblock:large_waterwheel",
   "display": {
     "icon": {
       "id": "create:mechanical_plough"
     },
     "title": "A cheap contraption",
-    "description": "Craft a Mechanical Plough. What could you use that for?",
+    "description": "Craft a Mechanical Plough. While you won\u0027t be able to desinfect infected blocks yet, the Mechanical Plough can help clear and harvest Spore foliages.",
     "frame": "task"
   },
-  "parent": "sporeblock:large_waterwheel",
   "parents": [
     "sporeblock:large_waterwheel"
   ]

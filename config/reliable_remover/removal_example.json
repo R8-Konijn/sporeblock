@@ -18,7 +18,7 @@
         "spore:documents", "minecraft:oak_slab", "minecraft:spruce_slab", "minecraft:birch_slab", "minecraft:jungle_slab", "minecraft:acacia_slab",
         "minecraft:dark_oak_slab", "minecraft:mangrove_slab", "minecraft:cherry_slab", "minecraft:bamboo_slab","minecraft:bamboo_mosaic_slab", "minecraft:crimson_slab",
         "minecraft:warped_slab", "spore:zoaholic", "spore:pci", "simply_traps:circular_barbed_wire_ivy", "simply_traps:grass_trap",
-        "constructionwand:core_angel", "minecraft:water_bucket", "spore:bucket_of_bile",
+        "constructionwand:core_angel","spore:bucket_of_bile", "minecraft:water_bucket",
         "minecraft:enchanted_book", "minecraft:enchanting_table", "crafting_on_a_stick:anvil", "crafting_on_a_stick:chipped_anvil", "crafting_on_a_stick:damaged_anvil",
         "minecraft:cod_bucket", "minecraft:salmon_bucket", "minecraft:tropical_fish_bucket",
         "minecraft:pufferfish_bucket", "minecraft:axolotl_bucket", "minecraft:tadpole_bucket", "minecraft:lava_bucket", "minecraft:bucket",

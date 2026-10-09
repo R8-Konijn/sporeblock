@@ -5,15 +5,19 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "Structure Blocks are blocks which can eventually evolve to something greater. They evolve gaining Kill Points, which they can get by entering into contact with a Spore creature that itself got Kill Points. Structures Blocks can also be given Kill Points by a nearby Mound. Structure Blocks are placed by level 4 Mounds, and $(l)each Mound can only place a structure block once in its life$(). Spore creatures may get Kill Points in various ways, most notably by killing other creatures or being spawned by an Overcharged Scent."
+            "text": "Structure Blocks are blocks which can eventually evolve to something greater. They evolve gaining Kill Points, which they can get by entering into contact with a Spore creature that itself got Kill Points. Structures Blocks can also be given Kill Points by a nearby Mound. Structure Blocks are placed by level 4 Mounds, and $(l)each Mound can only place a structure block once in its life$()."
         },
         {
             "type": "patchouli:text",
-            "text": "$(l)Right click a Structure Block to see its amount of stored Kill Points.$()$(br2)Keep in mind however Spore creatures can also spend Kill Points on themselves to get status effects.$(br2)Read about how structure blocks work in the two next pages."   
+            "text": "Spore creatures may get Kill Points in various ways, most notably by killing other creatures or being spawned by an Overcharged Scent.$(br)$(l)Right click a Structure Block to see its amount of stored Kill Points.$()$(br2)Keep in mind however Spore creatures can also spend Kill Points on themselves to get status effects.$(br2)Read about how structure blocks work in the two next pages."   
         },
         {
             "type": "patchouli:text",
-            "text": "The $(l)Reconstructed Mind$() is the most dangerous Structure Block. Once reaching 20 Kills points, it can evolve into a Proto-Hivemind, enabling the advanced stage of the Spore Infestation. Do not let this happen before you are ready. More information can be found in the $(l:proto)Proto-Hivemind chapter$(/l). This block may be invisible from a distance of more than 30 blocks.$(br2)If a Proto-Hivemind already exists in less than 300 blocks from the Reconstructed Mind, it will evolve into an Outpost Watcher instead."
+            "text": "The $(l)Reconstructed Mind$() is the most dangerous Structure Block. Once reaching 20 Kills points, it can evolve into a Proto-Hivemind, enabling the advanced stage of the Spore Infestation. Do not let this happen before you are ready. More information can be found in the $(l:proto)Proto-Hivemind chapter$(/l). This block may be invisible from a distance of more than 30 blocks."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "If a Proto-Hivemind already exists in less than 300 blocks from the Reconstructed Mind, it will evolve into an Outpost Watcher instead."
         },
         {
             "type": "patchouli:text",

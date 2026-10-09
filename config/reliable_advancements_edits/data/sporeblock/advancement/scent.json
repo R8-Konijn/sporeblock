@@ -22,7 +22,7 @@
       "id": "spore:scent_spawnegg"
     },
     "title": "Frankenstein",
-    "description": "Obtain a Bottle of Scent",
+    "description": "Obtain a Bottle of Scent. Once crafted into a Bottle of Scent, Bile cannot be retrieved.",
     "frame": "task"
   },
   "parents": [

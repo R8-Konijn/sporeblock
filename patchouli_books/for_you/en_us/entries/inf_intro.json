@@ -5,7 +5,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "Once placed, the Mound corrupts the terrain around it, making it dangerous. It will start to create various hazardous blocks, which will drop Biomass if mined, which is an important material to obtain various things such as Andesite. Be careful as making contact with some of these blocks will hurt you!$(br)$(br)Every 15 minutes, the Mound will grow by one stage, and its infestation radius will increase. It can start to cause serious problems once it reaches stage 4, its final stage. The Mound also grows in size every time its stage increases."
+            "text": "Once placed, the Mound corrupts the terrain around it, making it dangerous. It will start to create various hazardous blocks, which will drop Biomass if mined, which is an important material to obtain various things such as Andesite. Be careful as making contact with some of these blocks will hurt you!"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Every 15 minutes, the Mound will grow by one stage, and its infestation radius will increase. It can start to cause serious problems once it reaches stage 4, its final stage. The Mound also grows in size every time its stage increases."
         },
         {
             "type": "patchouli:text",
@@ -13,11 +17,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "Once reaching stage 4, the Mound will summon hostile creatures that will pose a threat if not contained. They will occasionally summon Scampers, might lead to new mounds to be created. "
-        },
-        {
-            "type": "patchouli:text",
-            "text": "Once created, a Mound can be quite difficult to move around. However, some Create components might be able to push or move it around."
+            "text": "Once reaching stage 4, the Mound will summon hostile creatures that will pose a threat if not contained. They will occasionally summon Scampers, might lead to new mounds to be created.$(br2)Once created, a Mound can be quite difficult to move around. However, some Create components might be able to push or move it around."
         }
     ]
 }
