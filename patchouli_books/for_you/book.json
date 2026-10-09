@@ -4,5 +4,6 @@
     "landing_text": "",
     "creative_tab": "minecraft:tools_and_utilities",
     "use_resource_pack": false,
-    "model": "patchouli:book_red"
+    "model": "patchouli:book_red",
+    "pause_game": true
 }

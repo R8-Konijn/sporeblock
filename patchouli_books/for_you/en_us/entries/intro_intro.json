@@ -13,11 +13,19 @@
         },
         {
             "type": "patchouli:text",
-            "text": "One last disclaimer for people that have played with Fungal Infection: Spore before: Spore does not behave exactly like it does usually, as it had to be tweaked to evolve properly in a StoneBlock environment, partly to account for the lack of naturally spawning mobs they could feed on. Everything you need to know will be explained in the relevant chapters of this book.$(br)$(br)Also, you might have noticed that your do not have a hunger bar anymore. Instead, eating food will directly regen your health. Note that you can eat biomass!"
+            "text": "At first, you will not be able to prevent the Mound for infesting the area around it. However, you might want to look into ways to automatically harvest the dangerous foliages the Mound grow around it, and eventually control the creatures it will be able to summon once it reaches Stage 4."
         },
         {
             "type": "patchouli:text",
-            "text": "This modpack was made for the Big Autumn Packjam. If you have any feedback, feel free to open an issue on the Github (you can find it on the Modrinth page of the modpack) or reach me out through the Big Autumn Packjam discord server! (My discord is @r8_konijn)$(br)$(br)Have fun :)"
+            "text": "One last disclaimer for people that have played with Fungal Infection: Spore before: Spore does not behave exactly like it does usually, as it had to be tweaked to evolve properly in a StoneBlock environment, partly to account for the lack of naturally spawning mobs they could feed on. Everything you need to know will be explained in the relevant chapters of this book."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Also, you might have noticed that your do not have a hunger bar anymore. Instead, eating food will directly regen your health. Note that you can eat biomass!"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "This modpack was made for the Big Autumn Packjam. If you have any feedback, feel free to open an issue on the Github (you can find it on the Modrinth page of the modpack), leave a review on moddex, or reach me out through the Big Autumn Packjam discord server! (My discord is @r8_konijn)$(br)$(br)Have fun :)"
         }
     ]
 }
