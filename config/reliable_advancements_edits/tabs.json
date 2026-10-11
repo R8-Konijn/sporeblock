@@ -1493,8 +1493,8 @@
           80
         ],
         "sporeblock:tiab": [
-          -80,
-          80
+          -50,
+          98
         ],
         "sporeblock:basic_turret": [
           -109,
@@ -3581,6 +3581,12 @@
       "tab": "sporeblock:start",
       "title": "\"Water wheels.... with no water?\"",
       "icon": "create:water_wheel"
+    },
+    "sporeblock:clock": {
+      "owner": "reliable_advancements:standalone",
+      "tab": "sporeblock:start",
+      "title": "\"One rotation per 15 minutes\"",
+      "icon": "create:cuckoo_clock"
     }
   },
   "derived_presentation": {

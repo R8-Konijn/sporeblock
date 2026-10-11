@@ -5,7 +5,7 @@
   "respawn_anchor_works": false,
   "bed_works": true,
   "has_raids": true,
-  "has_skylight": true,
+  "has_skylight": false,
   "has_ceiling": true,
   "coordinate_scale": 1,
   "ambient_light": 0.2,
@@ -19,5 +19,6 @@
     "min_inclusive": 0,
     "max_inclusive": 7
   },
-  "monster_spawn_block_light_limit": 0
+  "monster_spawn_block_light_limit": 0,
+  "has_fixed_time": true
 }

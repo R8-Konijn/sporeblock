@@ -81,6 +81,10 @@
         "create:small_diorite_brick_wall", "create:small_diorite_brick_slab", "create:small_diorite_brick_stairs",
         "create:small_diorite_bricks", "create:cut_diorite_brick_wall", "minecraft:mangrove_sign", "minecraft:mangrove_hanging_sign",
         "minecraft:mangrove_boat", "minecraft:mangrove_chest_boat", "create:mangrove_window", "create:mangrove_window_pane", "minecraft:fire_charge",
-        "minecraft:honeycomb_block", "minecraft:honey_block", "minecraft:honey_bottle", "minecraft:honeycomb", "create:honeyed_apple", "minecraft:bee_nest", "minecraft:beehive"]
+        "minecraft:honeycomb_block", "minecraft:honey_block", "minecraft:honey_bottle", "minecraft:honeycomb", "create:honeyed_apple",
+        "minecraft:bee_nest", "minecraft:beehive", "create:cuckoo_clock", "minecraft:clock", "create:mysterious_cuckoo_clock", "minecraft:green_bed",
+        "minecraft:cyan_bed", "minecraft:light_blue_bed", "minecraft:blue_bed", "minecraft:purple_bed", "minecraft:magenta_bed",
+        "minecraft:pink_bed", "minecraft:lime_bed", "minecraft:yellow_bed", "minecraft:orange_bed", "minecraft:red_bed",
+        "minecraft:brown_bed", "minecraft:gray_bed", "minecraft:light_gray_bed", "minecraft:white_bed", "minecraft:black_bed", "spore:laboratory_bed"]
     }
 ]
