@@ -1301,7 +1301,8 @@
         "sporeblock:pump",
         "sporeblock:scent",
         "sporeblock:waterwheel",
-        "sporeblock:andesite_casing"
+        "sporeblock:andesite_casing",
+        "sporeblock:armor_fragment"
       ],
       "positions": {
         "sporeblock:mound_copy": [
@@ -1406,19 +1407,19 @@
         ],
         "sporeblock:armor_fragment": [
           -69,
-          198
+          160
         ],
         "sporeblock:surgery_table": [
           -109,
-          198
+          160
         ],
         "sporeblock:incubator": [
           -147,
-          198
+          160
         ],
         "sporeblock:egg": [
           -30,
-          198
+          186
         ],
         "sporeblock:lab_blocks": [
           79,
@@ -1426,7 +1427,7 @@
         ],
         "sporeblock:mooshroom": [
           -30,
-          229
+          213
         ],
         "sporeblock:brain": [
           27,
@@ -1461,12 +1462,12 @@
           291
         ],
         "sporeblock:snowball": [
-          30,
-          198
+          25,
+          186
         ],
         "sporeblock:cdu": [
-          30,
-          229
+          25,
+          213
         ],
         "sporeblock:reforged_biomass": [
           -26,
@@ -1497,12 +1498,12 @@
           98
         ],
         "sporeblock:basic_turret": [
-          -109,
-          229
+          -110,
+          185
         ],
         "sporeblock:advanced_turret": [
           -147,
-          229
+          185
         ],
         "sporeblock:large_waterwheel": [
           93,
@@ -1515,6 +1516,10 @@
         "sporeblock:lighter": [
           31,
           40
+        ],
+        "sporeblock:fungal_bonemeal": [
+          -78,
+          80
         ]
       }
     },
@@ -3587,6 +3592,12 @@
       "tab": "sporeblock:start",
       "title": "\"One rotation per 15 minutes\"",
       "icon": "create:cuckoo_clock"
+    },
+    "sporeblock:human_remains": {
+      "owner": "reliable_advancements:standalone",
+      "tab": "sporeblock:start",
+      "title": "\"More Recycling\"",
+      "icon": "spore:remains"
     }
   },
   "derived_presentation": {
@@ -3652,6 +3663,10 @@
     "sporeblock:andesite_casing": {
       "title": "The Andesite Age",
       "icon": "create:andesite_casing"
+    },
+    "sporeblock:armor_fragment": {
+      "title": "You Need Skincare",
+      "icon": "spore:armor_fragment"
     }
   }
 }

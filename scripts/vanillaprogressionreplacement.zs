@@ -29,6 +29,10 @@ furnace.addRecipe("zinc", <item:create:zinc_nugget>, <item:minecraft:cobblestone
 
 craftingTable.addShapeless("new_andesite", <item:minecraft:andesite>, [<item:minecraft:cobblestone>, <item:spore:biomass>]);
 
+//Fungal Bonemeal
+craftingTable.remove(<item:spore:fungal_bonemeal>);
+<recipetype:create:milling>.addJsonRecipe("create/milling/fungal_bonemeal", {type: "create:milling", processing_time: 150, results: [{id: "spore:fungal_bonemeal"}], ingredients: [{item: "spore:biomass"}]});
+
 
 //Mixing, Pressing, Bile, Slime Balls, Plough, Slab (For Bearing)
 craftingTable.remove(<item:create:whisk>);

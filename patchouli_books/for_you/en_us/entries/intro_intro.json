@@ -19,7 +19,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "At first, you will not be able to prevent the Mound for infesting the area around it. However, you might want to look into ways to automatically harvest the dangerous foliages the Mound grow around it, and eventually control the creatures it will be able to summon once it reaches Stage 4."
+            "text": "At first, you will not be able to prevent the Mound for infesting the area around it, manually removing the foliage blocks. Eventually, you might want to look into automated ways to harvest the foliages the Mound grow around it, and control the creatures it will be able to summon once it reaches Stage 4."
         },
         {
             "type": "patchouli:text",

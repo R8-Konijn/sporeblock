@@ -16,7 +16,6 @@
       "impossible"
     ]
   ],
-  "parent": "sporeblock:human_remains",
   "display": {
     "icon": {
       "id": "spore:armor_fragment"
@@ -25,7 +24,8 @@
     "description": "Kill an Evolved Spore creature to get a piece of Armor Fragment. Spore Creatures evolve some time after killing something or eating Human Remains to avoid starvation. Do not let them alive for too long though, or they might evolve again...",
     "frame": "task"
   },
+  "parent": "sporeblock:iron_nugget",
   "parents": [
-    "sporeblock:human_remains"
+    "sporeblock:iron_nugget"
   ]
 }

@@ -19,5 +19,7 @@ ItemEvents.modifyTooltips(event => {
   event.add('create:copper_nugget', '\u00a77Maybe you could automate this resource at some point?')
   event.add('minecraft:iron_nugget', '\u00a77Maybe you could automate this resource at some point?')
   event.add('minecraft:iron_nugget', '\u00a77... Yeah you get it at this point: you could consider automating most things in this pack, if you feel like it :p')
-  event.add('spore:organoid_membrane', '\u00a77Yeah, you could even automate this. Only if you feel up for the challenge of course, hehe')
+  event.add('spore:organoid_membrane', '\u00a77Yeah, you could even automate this. Only if you feel up for the challenge of course, hehe.')
+  event.add('spore:organoid_membrane', '\u00a77Dropped by Mounds and most other Organoids.')
+  event.add('minecraft:quartz', '\u00a77Obtained by washing Soul Sand.')
 })
