@@ -51,11 +51,14 @@ craftingTable.addShaped("create/mechanical_plough", <item:create:mechanical_plou
 craftingTable.addShaped("rotten_slab", <item:spore:rotten_slab>*6, [[<item:spore:rotten_planks>, <item:spore:rotten_planks>, <item:spore:rotten_planks>]]);
 <tag:item:minecraft:wooden_slabs>.add(<item:spore:rotten_slab>);
 
-//Copper, Super Glue
+//Copper, Super Glue, Pipes
 <recipetype:create:mixing>.addJsonRecipe("new_copper_nugget", {type: "create:mixing", results: [{id: "create:copper_nugget"}], ingredients: [{item: "create:zinc_nugget"}, {type: "neoforge:single", fluid: "spore:bile", amount: 100}]});
 
 craftingTable.addShaped("create/super_glue_2", <item:create:super_glue>, [[<tag:item:c:slimeballs>, <tag:item:c:plates/copper>], [<tag:item:c:nuggets/copper>, <tag:item:c:slimeballs>]]);
 
+craftingTable.remove(<item:create:fluid_pipe>);
+craftingTable.addShaped("create/pipe1", <item:create:fluid_pipe>*3, [[<item:minecraft:copper_ingot>],[<item:minecraft:copper_ingot>]]);
+craftingTable.addShaped("create/pipe2", <item:create:fluid_pipe>*3, [[<item:minecraft:copper_ingot>, <item:minecraft:copper_ingot>]]);
 
 //Scent and Iron
 craftingTable.remove(<item:create:spout>);
