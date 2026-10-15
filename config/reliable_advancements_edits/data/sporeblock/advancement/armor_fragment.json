@@ -16,15 +16,15 @@
       "impossible"
     ]
   ],
+  "parent": "sporeblock:iron_nugget",
   "display": {
     "icon": {
       "id": "spore:armor_fragment"
     },
     "title": "You Need Skincare",
-    "description": "Kill an Evolved Spore creature to get a piece of Armor Fragment. Spore Creatures evolve some time after killing something or eating Human Remains to avoid starvation. Do not let them alive for too long though, or they might evolve again...",
+    "description": "Kill an Evolved Spore creature to get a piece of Armor Fragment. Spore Creatures evolve after being alive for some time. Do not let them alive for too long though, or they might evolve again...",
     "frame": "task"
   },
-  "parent": "sporeblock:iron_nugget",
   "parents": [
     "sporeblock:iron_nugget"
   ]
