@@ -1,5 +1,8 @@
 [
   {"version":1},
+  {"ingredient":{"id":"spore:fungal_bonemeal"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create:millstone"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"spore:rotten_planks"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"minecraft:lead"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"minecraft:soul_sand"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"minecraft:bone_block"},"type":"item_stack","bookmarkType":"INGREDIENT"},
@@ -12,7 +15,6 @@
   {"ingredient":{"id":"constructionwand:infinity_wand","components":"{\"minecraft:custom_data\":{wand_options:{}}}"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"create:creative_motor"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"spore:bloomfung2"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"spore:fungal_bonemeal"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"spore:brain_remnants"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"minecraft:mooshroom_spawn_egg"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"creategbd:basic_laser_turret"},"type":"item_stack","bookmarkType":"INGREDIENT"},
@@ -97,7 +99,5 @@
   {"ingredient":{"id":"spore:living_pants"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"spore:inf_chest"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"spore:inf_up_chest"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"minecraft:paper"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"minecraft:dried_kelp_block"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"minecraft:dried_kelp"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+  {"ingredient":{"id":"minecraft:paper"},"type":"item_stack","bookmarkType":"INGREDIENT"}
 ]

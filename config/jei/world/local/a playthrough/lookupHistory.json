@@ -1,5 +1,6 @@
 [
   {"version":1},
+  {"ingredient":{"id":"minecraft:blast_furnace"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"minecraft:torch"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"minecraft:charcoal"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"minecraft:soul_torch"},"type":"item_stack","bookmarkType":"INGREDIENT"},
@@ -15,7 +16,6 @@
   {"ingredient":{"id":"minecraft:soul_sand"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"create:empty_blaze_burner"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"create:blaze_burner"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"wands:stone_wand"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"spore:fang"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"spore:alveolic_sack"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"spore:corrosive_sack"},"type":"item_stack","bookmarkType":"INGREDIENT"},

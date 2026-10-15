@@ -1,4 +1,7 @@
 [
   {"version":2},
-  {"recipe":"minecraft:campfire","recipeType":"minecraft:crafting","bookmarkType":"RECIPE"}
+  {"recipe":"minecraft:campfire","recipeType":"minecraft:crafting","bookmarkType":"RECIPE"},
+  {"recipe":"crafttweaker:create/mixing/create_rose_quartz","recipeType":"create:mixing","bookmarkType":"RECIPE"},
+  {"recipe":"create:splashing/soul_sand","recipeType":"create:fan_washing","bookmarkType":"RECIPE"},
+  {"recipe":"create:crafting/kinetics/encased_fan","recipeType":"minecraft:crafting","bookmarkType":"RECIPE"}
 ]
