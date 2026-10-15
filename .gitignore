@@ -9,3 +9,2219 @@ config/jei/world/local/hi/bookmarks.json
 config/jei/world/local/hi/lookupHistory.json
 config/jei/world/local/mf flat/lookupHistory.json
 config/jei/world/local/no distraction (1)/lookupHistory.json
+command_history.txt
+crash-reports/crash-2026-09-14_13.24.20-client.txt
+crash-reports/crash-2026-09-14_13.25.00-client.txt
+crash-reports/crash-2026-09-14_13.28.43-client.txt
+crash-reports/crash-2026-09-14_13.50.38-client.txt
+crash-reports/crash-2026-09-14_13.53.01-client.txt
+crash-reports/crash-2026-09-14_13.56.49-client.txt
+crash-reports/crash-2026-09-14_13.57.21-client.txt
+crash-reports/crash-2026-09-14_13.59.43-client.txt
+crash-reports/crash-2026-09-14_14.02.07-client.txt
+crash-reports/crash-2026-09-14_15.05.44-client.txt
+crash-reports/crash-2026-09-14_15.21.33-client.txt
+crash-reports/crash-2026-09-14_18.14.22-client.txt
+crash-reports/crash-2026-09-16_22.53.29-fml.txt
+crash-reports/crash-2026-09-16_22.53.30-client.txt
+crash-reports/crash-2026-09-16_22.56.27-fml.txt
+crash-reports/crash-2026-09-16_22.56.28-client.txt
+crash-reports/crash-2026-09-29_20.29.18-client.txt
+crash-reports/crash-2026-09-29_20.36.56-client.txt
+crash-reports/crash-2026-09-29_20.58.14-client.txt
+crash-reports/crash-2026-09-29_21.11.57-client.txt
+crash-reports/crash-2026-09-29_21.13.46-client.txt
+crash-reports/crash-2026-09-30_13.41.30-fml.txt
+crash-reports/crash-2026-09-30_20.11.12-server.txt
+downloads/log.json
+local/crash_assistant/16389_1792084155748.info
+local/crash_assistant/16389_1792084155748_app.jar
+local/crash_assistant/16389_1792084155748_args.info
+local/crash_assistant/16389_1792084155748_mod.jar
+local/crash_assistant/CONFIG_LOCK.tmp
+local/crash_assistant/joined_world_pid16389.tmp
+local/crash_assistant/local_config.json
+local/crash_assistant/mod_data_cache_v5/antiportals-neoforge-1.21.1-2.2.jar.mod_data.json
+local/crash_assistant/mod_data_cache_v5/appleskin-neoforge-mc1.21-3.0.9.jar.mod_data.json
+local/crash_assistant/mod_data_cache_v5/architectury-13.0.11-neoforge.jar.mod_data.json
+local/crash_assistant/mod_data_cache_v5/baguettelib-1.21.1-NeoForge-2.0.7.jar.mod_data.json
+local/crash_assistant/mod_data_cache_v5/bbe-neoforge-1.3.4-beta.3+mc1.21.1.jar.mod_data.json
+local/crash_assistant/mod_data_cache_v5/better-advanced-tooltips-2101.1.0-build.5.jar.mod_data.json
+local/crash_assistant/mod_data_cache_v5/BetterAdvancements-NeoForge-1.21.1-0.4.3.21.jar.mod_data.json
+local/crash_assistant/mod_data_cache_v5/betterdays-1.21.1-3.3.6.3-NEOFORGE.jar.mod_data.json
+local/crash_assistant/mod_data_cache_v5/Bpanorama-26.1-1.21.1-NeoForge.jar.mod_data.json
+local/crash_assistant/mod_data_cache_v5/buildinggadgets2-1.3.9.jar.mod_data.json
+local/crash_assistant/mod_data_cache_v5/BuildingWands-neoforge-MC1.21.1-3.0.5.jar.mod_data.json
+local/crash_assistant/mod_data_cache_v5/campfirespawnandtweaks-1.21.1-4.4.jar.mod_data.json
+local/crash_assistant/mod_data_cache_v5/carryon-neoforge-1.21.1-2.2.6.13.jar.mod_data.json
+local/crash_assistant/mod_data_cache_v5/cloth-config-15.0.140-neoforge.jar.mod_data.json
+local/crash_assistant/mod_data_cache_v5/collective-1.21.1-8.41.jar.mod_data.json
+local/crash_assistant/mod_data_cache_v5/collective-1.21.1-8.53.jar.mod_data.json
+local/crash_assistant/mod_data_cache_v5/constructionwand-kots-1.21.1-2.16.12.jar.mod_data.json
+local/crash_assistant/mod_data_cache_v5/Controlling-neoforge-1.21.1-19.0.5.jar.mod_data.json
+local/crash_assistant/mod_data_cache_v5/crafting_on_a_stick-1.21.0.6.jar.mod_data.json
+local/crash_assistant/mod_data_cache_v5/CraftTweaker-neoforge-1.21.1-21.0.38.jar.mod_data.json
+local/crash_assistant/mod_data_cache_v5/CrashAssistant-neoforge-1.20.6-1.21.4-1.11.12.jar.mod_data.json
+local/crash_assistant/mod_data_cache_v5/create-1.21.1-6.0.10.jar.mod_data.json
+local/crash_assistant/mod_data_cache_v5/create-aeronautics-bundled-1.21.1-1.3.2.jar.mod_data.json
+local/crash_assistant/mod_data_cache_v5/Create-Guardian-Beam-Defense-1.3.7.1b-1.21.1-neoforge.jar.mod_data.json
+local/crash_assistant/mod_data_cache_v5/create_netherless-2.0.0-1.21.1.jar.mod_data.json
+local/crash_assistant/mod_data_cache_v5/curios-neoforge-9.5.1+1.21.1.jar.mod_data.json
+local/crash_assistant/mod_data_cache_v5/entityculling-neoforge-1.10.5-mc1.21.1.jar.mod_data.json
+local/crash_assistant/mod_data_cache_v5/entityculling-neoforge-1.11.3-mc1.21.1.jar.mod_data.json
+local/crash_assistant/mod_data_cache_v5/ferritecore-7.0.3-neoforge.jar.mod_data.json
+local/crash_assistant/mod_data_cache_v5/gravestone-neoforge-1.21.1-1.0.40.jar.mod_data.json
+local/crash_assistant/mod_data_cache_v5/gravestonecurioscompat-1.21.1-NeoForge-4.0.2.jar.mod_data.json
+local/crash_assistant/mod_data_cache_v5/gravestonecurioscompat-1.21.1-NeoForge-4.2.0.jar.mod_data.json
+local/crash_assistant/mod_data_cache_v5/Hunger Strike-neoforge-1.21-9.0.0.jar.mod_data.json
+local/crash_assistant/mod_data_cache_v5/incontrol-1.21-10.3.0.jar.mod_data.json
+local/crash_assistant/mod_data_cache_v5/invtweaks-1.21.1-1.2.0.jar.mod_data.json
+local/crash_assistant/mod_data_cache_v5/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar.mod_data.json
+local/crash_assistant/mod_data_cache_v5/Jade-1.21.1-NeoForge-15.10.6.jar.mod_data.json
+local/crash_assistant/mod_data_cache_v5/jei-1.21.1-neoforge-19.56.0.438.jar.mod_data.json
+local/crash_assistant/mod_data_cache_v5/jei-1.21.1-neoforge-19.64.0.454.jar.mod_data.json
+local/crash_assistant/mod_data_cache_v5/kotlinforforge-5.12.0-all.jar.mod_data.json
+local/crash_assistant/mod_data_cache_v5/kubejs-neoforge-2101.7.2-build.377.jar.mod_data.json
+local/crash_assistant/mod_data_cache_v5/lithium-neoforge-0.15.4+mc1.21.1.jar.mod_data.json
+local/crash_assistant/mod_data_cache_v5/mezz_config-1.21.1-neoforge-0.5.7.jar.mod_data.json
+local/crash_assistant/mod_data_cache_v5/mezz_config-1.21.1-neoforge-0.6.8-standalone.jar.mod_data.json
+local/crash_assistant/mod_data_cache_v5/modernfix-neoforge-5.27.24+mc1.21.1.jar.mod_data.json
+local/crash_assistant/mod_data_cache_v5/modernfix-neoforge-5.27.26+mc1.21.1.jar.mod_data.json
+local/crash_assistant/mod_data_cache_v5/MouseTweaks-neoforge-mc1.21-2.26.1.jar.mod_data.json
+local/crash_assistant/mod_data_cache_v5/nomusicpause-1.21.1-1.0.jar.mod_data.json
+local/crash_assistant/mod_data_cache_v5/notutorial-neoforge-1.0.0.jar.mod_data.json
+local/crash_assistant/mod_data_cache_v5/onlyhammersandexcavators-1.21.1-1.0.3.jar.mod_data.json
+local/crash_assistant/mod_data_cache_v5/Patchouli-1.21.1-93-NEOFORGE.jar.mod_data.json
+local/crash_assistant/mod_data_cache_v5/PowerScreenshot-Minecraft1.21.1-NeoForge-1.0.2.jar.mod_data.json
+local/crash_assistant/mod_data_cache_v5/ProbeJS-8.0.3.jar.mod_data.json
+local/crash_assistant/mod_data_cache_v5/questlog-neoforge-1.21.1-3.4.0.jar.mod_data.json
+local/crash_assistant/mod_data_cache_v5/reliable_advancements-neoforge-1.21.1-6.2.5.jar.mod_data.json
+local/crash_assistant/mod_data_cache_v5/reliable_recipes-3.6.0+1.21.1-neoforge.jar.mod_data.json
+local/crash_assistant/mod_data_cache_v5/reliable_recipes-neoforge-1.21.1-3.2.0.jar.mod_data.json
+local/crash_assistant/mod_data_cache_v5/reliable_remover-3.6.0+1.21.1-neoforge.jar.mod_data.json
+local/crash_assistant/mod_data_cache_v5/reliable_remover-neoforge-1.21.1-3.1.1.jar.mod_data.json
+local/crash_assistant/mod_data_cache_v5/rhino-2101.2.8-build.91.jar.mod_data.json
+local/crash_assistant/mod_data_cache_v5/sable-neoforge-1.21.1-2.0.5.jar.mod_data.json
+local/crash_assistant/mod_data_cache_v5/Searchables-neoforge-1.21.1-1.0.2.jar.mod_data.json
+local/crash_assistant/mod_data_cache_v5/simply_traps-1.7-neoforge-1.21.1.jar.mod_data.json
+local/crash_assistant/mod_data_cache_v5/sodium-neoforge-0.8.13+mc1.21.1.jar.mod_data.json
+local/crash_assistant/mod_data_cache_v5/spore_1.21.1_2.2.0j_neo.jar.mod_data.json
+local/crash_assistant/mod_data_cache_v5/sporejeicompat-1.4.3.jar.mod_data.json
+local/crash_assistant/mod_data_cache_v5/starter_cabin-1.0.1.jar.mod_data.json
+local/crash_assistant/mod_data_cache_v5/tiab-entity-fix-1.0.3.jar.mod_data.json
+local/crash_assistant/mod_data_cache_v5/tiab-neoforge-6.5.4.jar.mod_data.json
+local/crash_assistant/mod_data_cache_v5/timeclock-4.7.0-neoforge-1.21.1.jar.mod_data.json
+local/crash_assistant/mod_data_cache_v5/tutorialsuppressor-0.1.0+1.20.6-neoforge.jar.mod_data.json
+local/crash_assistant/mod_data_cache_v5/valkyrienskies-1-21-1-2.3.0-beta.8+35e8864bfe_unofficial.jar.mod_data.json
+local/crash_assistant/mod_data_cache_v5/vanilla-stoneblock-1.2.8.jar.mod_data.json
+local/crash_assistant/mod_data_cache_v5/void-tp-v1.0.jar.mod_data.json
+local/crash_assistant/mod_data_cache_v5/woodenshears-neoforge-1.21-3.2.3.0.jar.mod_data.json
+local/crash_assistant/mod_data_cache_v5/yeetusexperimentus-neoforge-87.0.0.jar.mod_data.json
+local/crash_assistant/mod_data_cache_v5/yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar.mod_data.json
+local/crash_assistant/mod_list_scan.lock
+local/crash_assistant/modlist_history/1789385084151.json
+local/crash_assistant/modlist_history/1789385313207.json
+local/crash_assistant/modlist_history/1789385786798.json
+local/crash_assistant/modlist_history/1789385931295.json
+local/crash_assistant/modlist_history/1789386343101.json
+local/crash_assistant/modlist_history/1789386568479.json
+local/crash_assistant/modlist_history/1789386770643.json
+local/crash_assistant/modlist_history/1789386887102.json
+local/crash_assistant/modlist_history/1789387015037.json
+local/crash_assistant/modlist_history/1789387111540.json
+local/crash_assistant/modlist_history/1789387316794.json
+local/crash_assistant/modlist_history/1789387639870.json
+local/crash_assistant/modlist_history/1789388316671.json
+local/crash_assistant/modlist_history/1789390866814.json
+local/crash_assistant/modlist_history/1789391131714.json
+local/crash_assistant/modlist_history/1789392062549.json
+local/crash_assistant/modlist_history/1789392109049.json
+local/crash_assistant/modlist_history/1789395934933.json
+local/crash_assistant/modlist_history/1789396369020.json
+local/crash_assistant/modlist_history/1789399644625.json
+local/crash_assistant/modlist_history/1789402318808.json
+local/crash_assistant/modlist_history/1789402580262.json
+local/crash_assistant/modlist_history/1789403440037.json
+local/crash_assistant/modlist_history/1789405720963.json
+local/crash_assistant/modlist_history/1789408032229.json
+local/crash_assistant/modlist_history/1789415582665.json
+local/crash_assistant/modlist_history/1789488831221.json
+local/crash_assistant/modlist_history/1789488851916.json
+local/crash_assistant/modlist_history/1789488916401.json
+local/crash_assistant/modlist_history/1789495155498.json
+local/crash_assistant/modlist_history/1789495580609.json
+local/crash_assistant/modlist_history/1789498226145.json
+local/crash_assistant/modlist_history/1789499822065.json
+local/crash_assistant/modlist_history/1789500695717.json
+local/crash_assistant/modlist_history/1789503603685.json
+local/crash_assistant/modlist_history/1789504029421.json
+local/crash_assistant/modlist_history/1789504502390.json
+local/crash_assistant/modlist_history/1789518616116.json
+local/crash_assistant/modlist_history/1789521739809.json
+local/crash_assistant/modlist_history/1789521972027.json
+local/crash_assistant/modlist_history/1789523781391.json
+local/crash_assistant/modlist_history/1789531142753.json
+local/crash_assistant/modlist_history/1789531432296.json
+local/crash_assistant/modlist_history/1789556197021.json
+local/crash_assistant/modlist_history/1789569803923.json
+local/crash_assistant/modlist_history/1789574589280.json
+local/crash_assistant/modlist_history/1789576212747.json
+local/crash_assistant/modlist_history/1789578511880.json
+local/crash_assistant/modlist_history/1789591720560.json
+local/crash_assistant/modlist_history/1789591830527.json
+local/crash_assistant/modlist_history/1789592000848.json
+local/crash_assistant/modlist_history/1789592139961.json
+local/crash_assistant/modlist_history/1789592179435.json
+local/crash_assistant/modlist_history/1789592356045.json
+local/crash_assistant/modlist_history/1789592622397.json
+local/crash_assistant/modlist_history/1789595123133.json
+local/crash_assistant/modlist_history/1789604404191.json
+local/crash_assistant/modlist_history/1789609793199.json
+local/crash_assistant/modlist_history/1789610897602.json
+local/crash_assistant/modlist_history/1789668159866.json
+local/crash_assistant/modlist_history/1789668227008.json
+local/crash_assistant/modlist_history/1789675520790.json
+local/crash_assistant/modlist_history/1789675899871.json
+local/crash_assistant/modlist_history/1789682084785.json
+local/crash_assistant/modlist_history/1789692659728.json
+local/crash_assistant/modlist_history/1789695894011.json
+local/crash_assistant/modlist_history/1789700171119.json
+local/crash_assistant/modlist_history/1789742277571.json
+local/crash_assistant/modlist_history/1789743093012.json
+local/crash_assistant/modlist_history/1789743972447.json
+local/crash_assistant/modlist_history/1789753211500.json
+local/crash_assistant/modlist_history/1789753650785.json
+local/crash_assistant/modlist_history/1789759749712.json
+local/crash_assistant/modlist_history/1789761172524.json
+local/crash_assistant/modlist_history/1789767662075.json
+local/crash_assistant/modlist_history/1789767885740.json
+local/crash_assistant/modlist_history/1789767971736.json
+local/crash_assistant/modlist_history/1789768018497.json
+local/crash_assistant/modlist_history/1789768073208.json
+local/crash_assistant/modlist_history/1789768159863.json
+local/crash_assistant/modlist_history/1789768333965.json
+local/crash_assistant/modlist_history/1789773164656.json
+local/crash_assistant/modlist_history/1789773208219.json
+local/crash_assistant/modlist_history/1789773457892.json
+local/crash_assistant/modlist_history/1789773792281.json
+local/crash_assistant/modlist_history/1789773963825.json
+local/crash_assistant/modlist_history/1789776009557.json
+local/crash_assistant/modlist_history/1789778885285.json
+local/crash_assistant/modlist_history/1789779887866.json
+local/crash_assistant/modlist_history/1789782881657.json
+local/crash_assistant/modlist_history/1789787359798.json
+local/crash_assistant/modlist_history/1789853804404.json
+local/crash_assistant/modlist_history/1789860119209.json
+local/crash_assistant/modlist_history/1789860204657.json
+local/crash_assistant/modlist_history/1789860468071.json
+local/crash_assistant/modlist_history/1789860601675.json
+local/crash_assistant/modlist_history/1789931857578.json
+local/crash_assistant/modlist_history/1789934001688.json
+local/crash_assistant/modlist_history/1789934705815.json
+local/crash_assistant/modlist_history/1789951107041.json
+local/crash_assistant/modlist_history/1789982413511.json
+local/crash_assistant/modlist_history/1790027829549.json
+local/crash_assistant/modlist_history/1790029259045.json
+local/crash_assistant/modlist_history/1790037123903.json
+local/crash_assistant/modlist_history/1790038181584.json
+local/crash_assistant/modlist_history/1790117994865.json
+local/crash_assistant/modlist_history/1790178468948.json
+local/crash_assistant/modlist_history/1790185011446.json
+local/crash_assistant/modlist_history/1790205196061.json
+local/crash_assistant/modlist_history/1790206047622.json
+local/crash_assistant/modlist_history/1790210367817.json
+local/crash_assistant/modlist_history/1790211746589.json
+local/crash_assistant/modlist_history/1790216423060.json
+local/crash_assistant/modlist_history/1790217484791.json
+local/crash_assistant/modlist_history/1790218044075.json
+local/crash_assistant/modlist_history/1790232275611.json
+local/crash_assistant/modlist_history/1790234085735.json
+local/crash_assistant/modlist_history/1790235261942.json
+local/crash_assistant/modlist_history/1790236463628.json
+local/crash_assistant/modlist_history/1790242527738.json
+local/crash_assistant/modlist_history/1790287092778.json
+local/crash_assistant/modlist_history/1790287173284.json
+local/crash_assistant/modlist_history/1790292793225.json
+local/crash_assistant/modlist_history/1790321645840.json
+local/crash_assistant/modlist_history/1790333456551.json
+local/crash_assistant/modlist_history/1790333960842.json
+local/crash_assistant/modlist_history/1790334168287.json
+local/crash_assistant/modlist_history/1790334256149.json
+local/crash_assistant/modlist_history/1790334326329.json
+local/crash_assistant/modlist_history/1790334503376.json
+local/crash_assistant/modlist_history/1790338514832.json
+local/crash_assistant/modlist_history/1790341958557.json
+local/crash_assistant/modlist_history/1790342150106.json
+local/crash_assistant/modlist_history/1790347910007.json
+local/crash_assistant/modlist_history/1790347986374.json
+local/crash_assistant/modlist_history/1790370008708.json
+local/crash_assistant/modlist_history/1790374482921.json
+local/crash_assistant/modlist_history/1790375845142.json
+local/crash_assistant/modlist_history/1790383366744.json
+local/crash_assistant/modlist_history/1790552620374.json
+local/crash_assistant/modlist_history/1790552821000.json
+local/crash_assistant/modlist_history/1790554444392.json
+local/crash_assistant/modlist_history/1790562072710.json
+local/crash_assistant/modlist_history/1790611876754.json
+local/crash_assistant/modlist_history/1790618226749.json
+local/crash_assistant/modlist_history/1790619779581.json
+local/crash_assistant/modlist_history/1790629075857.json
+local/crash_assistant/modlist_history/1790629809963.json
+local/crash_assistant/modlist_history/1790632210911.json
+local/crash_assistant/modlist_history/1790640651842.json
+local/crash_assistant/modlist_history/1790641537281.json
+local/crash_assistant/modlist_history/1790705088959.json
+local/crash_assistant/modlist_history/1790706571131.json
+local/crash_assistant/modlist_history/1790707077584.json
+local/crash_assistant/modlist_history/1790708849513.json
+local/crash_assistant/modlist_history/1790709135722.json
+local/crash_assistant/modlist_history/1790709332248.json
+local/crash_assistant/modlist_history/1790709446364.json
+local/crash_assistant/modlist_history/1790711382136.json
+local/crash_assistant/modlist_history/1790713793765.json
+local/crash_assistant/modlist_history/1790714100669.json
+local/crash_assistant/modlist_history/1790731049713.json
+local/crash_assistant/modlist_history/1790768484228.json
+local/crash_assistant/modlist_history/1790768516237.json
+local/crash_assistant/modlist_history/1790771758652.json
+local/crash_assistant/modlist_history/1790772398777.json
+local/crash_assistant/modlist_history/1790783742600.json
+local/crash_assistant/modlist_history/1790786830102.json
+local/crash_assistant/modlist_history/1790792057550.json
+local/crash_assistant/modlist_history/1790797974608.json
+local/crash_assistant/modlist_history/1790800185818.json
+local/crash_assistant/modlist_history/1790800542915.json
+local/crash_assistant/modlist_history/1790811613748.json
+local/crash_assistant/modlist_history/1790813455453.json
+local/crash_assistant/modlist_history/1790865619870.json
+local/crash_assistant/modlist_history/1790867236067.json
+local/crash_assistant/modlist_history/1790871464418.json
+local/crash_assistant/modlist_history/1790871842368.json
+local/crash_assistant/modlist_history/1790872242022.json
+local/crash_assistant/modlist_history/1790872460178.json
+local/crash_assistant/modlist_history/1790949685923.json
+local/crash_assistant/modlist_history/1790989886667.json
+local/crash_assistant/modlist_history/1790989973176.json
+local/crash_assistant/modlist_history/1790993410092.json
+local/crash_assistant/modlist_history/1790994348281.json
+local/crash_assistant/modlist_history/1791054416758.json
+local/crash_assistant/modlist_history/1791057486271.json
+local/crash_assistant/modlist_history/1791060323956.json
+local/crash_assistant/modlist_history/1791060599654.json
+local/crash_assistant/modlist_history/1791061518013.json
+local/crash_assistant/modlist_history/1791061971235.json
+local/crash_assistant/modlist_history/1791062757220.json
+local/crash_assistant/modlist_history/1791072271082.json
+local/crash_assistant/modlist_history/1791075422670.json
+local/crash_assistant/modlist_history/1791076611565.json
+local/crash_assistant/modlist_history/1791080683730.json
+local/crash_assistant/modlist_history/1791082722456.json
+local/crash_assistant/modlist_history/1791083435723.json
+local/crash_assistant/modlist_history/1791115607465.json
+local/crash_assistant/modlist_history/1791119996396.json
+local/crash_assistant/modlist_history/1791120163633.json
+local/crash_assistant/modlist_history/1791122245431.json
+local/crash_assistant/modlist_history/1791123543695.json
+local/crash_assistant/modlist_history/1791125745294.json
+local/crash_assistant/modlist_history/1791155221259.json
+local/crash_assistant/modlist_history/1791155850170.json
+local/crash_assistant/modlist_history/1791156450992.json
+local/crash_assistant/modlist_history/1791160644185.json
+local/crash_assistant/modlist_history/1791212722867.json
+local/crash_assistant/modlist_history/1791215585272.json
+local/crash_assistant/modlist_history/1791219380564.json
+local/crash_assistant/modlist_history/1791244697238.json
+local/crash_assistant/modlist_history/1791246575424.json
+local/crash_assistant/modlist_history/1791318757059.json
+local/crash_assistant/modlist_history/1791322453264.json
+local/crash_assistant/modlist_history/1791323003358.json
+local/crash_assistant/modlist_history/1791326528048.json
+local/crash_assistant/modlist_history/1791331300440.json
+local/crash_assistant/modlist_history/1791332548797.json
+local/crash_assistant/modlist_history/1791392712394.json
+local/crash_assistant/modlist_history/1791551710613.json
+local/crash_assistant/modlist_history/1791552695392.json
+local/crash_assistant/modlist_history/1791553880436.json
+local/crash_assistant/modlist_history/1791554129422.json
+local/crash_assistant/modlist_history/1791560395857.json
+local/crash_assistant/modlist_history/1791560547160.json
+local/crash_assistant/modlist_history/1791564531561.json
+local/crash_assistant/modlist_history/1791564701267.json
+local/crash_assistant/modlist_history/1791566189726.json
+local/crash_assistant/modlist_history/1791666743021.json
+local/crash_assistant/modlist_history/1791666931165.json
+local/crash_assistant/modlist_history/1791669732076.json
+local/crash_assistant/modlist_history/1791670150649.json
+local/crash_assistant/modlist_history/1791672239719.json
+local/crash_assistant/modlist_history/1791673416564.json
+local/crash_assistant/modlist_history/1791673550347.json
+local/crash_assistant/modlist_history/1791679881443.json
+local/crash_assistant/modlist_history/1791680902848.json
+local/crash_assistant/modlist_history/1791680994885.json
+local/crash_assistant/modlist_history/1791728272732.json
+local/crash_assistant/modlist_history/1791728970042.json
+local/crash_assistant/modlist_history/1791729116237.json
+local/crash_assistant/modlist_history/1791729172185.json
+local/crash_assistant/modlist_history/1791729371823.json
+local/crash_assistant/modlist_history/1791729709960.json
+local/crash_assistant/modlist_history/1791731464897.json
+local/crash_assistant/modlist_history/1791732242178.json
+local/crash_assistant/modlist_history/1791732431364.json
+local/crash_assistant/modlist_history/1791732544163.json
+local/crash_assistant/modlist_history/1791732622304.json
+local/crash_assistant/modlist_history/1791732785137.json
+local/crash_assistant/modlist_history/1791733129655.json
+local/crash_assistant/modlist_history/1791733518526.json
+local/crash_assistant/modlist_history/1791735069226.json
+local/crash_assistant/modlist_history/1791762068213.json
+local/crash_assistant/modlist_history/1791766220424.json
+local/crash_assistant/modlist_history/1791832627013.json
+local/crash_assistant/modlist_history/1791834141158.json
+local/crash_assistant/modlist_history/1791899700894.json
+local/crash_assistant/modlist_history/1791927836161.json
+local/crash_assistant/modlist_history/1791999663060.json
+local/crash_assistant/modlist_history/1792084155748.json
+local/crash_assistant/normal_stop_pid16389.tmp
+local/crash_assistant/renderer_pid16389.tmp
+local/crash_assistant/successful_launch_pid16389.tmp
+local/crash_assistant/username.info
+local/kubejs/dev.json
+logs/2026-09-14-1.log.gz
+logs/2026-09-14-2.log.gz
+logs/2026-09-14-3.log.gz
+logs/2026-09-14-4.log.gz
+logs/2026-09-14-5.log.gz
+logs/2026-09-14-6.log.gz
+logs/2026-09-15-1.log.gz
+logs/2026-09-15-2.log.gz
+logs/2026-09-15-3.log.gz
+logs/2026-09-15-4.log.gz
+logs/2026-09-15-5.log.gz
+logs/2026-09-15-6.log.gz
+logs/2026-09-15-7.log.gz
+logs/2026-09-15-8.log.gz
+logs/2026-09-16-1.log.gz
+logs/2026-09-16-2.log.gz
+logs/2026-09-16-3.log.gz
+logs/2026-09-16-4.log.gz
+logs/2026-09-16-5.log.gz
+logs/2026-09-16-6.log.gz
+logs/2026-09-16-7.log.gz
+logs/2026-09-16-8.log.gz
+logs/2026-09-17-1.log.gz
+logs/2026-09-17-2.log.gz
+logs/2026-09-17-3.log.gz
+logs/2026-09-17-4.log.gz
+logs/2026-09-17-5.log.gz
+logs/2026-09-17-6.log.gz
+logs/2026-09-17-7.log.gz
+logs/2026-09-17-8.log.gz
+logs/2026-09-18-1.log.gz
+logs/2026-09-18-2.log.gz
+logs/2026-09-18-3.log.gz
+logs/2026-09-18-4.log.gz
+logs/2026-09-18-5.log.gz
+logs/2026-09-18-6.log.gz
+logs/2026-09-18-7.log.gz
+logs/2026-09-18-8.log.gz
+logs/2026-09-19-1.log.gz
+logs/2026-09-19-2.log.gz
+logs/2026-09-19-3.log.gz
+logs/2026-09-19-4.log.gz
+logs/2026-09-19-5.log.gz
+logs/2026-09-19-6.log.gz
+logs/2026-09-19-7.log.gz
+logs/2026-09-19-8.log.gz
+logs/2026-09-20-1.log.gz
+logs/2026-09-20-2.log.gz
+logs/2026-09-20-3.log.gz
+logs/2026-09-20-4.log.gz
+logs/2026-09-20-5.log.gz
+logs/2026-09-20-6.log.gz
+logs/2026-09-20-7.log.gz
+logs/2026-09-20-8.log.gz
+logs/2026-09-21-1.log.gz
+logs/2026-09-21-2.log.gz
+logs/2026-09-21-3.log.gz
+logs/2026-09-21-4.log.gz
+logs/2026-09-22-1.log.gz
+logs/2026-09-22-2.log.gz
+logs/2026-09-22-3.log.gz
+logs/2026-09-22-4.log.gz
+logs/2026-09-23-1.log.gz
+logs/2026-09-23-2.log.gz
+logs/2026-09-23-3.log.gz
+logs/2026-09-24-1.log.gz
+logs/2026-09-24-2.log.gz
+logs/2026-09-24-3.log.gz
+logs/2026-09-24-4.log.gz
+logs/2026-09-24-5.log.gz
+logs/2026-09-24-6.log.gz
+logs/2026-09-24-7.log.gz
+logs/2026-09-24-8.log.gz
+logs/2026-09-25-1.log.gz
+logs/2026-09-25-2.log.gz
+logs/2026-09-25-3.log.gz
+logs/2026-09-25-4.log.gz
+logs/2026-09-25-5.log.gz
+logs/2026-09-25-6.log.gz
+logs/2026-09-25-7.log.gz
+logs/2026-09-25-8.log.gz
+logs/2026-09-26-1.log.gz
+logs/2026-09-26-2.log.gz
+logs/2026-09-26-3.log.gz
+logs/2026-09-26-4.log.gz
+logs/2026-09-28-1.log.gz
+logs/2026-09-28-2.log.gz
+logs/2026-09-28-3.log.gz
+logs/2026-09-28-4.log.gz
+logs/2026-09-28-5.log.gz
+logs/2026-09-28-6.log.gz
+logs/2026-09-28-7.log.gz
+logs/2026-09-28-8.log.gz
+logs/2026-09-29-1.log.gz
+logs/2026-09-29-2.log.gz
+logs/2026-09-29-3.log.gz
+logs/2026-09-29-4.log.gz
+logs/2026-09-29-5.log.gz
+logs/2026-09-29-6.log.gz
+logs/2026-09-29-7.log.gz
+logs/2026-09-29-8.log.gz
+logs/2026-09-30-1.log.gz
+logs/2026-09-30-2.log.gz
+logs/2026-09-30-3.log.gz
+logs/2026-09-30-4.log.gz
+logs/2026-09-30-5.log.gz
+logs/2026-09-30-6.log.gz
+logs/2026-10-01-1.log.gz
+logs/2026-10-01-2.log.gz
+logs/2026-10-01-3.log.gz
+logs/2026-10-01-4.log.gz
+logs/2026-10-01-5.log.gz
+logs/2026-10-01-6.log.gz
+logs/2026-10-02-1.log.gz
+logs/2026-10-03-1.log.gz
+logs/2026-10-03-2.log.gz
+logs/2026-10-03-3.log.gz
+logs/2026-10-03-4.log.gz
+logs/2026-10-03-5.log.gz
+logs/2026-10-03-6.log.gz
+logs/2026-10-04-1.log.gz
+logs/2026-10-04-2.log.gz
+logs/2026-10-04-3.log.gz
+logs/2026-10-04-4.log.gz
+logs/2026-10-04-5.log.gz
+logs/2026-10-04-6.log.gz
+logs/2026-10-05-1.log.gz
+logs/2026-10-05-2.log.gz
+logs/2026-10-05-3.log.gz
+logs/2026-10-05-4.log.gz
+logs/2026-10-05-5.log.gz
+logs/2026-10-05-6.log.gz
+logs/2026-10-06-1.log.gz
+logs/2026-10-06-2.log.gz
+logs/2026-10-06-3.log.gz
+logs/2026-10-06-4.log.gz
+logs/2026-10-06-5.log.gz
+logs/2026-10-07-1.log.gz
+logs/2026-10-07-2.log.gz
+logs/2026-10-07-3.log.gz
+logs/2026-10-07-4.log.gz
+logs/2026-10-09-1.log.gz
+logs/2026-10-09-2.log.gz
+logs/2026-10-09-3.log.gz
+logs/2026-10-09-4.log.gz
+logs/2026-10-09-5.log.gz
+logs/2026-10-09-6.log.gz
+logs/2026-10-10-1.log.gz
+logs/2026-10-10-2.log.gz
+logs/2026-10-11-1.log.gz
+logs/2026-10-11-2.log.gz
+logs/2026-10-11-3.log.gz
+logs/2026-10-11-4.log.gz
+logs/2026-10-11-5.log.gz
+logs/2026-10-11-6.log.gz
+logs/2026-10-12-1.log.gz
+logs/2026-10-12-2.log.gz
+logs/2026-10-12-3.log.gz
+logs/2026-10-12-4.log.gz
+logs/2026-10-13-1.log.gz
+logs/2026-10-13-2.log.gz
+logs/2026-10-14-1.log.gz
+logs/2026-10-14-2.log.gz
+logs/crafttweaker.log
+logs/crash_assistant/crash_assistant_app.log
+logs/crash_assistant/crash_assistant_app_2026-10-07_19-05-14.log.gz
+logs/crash_assistant/crash_assistant_app_2026-10-09_15-15-12.log.gz
+logs/crash_assistant/crash_assistant_app_2026-10-09_15-31-36.log.gz
+logs/crash_assistant/crash_assistant_app_2026-10-09_15-51-22.log.gz
+logs/crash_assistant/crash_assistant_app_2026-10-09_15-55-31.log.gz
+logs/crash_assistant/crash_assistant_app_2026-10-09_17-39-57.log.gz
+logs/crash_assistant/crash_assistant_app_2026-10-09_17-42-28.log.gz
+logs/crash_assistant/crash_assistant_app_2026-10-09_18-48-53.log.gz
+logs/crash_assistant/crash_assistant_app_2026-10-09_18-51-43.log.gz
+logs/crash_assistant/crash_assistant_app_2026-10-09_19-16-31.log.gz
+logs/crash_assistant/crash_assistant_app_2026-10-10_23-12-26.log.gz
+logs/crash_assistant/crash_assistant_app_2026-10-10_23-15-32.log.gz
+logs/crash_assistant/crash_assistant_app_2026-10-11_00-02-14.log.gz
+logs/crash_assistant/crash_assistant_app_2026-10-11_00-09-12.log.gz
+logs/crash_assistant/crash_assistant_app_2026-10-11_00-44-01.log.gz
+logs/crash_assistant/crash_assistant_app_2026-10-11_01-03-38.log.gz
+logs/crash_assistant/crash_assistant_app_2026-10-11_01-05-52.log.gz
+logs/crash_assistant/crash_assistant_app_2026-10-11_02-51-23.log.gz
+logs/crash_assistant/crash_assistant_app_2026-10-11_03-08-24.log.gz
+logs/crash_assistant/crash_assistant_app_2026-10-11_03-09-56.log.gz
+logs/crash_assistant/crash_assistant_app_2026-10-11_16-17-54.log.gz
+logs/crash_assistant/crash_assistant_app_2026-10-11_16-29-31.log.gz
+logs/crash_assistant/crash_assistant_app_2026-10-11_16-31-57.log.gz
+logs/crash_assistant/crash_assistant_app_2026-10-11_16-32-53.log.gz
+logs/crash_assistant/crash_assistant_app_2026-10-11_16-36-13.log.gz
+logs/crash_assistant/crash_assistant_app_2026-10-11_16-41-51.log.gz
+logs/crash_assistant/crash_assistant_app_2026-10-11_17-11-06.log.gz
+logs/crash_assistant/crash_assistant_app_2026-10-11_17-24-03.log.gz
+logs/crash_assistant/crash_assistant_app_2026-10-11_17-27-14.log.gz
+logs/crash_assistant/crash_assistant_app_2026-10-11_17-29-05.log.gz
+logs/crash_assistant/crash_assistant_app_2026-10-11_17-30-24.log.gz
+logs/crash_assistant/crash_assistant_app_2026-10-11_17-33-06.log.gz
+logs/crash_assistant/crash_assistant_app_2026-10-11_17-38-53.log.gz
+logs/crash_assistant/crash_assistant_app_2026-10-11_17-45-20.log.gz
+logs/crash_assistant/crash_assistant_app_2026-10-11_18-11-10.log.gz
+logs/crash_assistant/crash_assistant_app_2026-10-12_01-41-10.log.gz
+logs/crash_assistant/crash_assistant_app_2026-10-12_02-50-22.log.gz
+logs/crash_assistant/crash_assistant_app_2026-10-12_21-17-09.log.gz
+logs/crash_assistant/crash_assistant_app_2026-10-12_21-42-22.log.gz
+logs/crash_assistant/crash_assistant_app_2026-10-13_15-55-02.log.gz
+logs/crash_assistant/crash_assistant_app_2026-10-13_23-43-58.log.gz
+logs/crash_assistant/crash_assistant_app_2026-10-14_19-41-04.log.gz
+logs/crash_assistant/startup_scripts.log
+logs/debug-1.log.gz
+logs/debug-2.log.gz
+logs/debug-3.log.gz
+logs/debug-4.log.gz
+logs/debug-5.log.gz
+logs/debug.log
+logs/kubejs/client.log
+logs/kubejs/server.log
+logs/kubejs/startup.log
+logs/latest.log
+logs/modlist.txt
+logs/stderr_stream.log
+mods/.index/antiportals.pw.toml
+mods/.index/architectury-api.pw.toml
+mods/.index/baguettelib.pw.toml
+mods/.index/better-advanced-tooltips.pw.toml
+mods/.index/betterdays.pw.toml
+mods/.index/campfire-spawn-and-tweaks.pw.toml
+mods/.index/cloth-config.pw.toml
+mods/.index/collective.pw.toml
+mods/.index/construction-wand-kots.pw.toml
+mods/.index/controlling.pw.toml
+mods/.index/crafting-on-a-stick.pw.toml
+mods/.index/crafttweaker.pw.toml
+mods/.index/crash-assistant.pw.toml
+mods/.index/create-guardian-beam-defense.pw.toml
+mods/.index/create-netherless.pw.toml
+mods/.index/create.pw.toml
+mods/.index/curios.pw.toml
+mods/.index/entityculling.pw.toml
+mods/.index/ferrite-core.pw.toml
+mods/.index/fungal-infectionspore.pw.toml
+mods/.index/gravestone-mod.pw.toml
+mods/.index/gravestone-x-curios-api-compat.pw.toml
+mods/.index/hunger-strike.pw.toml
+mods/.index/in-control.pw.toml
+mods/.index/inventory-tweaks-refoxed.pw.toml
+mods/.index/iris.pw.toml
+mods/.index/jade.pw.toml
+mods/.index/jei.pw.toml
+mods/.index/kubejs.pw.toml
+mods/.index/lithium.pw.toml
+mods/.index/mezzconfig.pw.toml
+mods/.index/modernfix.pw.toml
+mods/.index/mouse-tweaks.pw.toml
+mods/.index/nomusicpause.pw.toml
+mods/.index/only-hammers-and-excavators.pw.toml
+mods/.index/patchouli.pw.toml
+mods/.index/reliable-advancements.pw.toml
+mods/.index/reliable-recipes.pw.toml
+mods/.index/reliable-remover.pw.toml
+mods/.index/rhino.pw.toml
+mods/.index/searchables.pw.toml
+mods/.index/simply-traps.pw.toml
+mods/.index/sodium.pw.toml
+mods/.index/spore-jei-compat.pw.toml
+mods/.index/starter-cabin.pw.toml
+mods/.index/time-in-a-bottle-fix-tiab-fix.pw.toml
+mods/.index/time-in-a-bottle-universal.pw.toml
+mods/.index/tutorial-suppressor.pw.toml
+mods/.index/yacl.pw.toml
+mods/.index/yeetus-experimentus.pw.toml
+mods/antiportals-neoforge-1.21.1-2.2.jar
+mods/architectury-13.0.11-neoforge.jar
+mods/baguettelib-1.21.1-NeoForge-2.0.7.jar
+mods/better-advanced-tooltips-2101.1.0-build.5.jar
+mods/betterdays-1.21.1-3.3.6.3-NEOFORGE.jar
+mods/campfirespawnandtweaks-1.21.1-4.4.jar
+mods/cloth-config-15.0.140-neoforge.jar
+mods/collective-1.21.1-8.53.jar
+mods/constructionwand-kots-1.21.1-2.16.12.jar
+mods/Controlling-neoforge-1.21.1-19.0.5.jar
+mods/crafting_on_a_stick-1.21.0.6.jar
+mods/CraftTweaker-neoforge-1.21.1-21.0.38.jar
+mods/CrashAssistant-neoforge-1.20.6-1.21.4-1.11.12.jar
+mods/create-1.21.1-6.0.10.jar
+mods/Create-Guardian-Beam-Defense-1.3.7.1b-1.21.1-neoforge.jar
+mods/create_netherless-2.0.0-1.21.1.jar
+mods/curios-neoforge-9.5.1+1.21.1.jar
+mods/entityculling-neoforge-1.11.3-mc1.21.1.jar
+mods/ferritecore-7.0.3-neoforge.jar
+mods/gravestone-neoforge-1.21.1-1.0.40.jar
+mods/gravestonecurioscompat-1.21.1-NeoForge-4.2.0.jar
+mods/Hunger Strike-neoforge-1.21-9.0.0.jar
+mods/incontrol-1.21-10.3.0.jar
+mods/invtweaks-1.21.1-1.2.0.jar
+mods/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar
+mods/Jade-1.21.1-NeoForge-15.10.6.jar
+mods/jei-1.21.1-neoforge-19.64.0.454.jar
+mods/kubejs-neoforge-2101.7.2-build.377.jar
+mods/lithium-neoforge-0.15.4+mc1.21.1.jar
+mods/mezz_config-1.21.1-neoforge-0.6.8-standalone.jar
+mods/modernfix-neoforge-5.27.26+mc1.21.1.jar
+mods/MouseTweaks-neoforge-mc1.21-2.26.1.jar
+mods/nomusicpause-1.21.1-1.0.jar
+mods/onlyhammersandexcavators-1.21.1-1.0.3.jar
+mods/Patchouli-1.21.1-93-NEOFORGE.jar
+mods/reliable_advancements-neoforge-1.21.1-6.2.5.jar
+mods/reliable_recipes-3.6.0+1.21.1-neoforge.jar
+mods/reliable_remover-3.6.0+1.21.1-neoforge.jar
+mods/rhino-2101.2.8-build.91.jar
+mods/Searchables-neoforge-1.21.1-1.0.2.jar
+mods/simply_traps-1.7-neoforge-1.21.1.jar
+mods/sodium-neoforge-0.8.13+mc1.21.1.jar
+mods/spore_1.21.1_2.2.0j_neo.jar
+mods/sporejeicompat-1.4.3.jar
+mods/starter_cabin-1.0.1.jar
+mods/tiab-entity-fix-1.0.3.jar
+mods/tiab-neoforge-6.5.4.jar
+mods/tutorialsuppressor-0.1.0+1.20.6-neoforge.jar
+mods/yeetusexperimentus-neoforge-87.0.0.jar
+mods/yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar
+options.txt
+patchouli_data.json
+saves/a playthrough/advancements/f0395c6e-234d-41dc-883a-25c73b14733a.json
+saves/a playthrough/data/aeronautics_unloaded_balloons.dat
+saves/a playthrough/data/collective/itemnametranslation.txt
+saves/a playthrough/data/crafttweaker_saved_data.dat
+saves/a playthrough/data/InControlData.dat
+saves/a playthrough/data/mezz_config/server-id.txt
+saves/a playthrough/data/neoforge_data_attachments.dat
+saves/a playthrough/data/raids.dat
+saves/a playthrough/data/random_sequences.dat
+saves/a playthrough/data/sable_sub_level_force_load_tickets.dat
+saves/a playthrough/data/starter_cabin.dat
+saves/a playthrough/DIM-1/data/aeronautics_unloaded_balloons.dat
+saves/a playthrough/DIM-1/data/crafttweaker_saved_data.dat
+saves/a playthrough/DIM-1/data/neoforge_data_attachments.dat
+saves/a playthrough/DIM-1/data/raids.dat
+saves/a playthrough/DIM-1/data/sable_sub_level_force_load_tickets.dat
+saves/a playthrough/DIM-1/entities/r.0.-1.mca
+saves/a playthrough/DIM-1/region/r.-1.-1.mca
+saves/a playthrough/DIM-1/region/r.-1.0.mca
+saves/a playthrough/DIM-1/region/r.0.-1.mca
+saves/a playthrough/DIM-1/region/r.0.0.mca
+saves/a playthrough/DIM1/data/aeronautics_unloaded_balloons.dat
+saves/a playthrough/DIM1/data/crafttweaker_saved_data.dat
+saves/a playthrough/DIM1/data/neoforge_data_attachments.dat
+saves/a playthrough/DIM1/data/raids_end.dat
+saves/a playthrough/DIM1/data/sable_sub_level_force_load_tickets.dat
+saves/a playthrough/DIM1/entities/r.0.-1.mca
+saves/a playthrough/DIM1/region/r.-1.-1.mca
+saves/a playthrough/DIM1/region/r.-1.0.mca
+saves/a playthrough/DIM1/region/r.0.-1.mca
+saves/a playthrough/DIM1/region/r.0.0.mca
+saves/a playthrough/entities/r.-1.-1.mca
+saves/a playthrough/entities/r.-1.-2.mca
+saves/a playthrough/entities/r.-1.0.mca
+saves/a playthrough/entities/r.-1.1.mca
+saves/a playthrough/entities/r.-2.-1.mca
+saves/a playthrough/entities/r.-2.-2.mca
+saves/a playthrough/entities/r.-2.0.mca
+saves/a playthrough/entities/r.-2.1.mca
+saves/a playthrough/entities/r.0.-1.mca
+saves/a playthrough/entities/r.0.-2.mca
+saves/a playthrough/entities/r.0.0.mca
+saves/a playthrough/entities/r.0.1.mca
+saves/a playthrough/entities/r.1.-1.mca
+saves/a playthrough/entities/r.1.-2.mca
+saves/a playthrough/entities/r.1.0.mca
+saves/a playthrough/entities/r.1.1.mca
+saves/a playthrough/icon.png
+saves/a playthrough/kubejs_persistent_data.nbt
+saves/a playthrough/level.dat
+saves/a playthrough/level.dat_old
+saves/a playthrough/mfix_stronghold_cache_v2.nbt
+saves/a playthrough/playerdata/f0395c6e-234d-41dc-883a-25c73b14733a.dat
+saves/a playthrough/playerdata/f0395c6e-234d-41dc-883a-25c73b14733a.dat_old
+saves/a playthrough/playerdata/f0395c6e-234d-41dc-883a-25c73b14733a.questlog.dat
+saves/a playthrough/playerdata/f0395c6e-234d-41dc-883a-25c73b14733a.questlog.dat_old
+saves/a playthrough/poi/r.-1.-1.mca
+saves/a playthrough/poi/r.-1.-2.mca
+saves/a playthrough/poi/r.-1.0.mca
+saves/a playthrough/poi/r.-1.1.mca
+saves/a playthrough/poi/r.-2.-1.mca
+saves/a playthrough/poi/r.-2.-2.mca
+saves/a playthrough/poi/r.-2.0.mca
+saves/a playthrough/poi/r.-2.1.mca
+saves/a playthrough/poi/r.0.-1.mca
+saves/a playthrough/poi/r.0.-2.mca
+saves/a playthrough/poi/r.0.0.mca
+saves/a playthrough/poi/r.0.1.mca
+saves/a playthrough/poi/r.1.-1.mca
+saves/a playthrough/poi/r.1.-2.mca
+saves/a playthrough/poi/r.1.0.mca
+saves/a playthrough/poi/r.1.1.mca
+saves/a playthrough/region/r.-1.-1.mca
+saves/a playthrough/region/r.-1.-2.mca
+saves/a playthrough/region/r.-1.0.mca
+saves/a playthrough/region/r.-1.1.mca
+saves/a playthrough/region/r.-2.-1.mca
+saves/a playthrough/region/r.-2.-2.mca
+saves/a playthrough/region/r.-2.0.mca
+saves/a playthrough/region/r.-2.1.mca
+saves/a playthrough/region/r.0.-1.mca
+saves/a playthrough/region/r.0.-2.mca
+saves/a playthrough/region/r.0.0.mca
+saves/a playthrough/region/r.0.1.mca
+saves/a playthrough/region/r.1.-1.mca
+saves/a playthrough/region/r.1.-2.mca
+saves/a playthrough/region/r.1.0.mca
+saves/a playthrough/region/r.1.1.mca
+saves/a playthrough/serverconfig/readme.txt
+saves/a playthrough/session.lock
+saves/a playthrough/stats/f0395c6e-234d-41dc-883a-25c73b14733a.json
+saves/a playthrough/sublevels/r.-1.-1.slvlr
+saves/a playthrough/sublevels/r.-1.0.slvlr
+saves/a playthrough/sublevels/r.0.-1.slvlr
+saves/a playthrough/sublevels/r.0.0.slvlr
+saves/aaaa/advancements/f0395c6e-234d-41dc-883a-25c73b14733a.json
+saves/aaaa/data/collective/itemnametranslation.txt
+saves/aaaa/data/crafttweaker_saved_data.dat
+saves/aaaa/data/InControlData.dat
+saves/aaaa/data/mezz_config/server-id.txt
+saves/aaaa/data/neoforge_data_attachments.dat
+saves/aaaa/data/raids.dat
+saves/aaaa/data/starter_cabin.dat
+saves/aaaa/DIM-1/data/crafttweaker_saved_data.dat
+saves/aaaa/DIM-1/data/neoforge_data_attachments.dat
+saves/aaaa/DIM-1/data/raids.dat
+saves/aaaa/DIM1/data/crafttweaker_saved_data.dat
+saves/aaaa/DIM1/data/neoforge_data_attachments.dat
+saves/aaaa/DIM1/data/raids_end.dat
+saves/aaaa/entities/r.-1.-1.mca
+saves/aaaa/entities/r.-1.-2.mca
+saves/aaaa/entities/r.-1.0.mca
+saves/aaaa/entities/r.-1.1.mca
+saves/aaaa/entities/r.-2.-1.mca
+saves/aaaa/entities/r.-2.-2.mca
+saves/aaaa/entities/r.-2.0.mca
+saves/aaaa/entities/r.-2.1.mca
+saves/aaaa/entities/r.0.-1.mca
+saves/aaaa/entities/r.0.-2.mca
+saves/aaaa/entities/r.0.0.mca
+saves/aaaa/entities/r.0.1.mca
+saves/aaaa/entities/r.1.-1.mca
+saves/aaaa/entities/r.1.-2.mca
+saves/aaaa/entities/r.1.0.mca
+saves/aaaa/entities/r.1.1.mca
+saves/aaaa/kubejs_persistent_data.nbt
+saves/aaaa/level.dat
+saves/aaaa/level.dat_old
+saves/aaaa/mfix_stronghold_cache_v2.nbt
+saves/aaaa/playerdata/f0395c6e-234d-41dc-883a-25c73b14733a.dat
+saves/aaaa/playerdata/f0395c6e-234d-41dc-883a-25c73b14733a.dat_old
+saves/aaaa/poi/r.-1.-1.mca
+saves/aaaa/poi/r.-1.-2.mca
+saves/aaaa/poi/r.-1.0.mca
+saves/aaaa/poi/r.-1.1.mca
+saves/aaaa/poi/r.-2.-1.mca
+saves/aaaa/poi/r.-2.-2.mca
+saves/aaaa/poi/r.-2.0.mca
+saves/aaaa/poi/r.-2.1.mca
+saves/aaaa/poi/r.0.-1.mca
+saves/aaaa/poi/r.0.-2.mca
+saves/aaaa/poi/r.0.0.mca
+saves/aaaa/poi/r.1.-1.mca
+saves/aaaa/poi/r.1.-2.mca
+saves/aaaa/region/r.-1.-1.mca
+saves/aaaa/region/r.-1.-2.mca
+saves/aaaa/region/r.-1.0.mca
+saves/aaaa/region/r.-1.1.mca
+saves/aaaa/region/r.-2.-1.mca
+saves/aaaa/region/r.-2.-2.mca
+saves/aaaa/region/r.-2.0.mca
+saves/aaaa/region/r.-2.1.mca
+saves/aaaa/region/r.0.-1.mca
+saves/aaaa/region/r.0.-2.mca
+saves/aaaa/region/r.0.0.mca
+saves/aaaa/region/r.0.1.mca
+saves/aaaa/region/r.1.-1.mca
+saves/aaaa/region/r.1.-2.mca
+saves/aaaa/region/r.1.0.mca
+saves/aaaa/region/r.1.1.mca
+saves/aaaa/serverconfig/readme.txt
+saves/aaaa/session.lock
+saves/aaaa/stats/f0395c6e-234d-41dc-883a-25c73b14733a.json
+saves/An other playthrough_/advancements/f0395c6e-234d-41dc-883a-25c73b14733a.json
+saves/An other playthrough_/data/campfirespawn/overworld/r8_konijn.spawnpoint
+saves/An other playthrough_/data/collective/itemnametranslation.txt
+saves/An other playthrough_/data/crafttweaker_saved_data.dat
+saves/An other playthrough_/data/InControlData.dat
+saves/An other playthrough_/data/mezz_config/server-id.txt
+saves/An other playthrough_/data/neoforge_data_attachments.dat
+saves/An other playthrough_/data/raids.dat
+saves/An other playthrough_/data/random_sequences.dat
+saves/An other playthrough_/data/starter_cabin.dat
+saves/An other playthrough_/deaths/f0395c6e-234d-41dc-883a-25c73b14733a/9950cc77-063a-4498-b313-65c9b3dfc5d1.dat
+saves/An other playthrough_/DIM-1/data/crafttweaker_saved_data.dat
+saves/An other playthrough_/DIM-1/data/neoforge_data_attachments.dat
+saves/An other playthrough_/DIM-1/data/raids.dat
+saves/An other playthrough_/DIM1/data/crafttweaker_saved_data.dat
+saves/An other playthrough_/DIM1/data/neoforge_data_attachments.dat
+saves/An other playthrough_/DIM1/data/raids_end.dat
+saves/An other playthrough_/entities/r.-1.-1.mca
+saves/An other playthrough_/entities/r.-1.-2.mca
+saves/An other playthrough_/entities/r.-1.0.mca
+saves/An other playthrough_/entities/r.-1.1.mca
+saves/An other playthrough_/entities/r.-2.-1.mca
+saves/An other playthrough_/entities/r.-2.-2.mca
+saves/An other playthrough_/entities/r.-2.0.mca
+saves/An other playthrough_/entities/r.-2.1.mca
+saves/An other playthrough_/entities/r.0.-1.mca
+saves/An other playthrough_/entities/r.0.-2.mca
+saves/An other playthrough_/entities/r.0.0.mca
+saves/An other playthrough_/entities/r.0.1.mca
+saves/An other playthrough_/entities/r.1.-1.mca
+saves/An other playthrough_/entities/r.1.-2.mca
+saves/An other playthrough_/entities/r.1.0.mca
+saves/An other playthrough_/entities/r.1.1.mca
+saves/An other playthrough_/icon.png
+saves/An other playthrough_/kubejs_persistent_data.nbt
+saves/An other playthrough_/level.dat
+saves/An other playthrough_/level.dat_old
+saves/An other playthrough_/mfix_stronghold_cache_v2.nbt
+saves/An other playthrough_/playerdata/f0395c6e-234d-41dc-883a-25c73b14733a.dat
+saves/An other playthrough_/playerdata/f0395c6e-234d-41dc-883a-25c73b14733a.dat_old
+saves/An other playthrough_/poi/r.-1.-1.mca
+saves/An other playthrough_/poi/r.-1.-2.mca
+saves/An other playthrough_/poi/r.-1.0.mca
+saves/An other playthrough_/poi/r.-1.1.mca
+saves/An other playthrough_/poi/r.-2.-1.mca
+saves/An other playthrough_/poi/r.-2.-2.mca
+saves/An other playthrough_/poi/r.-2.0.mca
+saves/An other playthrough_/poi/r.-2.1.mca
+saves/An other playthrough_/poi/r.0.-1.mca
+saves/An other playthrough_/poi/r.0.-2.mca
+saves/An other playthrough_/poi/r.0.0.mca
+saves/An other playthrough_/poi/r.0.1.mca
+saves/An other playthrough_/poi/r.1.-1.mca
+saves/An other playthrough_/poi/r.1.-2.mca
+saves/An other playthrough_/poi/r.1.0.mca
+saves/An other playthrough_/poi/r.1.1.mca
+saves/An other playthrough_/region/r.-1.-1.mca
+saves/An other playthrough_/region/r.-1.-2.mca
+saves/An other playthrough_/region/r.-1.0.mca
+saves/An other playthrough_/region/r.-1.1.mca
+saves/An other playthrough_/region/r.-2.-1.mca
+saves/An other playthrough_/region/r.-2.-2.mca
+saves/An other playthrough_/region/r.-2.0.mca
+saves/An other playthrough_/region/r.-2.1.mca
+saves/An other playthrough_/region/r.0.-1.mca
+saves/An other playthrough_/region/r.0.-2.mca
+saves/An other playthrough_/region/r.0.0.mca
+saves/An other playthrough_/region/r.0.1.mca
+saves/An other playthrough_/region/r.1.-1.mca
+saves/An other playthrough_/region/r.1.-2.mca
+saves/An other playthrough_/region/r.1.0.mca
+saves/An other playthrough_/region/r.1.1.mca
+saves/An other playthrough_/serverconfig/jei/jei-server.ini
+saves/An other playthrough_/serverconfig/readme.txt
+saves/An other playthrough_/session.lock
+saves/An other playthrough_/stats/f0395c6e-234d-41dc-883a-25c73b14733a.json
+saves/blank 2/advancements/f0395c6e-234d-41dc-883a-25c73b14733a.json
+saves/blank 2/data/collective/itemnametranslation.txt
+saves/blank 2/data/crafttweaker_saved_data.dat
+saves/blank 2/data/InControlData.dat
+saves/blank 2/data/mezz_config/server-id.txt
+saves/blank 2/data/neoforge_data_attachments.dat
+saves/blank 2/data/raids.dat
+saves/blank 2/data/starter_cabin.dat
+saves/blank 2/DIM-1/data/crafttweaker_saved_data.dat
+saves/blank 2/DIM-1/data/neoforge_data_attachments.dat
+saves/blank 2/DIM-1/data/raids.dat
+saves/blank 2/DIM-1/entities/r.-1.-1.mca
+saves/blank 2/DIM-1/entities/r.0.-1.mca
+saves/blank 2/DIM-1/poi/r.0.-1.mca
+saves/blank 2/DIM-1/region/r.-1.-1.mca
+saves/blank 2/DIM-1/region/r.-1.0.mca
+saves/blank 2/DIM-1/region/r.0.-1.mca
+saves/blank 2/DIM-1/region/r.0.0.mca
+saves/blank 2/DIM1/data/crafttweaker_saved_data.dat
+saves/blank 2/DIM1/data/neoforge_data_attachments.dat
+saves/blank 2/DIM1/data/raids_end.dat
+saves/blank 2/DIM1/entities/r.-1.-1.mca
+saves/blank 2/DIM1/entities/r.0.-1.mca
+saves/blank 2/DIM1/poi/r.0.-1.mca
+saves/blank 2/DIM1/region/r.-1.-1.mca
+saves/blank 2/DIM1/region/r.-1.0.mca
+saves/blank 2/DIM1/region/r.0.-1.mca
+saves/blank 2/DIM1/region/r.0.0.mca
+saves/blank 2/entities/r.-1.-1.mca
+saves/blank 2/entities/r.-1.-2.mca
+saves/blank 2/entities/r.-1.0.mca
+saves/blank 2/entities/r.-1.1.mca
+saves/blank 2/entities/r.-2.-1.mca
+saves/blank 2/entities/r.-2.-2.mca
+saves/blank 2/entities/r.-2.0.mca
+saves/blank 2/entities/r.-2.1.mca
+saves/blank 2/entities/r.0.-1.mca
+saves/blank 2/entities/r.0.-2.mca
+saves/blank 2/entities/r.0.0.mca
+saves/blank 2/entities/r.0.1.mca
+saves/blank 2/entities/r.1.-1.mca
+saves/blank 2/entities/r.1.-2.mca
+saves/blank 2/entities/r.1.0.mca
+saves/blank 2/entities/r.1.1.mca
+saves/blank 2/kubejs_persistent_data.nbt
+saves/blank 2/level.dat
+saves/blank 2/level.dat_old
+saves/blank 2/mfix_stronghold_cache_v2.nbt
+saves/blank 2/playerdata/f0395c6e-234d-41dc-883a-25c73b14733a.dat
+saves/blank 2/playerdata/f0395c6e-234d-41dc-883a-25c73b14733a.dat_old
+saves/blank 2/poi/r.-1.-1.mca
+saves/blank 2/poi/r.-1.-2.mca
+saves/blank 2/poi/r.-1.0.mca
+saves/blank 2/poi/r.-1.1.mca
+saves/blank 2/poi/r.-2.-1.mca
+saves/blank 2/poi/r.-2.-2.mca
+saves/blank 2/poi/r.-2.0.mca
+saves/blank 2/poi/r.-2.1.mca
+saves/blank 2/poi/r.0.-1.mca
+saves/blank 2/poi/r.0.-2.mca
+saves/blank 2/poi/r.0.0.mca
+saves/blank 2/poi/r.0.1.mca
+saves/blank 2/poi/r.1.-1.mca
+saves/blank 2/poi/r.1.-2.mca
+saves/blank 2/poi/r.1.0.mca
+saves/blank 2/poi/r.1.1.mca
+saves/blank 2/region/r.-1.-1.mca
+saves/blank 2/region/r.-1.-2.mca
+saves/blank 2/region/r.-1.0.mca
+saves/blank 2/region/r.-1.1.mca
+saves/blank 2/region/r.-2.-1.mca
+saves/blank 2/region/r.-2.-2.mca
+saves/blank 2/region/r.-2.0.mca
+saves/blank 2/region/r.-2.1.mca
+saves/blank 2/region/r.0.-1.mca
+saves/blank 2/region/r.0.-2.mca
+saves/blank 2/region/r.0.0.mca
+saves/blank 2/region/r.0.1.mca
+saves/blank 2/region/r.1.-1.mca
+saves/blank 2/region/r.1.-2.mca
+saves/blank 2/region/r.1.0.mca
+saves/blank 2/region/r.1.1.mca
+saves/blank 2/serverconfig/readme.txt
+saves/blank 2/session.lock
+saves/blank 2/stats/f0395c6e-234d-41dc-883a-25c73b14733a.json
+saves/blank 3/advancements/f0395c6e-234d-41dc-883a-25c73b14733a.json
+saves/blank 3/data/collective/itemnametranslation.txt
+saves/blank 3/data/crafttweaker_saved_data.dat
+saves/blank 3/data/InControlData.dat
+saves/blank 3/data/mezz_config/server-id.txt
+saves/blank 3/data/neoforge_data_attachments.dat
+saves/blank 3/data/raids.dat
+saves/blank 3/data/spore_world_data.dat
+saves/blank 3/data/starter_cabin.dat
+saves/blank 3/DIM-1/data/crafttweaker_saved_data.dat
+saves/blank 3/DIM-1/data/neoforge_data_attachments.dat
+saves/blank 3/DIM-1/data/raids.dat
+saves/blank 3/DIM-1/entities/r.0.-1.mca
+saves/blank 3/DIM-1/poi/r.0.-1.mca
+saves/blank 3/DIM-1/region/r.-1.-1.mca
+saves/blank 3/DIM-1/region/r.-1.0.mca
+saves/blank 3/DIM-1/region/r.0.-1.mca
+saves/blank 3/DIM-1/region/r.0.0.mca
+saves/blank 3/DIM1/data/crafttweaker_saved_data.dat
+saves/blank 3/DIM1/data/neoforge_data_attachments.dat
+saves/blank 3/DIM1/data/raids_end.dat
+saves/blank 3/DIM1/entities/r.0.-1.mca
+saves/blank 3/DIM1/poi/r.0.-1.mca
+saves/blank 3/DIM1/region/r.-1.-1.mca
+saves/blank 3/DIM1/region/r.-1.0.mca
+saves/blank 3/DIM1/region/r.0.-1.mca
+saves/blank 3/DIM1/region/r.0.0.mca
+saves/blank 3/entities/r.-1.-1.mca
+saves/blank 3/entities/r.-1.-2.mca
+saves/blank 3/entities/r.-1.0.mca
+saves/blank 3/entities/r.-1.1.mca
+saves/blank 3/entities/r.-2.-1.mca
+saves/blank 3/entities/r.-2.-2.mca
+saves/blank 3/entities/r.-2.0.mca
+saves/blank 3/entities/r.-2.1.mca
+saves/blank 3/entities/r.0.-1.mca
+saves/blank 3/entities/r.0.-2.mca
+saves/blank 3/entities/r.0.0.mca
+saves/blank 3/entities/r.0.1.mca
+saves/blank 3/entities/r.1.-1.mca
+saves/blank 3/entities/r.1.-2.mca
+saves/blank 3/entities/r.1.0.mca
+saves/blank 3/entities/r.1.1.mca
+saves/blank 3/kubejs_persistent_data.nbt
+saves/blank 3/level.dat
+saves/blank 3/level.dat_old
+saves/blank 3/mfix_stronghold_cache_v2.nbt
+saves/blank 3/playerdata/f0395c6e-234d-41dc-883a-25c73b14733a.dat
+saves/blank 3/playerdata/f0395c6e-234d-41dc-883a-25c73b14733a.dat_old
+saves/blank 3/poi/r.-1.-1.mca
+saves/blank 3/poi/r.-1.-2.mca
+saves/blank 3/poi/r.-1.0.mca
+saves/blank 3/poi/r.-1.1.mca
+saves/blank 3/poi/r.-2.-1.mca
+saves/blank 3/poi/r.-2.-2.mca
+saves/blank 3/poi/r.-2.0.mca
+saves/blank 3/poi/r.-2.1.mca
+saves/blank 3/poi/r.0.-1.mca
+saves/blank 3/poi/r.0.-2.mca
+saves/blank 3/poi/r.0.0.mca
+saves/blank 3/poi/r.0.1.mca
+saves/blank 3/poi/r.1.-1.mca
+saves/blank 3/poi/r.1.-2.mca
+saves/blank 3/poi/r.1.0.mca
+saves/blank 3/poi/r.1.1.mca
+saves/blank 3/region/r.-1.-1.mca
+saves/blank 3/region/r.-1.-2.mca
+saves/blank 3/region/r.-1.0.mca
+saves/blank 3/region/r.-1.1.mca
+saves/blank 3/region/r.-2.-1.mca
+saves/blank 3/region/r.-2.-2.mca
+saves/blank 3/region/r.-2.0.mca
+saves/blank 3/region/r.-2.1.mca
+saves/blank 3/region/r.0.-1.mca
+saves/blank 3/region/r.0.-2.mca
+saves/blank 3/region/r.0.0.mca
+saves/blank 3/region/r.0.1.mca
+saves/blank 3/region/r.1.-1.mca
+saves/blank 3/region/r.1.-2.mca
+saves/blank 3/region/r.1.0.mca
+saves/blank 3/region/r.1.1.mca
+saves/blank 3/serverconfig/readme.txt
+saves/blank 3/session.lock
+saves/blank 3/stats/f0395c6e-234d-41dc-883a-25c73b14733a.json
+saves/blank test/advancements/f0395c6e-234d-41dc-883a-25c73b14733a.json
+saves/blank test/data/crafttweaker_saved_data.dat
+saves/blank test/data/InControlData.dat
+saves/blank test/data/mezz_config/server-id.txt
+saves/blank test/data/neoforge_data_attachments.dat
+saves/blank test/data/raids.dat
+saves/blank test/data/starter_cabin.dat
+saves/blank test/DIM-1/data/crafttweaker_saved_data.dat
+saves/blank test/DIM-1/data/neoforge_data_attachments.dat
+saves/blank test/DIM-1/data/raids.dat
+saves/blank test/DIM1/data/crafttweaker_saved_data.dat
+saves/blank test/DIM1/data/neoforge_data_attachments.dat
+saves/blank test/DIM1/data/raids_end.dat
+saves/blank test/entities/r.-1.-1.mca
+saves/blank test/entities/r.-1.0.mca
+saves/blank test/entities/r.-1.1.mca
+saves/blank test/entities/r.0.-1.mca
+saves/blank test/entities/r.0.0.mca
+saves/blank test/entities/r.0.1.mca
+saves/blank test/entities/r.1.-1.mca
+saves/blank test/entities/r.1.0.mca
+saves/blank test/entities/r.1.1.mca
+saves/blank test/kubejs_persistent_data.nbt
+saves/blank test/level.dat
+saves/blank test/level.dat_old
+saves/blank test/mfix_stronghold_cache_v2.nbt
+saves/blank test/playerdata/f0395c6e-234d-41dc-883a-25c73b14733a.dat
+saves/blank test/playerdata/f0395c6e-234d-41dc-883a-25c73b14733a.dat_old
+saves/blank test/poi/r.-1.-1.mca
+saves/blank test/poi/r.-1.0.mca
+saves/blank test/poi/r.0.0.mca
+saves/blank test/region/r.-1.-1.mca
+saves/blank test/region/r.-1.-2.mca
+saves/blank test/region/r.-1.0.mca
+saves/blank test/region/r.-1.1.mca
+saves/blank test/region/r.-2.-1.mca
+saves/blank test/region/r.-2.-2.mca
+saves/blank test/region/r.-2.0.mca
+saves/blank test/region/r.-2.1.mca
+saves/blank test/region/r.0.-1.mca
+saves/blank test/region/r.0.-2.mca
+saves/blank test/region/r.0.0.mca
+saves/blank test/region/r.0.1.mca
+saves/blank test/region/r.1.-1.mca
+saves/blank test/region/r.1.-2.mca
+saves/blank test/region/r.1.0.mca
+saves/blank test/region/r.1.1.mca
+saves/blank test/serverconfig/readme.txt
+saves/blank test/session.lock
+saves/blank test/stats/f0395c6e-234d-41dc-883a-25c73b14733a.json
+saves/blank/advancements/f0395c6e-234d-41dc-883a-25c73b14733a.json
+saves/blank/data/crafttweaker_saved_data.dat
+saves/blank/data/InControlData.dat
+saves/blank/data/mezz_config/server-id.txt
+saves/blank/data/neoforge_data_attachments.dat
+saves/blank/data/raids.dat
+saves/blank/data/starter_cabin.dat
+saves/blank/DIM-1/data/crafttweaker_saved_data.dat
+saves/blank/DIM-1/data/neoforge_data_attachments.dat
+saves/blank/DIM-1/data/raids.dat
+saves/blank/DIM1/data/crafttweaker_saved_data.dat
+saves/blank/DIM1/data/neoforge_data_attachments.dat
+saves/blank/DIM1/data/raids_end.dat
+saves/blank/entities/r.-1.-1.mca
+saves/blank/entities/r.-1.0.mca
+saves/blank/entities/r.0.-1.mca
+saves/blank/entities/r.0.0.mca
+saves/blank/icon.png
+saves/blank/kubejs_persistent_data.nbt
+saves/blank/level.dat
+saves/blank/level.dat_old
+saves/blank/mfix_stronghold_cache_v2.nbt
+saves/blank/playerdata/f0395c6e-234d-41dc-883a-25c73b14733a.dat
+saves/blank/playerdata/f0395c6e-234d-41dc-883a-25c73b14733a.dat_old
+saves/blank/poi/r.-1.-1.mca
+saves/blank/poi/r.-1.0.mca
+saves/blank/poi/r.0.-1.mca
+saves/blank/poi/r.0.0.mca
+saves/blank/region/r.-1.-1.mca
+saves/blank/region/r.-1.-2.mca
+saves/blank/region/r.-1.0.mca
+saves/blank/region/r.-1.1.mca
+saves/blank/region/r.-2.-1.mca
+saves/blank/region/r.-2.-2.mca
+saves/blank/region/r.-2.0.mca
+saves/blank/region/r.-2.1.mca
+saves/blank/region/r.0.-1.mca
+saves/blank/region/r.0.-2.mca
+saves/blank/region/r.0.0.mca
+saves/blank/region/r.0.1.mca
+saves/blank/region/r.1.-1.mca
+saves/blank/region/r.1.-2.mca
+saves/blank/region/r.1.0.mca
+saves/blank/region/r.1.1.mca
+saves/blank/serverconfig/readme.txt
+saves/blank/session.lock
+saves/blank/stats/f0395c6e-234d-41dc-883a-25c73b14733a.json
+saves/bullshit 2/advancements/f0395c6e-234d-41dc-883a-25c73b14733a.json
+saves/bullshit 2/data/collective/itemnametranslation.txt
+saves/bullshit 2/data/crafttweaker_saved_data.dat
+saves/bullshit 2/data/InControlData.dat
+saves/bullshit 2/data/mezz_config/server-id.txt
+saves/bullshit 2/data/neoforge_data_attachments.dat
+saves/bullshit 2/data/raids.dat
+saves/bullshit 2/data/starter_cabin.dat
+saves/bullshit 2/DIM-1/data/crafttweaker_saved_data.dat
+saves/bullshit 2/DIM-1/data/neoforge_data_attachments.dat
+saves/bullshit 2/DIM-1/data/raids.dat
+saves/bullshit 2/DIM1/data/crafttweaker_saved_data.dat
+saves/bullshit 2/DIM1/data/neoforge_data_attachments.dat
+saves/bullshit 2/DIM1/data/raids_end.dat
+saves/bullshit 2/entities/r.-1.-1.mca
+saves/bullshit 2/entities/r.-1.-2.mca
+saves/bullshit 2/entities/r.-1.0.mca
+saves/bullshit 2/entities/r.-1.1.mca
+saves/bullshit 2/entities/r.-2.-1.mca
+saves/bullshit 2/entities/r.-2.-2.mca
+saves/bullshit 2/entities/r.-2.0.mca
+saves/bullshit 2/entities/r.-2.1.mca
+saves/bullshit 2/entities/r.0.-1.mca
+saves/bullshit 2/entities/r.0.-2.mca
+saves/bullshit 2/entities/r.0.0.mca
+saves/bullshit 2/entities/r.0.1.mca
+saves/bullshit 2/entities/r.1.-1.mca
+saves/bullshit 2/entities/r.1.-2.mca
+saves/bullshit 2/entities/r.1.0.mca
+saves/bullshit 2/entities/r.1.1.mca
+saves/bullshit 2/kubejs_persistent_data.nbt
+saves/bullshit 2/level.dat
+saves/bullshit 2/level.dat_old
+saves/bullshit 2/mfix_stronghold_cache_v2.nbt
+saves/bullshit 2/playerdata/f0395c6e-234d-41dc-883a-25c73b14733a.dat
+saves/bullshit 2/playerdata/f0395c6e-234d-41dc-883a-25c73b14733a.dat_old
+saves/bullshit 2/poi/r.-1.-1.mca
+saves/bullshit 2/poi/r.-1.-2.mca
+saves/bullshit 2/poi/r.-1.0.mca
+saves/bullshit 2/poi/r.-1.1.mca
+saves/bullshit 2/poi/r.-2.-1.mca
+saves/bullshit 2/poi/r.-2.-2.mca
+saves/bullshit 2/poi/r.-2.0.mca
+saves/bullshit 2/poi/r.-2.1.mca
+saves/bullshit 2/poi/r.0.-1.mca
+saves/bullshit 2/poi/r.0.-2.mca
+saves/bullshit 2/poi/r.0.0.mca
+saves/bullshit 2/poi/r.0.1.mca
+saves/bullshit 2/poi/r.1.-1.mca
+saves/bullshit 2/poi/r.1.-2.mca
+saves/bullshit 2/poi/r.1.0.mca
+saves/bullshit 2/poi/r.1.1.mca
+saves/bullshit 2/region/r.-1.-1.mca
+saves/bullshit 2/region/r.-1.-2.mca
+saves/bullshit 2/region/r.-1.0.mca
+saves/bullshit 2/region/r.-1.1.mca
+saves/bullshit 2/region/r.-2.-1.mca
+saves/bullshit 2/region/r.-2.-2.mca
+saves/bullshit 2/region/r.-2.0.mca
+saves/bullshit 2/region/r.-2.1.mca
+saves/bullshit 2/region/r.0.-1.mca
+saves/bullshit 2/region/r.0.-2.mca
+saves/bullshit 2/region/r.0.0.mca
+saves/bullshit 2/region/r.0.1.mca
+saves/bullshit 2/region/r.1.-1.mca
+saves/bullshit 2/region/r.1.-2.mca
+saves/bullshit 2/region/r.1.0.mca
+saves/bullshit 2/region/r.1.1.mca
+saves/bullshit 2/serverconfig/readme.txt
+saves/bullshit 2/session.lock
+saves/bullshit 2/stats/f0395c6e-234d-41dc-883a-25c73b14733a.json
+saves/flat (1)/advancements/f0395c6e-234d-41dc-883a-25c73b14733a.json
+saves/flat (1)/data/collective/itemnametranslation.txt
+saves/flat (1)/data/crafttweaker_saved_data.dat
+saves/flat (1)/data/InControlData.dat
+saves/flat (1)/data/mezz_config/server-id.txt
+saves/flat (1)/data/neoforge_data_attachments.dat
+saves/flat (1)/data/raids.dat
+saves/flat (1)/data/random_sequences.dat
+saves/flat (1)/data/starter_cabin.dat
+saves/flat (1)/DIM-1/data/crafttweaker_saved_data.dat
+saves/flat (1)/DIM-1/data/neoforge_data_attachments.dat
+saves/flat (1)/DIM-1/data/raids.dat
+saves/flat (1)/DIM1/data/crafttweaker_saved_data.dat
+saves/flat (1)/DIM1/data/neoforge_data_attachments.dat
+saves/flat (1)/DIM1/data/raids_end.dat
+saves/flat (1)/entities/r.-1.-1.mca
+saves/flat (1)/entities/r.-1.-2.mca
+saves/flat (1)/entities/r.-1.0.mca
+saves/flat (1)/entities/r.-1.1.mca
+saves/flat (1)/entities/r.-2.-1.mca
+saves/flat (1)/entities/r.-2.-2.mca
+saves/flat (1)/entities/r.-2.0.mca
+saves/flat (1)/entities/r.-2.1.mca
+saves/flat (1)/entities/r.0.-1.mca
+saves/flat (1)/entities/r.0.-2.mca
+saves/flat (1)/entities/r.0.0.mca
+saves/flat (1)/entities/r.0.1.mca
+saves/flat (1)/entities/r.1.-1.mca
+saves/flat (1)/entities/r.1.-2.mca
+saves/flat (1)/entities/r.1.0.mca
+saves/flat (1)/entities/r.1.1.mca
+saves/flat (1)/icon.png
+saves/flat (1)/kubejs_persistent_data.nbt
+saves/flat (1)/level.dat
+saves/flat (1)/level.dat_old
+saves/flat (1)/mfix_stronghold_cache_v2.nbt
+saves/flat (1)/playerdata/f0395c6e-234d-41dc-883a-25c73b14733a.dat
+saves/flat (1)/playerdata/f0395c6e-234d-41dc-883a-25c73b14733a.dat_old
+saves/flat (1)/poi/r.-1.-1.mca
+saves/flat (1)/poi/r.-1.-2.mca
+saves/flat (1)/poi/r.-1.0.mca
+saves/flat (1)/poi/r.-1.1.mca
+saves/flat (1)/poi/r.-2.-1.mca
+saves/flat (1)/poi/r.-2.-2.mca
+saves/flat (1)/poi/r.-2.0.mca
+saves/flat (1)/poi/r.-2.1.mca
+saves/flat (1)/poi/r.0.-1.mca
+saves/flat (1)/poi/r.0.-2.mca
+saves/flat (1)/poi/r.0.0.mca
+saves/flat (1)/poi/r.0.1.mca
+saves/flat (1)/poi/r.1.-1.mca
+saves/flat (1)/poi/r.1.-2.mca
+saves/flat (1)/poi/r.1.0.mca
+saves/flat (1)/poi/r.1.1.mca
+saves/flat (1)/region/r.-1.-1.mca
+saves/flat (1)/region/r.-1.-2.mca
+saves/flat (1)/region/r.-1.0.mca
+saves/flat (1)/region/r.-1.1.mca
+saves/flat (1)/region/r.-2.-1.mca
+saves/flat (1)/region/r.-2.-2.mca
+saves/flat (1)/region/r.-2.0.mca
+saves/flat (1)/region/r.-2.1.mca
+saves/flat (1)/region/r.0.-1.mca
+saves/flat (1)/region/r.0.-2.mca
+saves/flat (1)/region/r.0.0.mca
+saves/flat (1)/region/r.0.1.mca
+saves/flat (1)/region/r.1.-1.mca
+saves/flat (1)/region/r.1.-2.mca
+saves/flat (1)/region/r.1.0.mca
+saves/flat (1)/region/r.1.1.mca
+saves/flat (1)/serverconfig/readme.txt
+saves/flat (1)/session.lock
+saves/flat (1)/stats/f0395c6e-234d-41dc-883a-25c73b14733a.json
+saves/flat/advancements/f0395c6e-234d-41dc-883a-25c73b14733a.json
+saves/flat/data/crafttweaker_saved_data.dat
+saves/flat/data/mezz_config/server-id.txt
+saves/flat/data/neoforge_data_attachments.dat
+saves/flat/data/raids.dat
+saves/flat/data/random_sequences.dat
+saves/flat/data/spore_world_data.dat
+saves/flat/data/starter_cabin.dat
+saves/flat/DIM-1/data/crafttweaker_saved_data.dat
+saves/flat/DIM-1/data/neoforge_data_attachments.dat
+saves/flat/DIM-1/data/raids.dat
+saves/flat/DIM-1/entities/r.-1.0.mca
+saves/flat/DIM-1/region/r.-1.-1.mca
+saves/flat/DIM-1/region/r.-1.0.mca
+saves/flat/DIM-1/region/r.0.-1.mca
+saves/flat/DIM-1/region/r.0.0.mca
+saves/flat/DIM1/data/crafttweaker_saved_data.dat
+saves/flat/DIM1/data/neoforge_data_attachments.dat
+saves/flat/DIM1/data/raids_end.dat
+saves/flat/DIM1/entities/r.-1.0.mca
+saves/flat/DIM1/region/r.-1.-1.mca
+saves/flat/DIM1/region/r.-1.0.mca
+saves/flat/DIM1/region/r.0.-1.mca
+saves/flat/DIM1/region/r.0.0.mca
+saves/flat/entities/r.-1.-1.mca
+saves/flat/entities/r.-1.0.mca
+saves/flat/entities/r.0.-1.mca
+saves/flat/entities/r.0.0.mca
+saves/flat/icon.png
+saves/flat/kubejs_persistent_data.nbt
+saves/flat/level.dat
+saves/flat/level.dat_old
+saves/flat/mfix_stronghold_cache_v2.nbt
+saves/flat/playerdata/f0395c6e-234d-41dc-883a-25c73b14733a.dat
+saves/flat/playerdata/f0395c6e-234d-41dc-883a-25c73b14733a.dat_old
+saves/flat/playerdata/f0395c6e-234d-41dc-883a-25c73b14733a.questlog.dat
+saves/flat/playerdata/f0395c6e-234d-41dc-883a-25c73b14733a.questlog.dat_old
+saves/flat/poi/r.-1.-1.mca
+saves/flat/poi/r.-1.0.mca
+saves/flat/poi/r.0.-1.mca
+saves/flat/poi/r.0.0.mca
+saves/flat/region/r.-1.-1.mca
+saves/flat/region/r.-1.0.mca
+saves/flat/region/r.0.-1.mca
+saves/flat/region/r.0.0.mca
+saves/flat/serverconfig/readme.txt
+saves/flat/session.lock
+saves/flat/stats/f0395c6e-234d-41dc-883a-25c73b14733a.json
+saves/hi/advancements/f0395c6e-234d-41dc-883a-25c73b14733a.json
+saves/hi/data/campfirespawn/overworld/r8_konijn.spawnpoint
+saves/hi/data/collective/itemnametranslation.txt
+saves/hi/data/crafttweaker_saved_data.dat
+saves/hi/data/InControlData.dat
+saves/hi/data/mezz_config/server-id.txt
+saves/hi/data/neoforge_data_attachments.dat
+saves/hi/data/raids.dat
+saves/hi/data/spore_world_data.dat
+saves/hi/data/starter_cabin.dat
+saves/hi/deaths/f0395c6e-234d-41dc-883a-25c73b14733a/11a8b30c-0622-461f-b171-fab985de1981.dat
+saves/hi/deaths/f0395c6e-234d-41dc-883a-25c73b14733a/128e36ab-878f-42b0-bbc3-9a5eb07540a7.dat
+saves/hi/deaths/f0395c6e-234d-41dc-883a-25c73b14733a/17af9eda-ba21-43ec-91ba-46688d465cab.dat
+saves/hi/deaths/f0395c6e-234d-41dc-883a-25c73b14733a/29fdcf2c-4042-4ce3-b520-41ffe752d6d1.dat
+saves/hi/deaths/f0395c6e-234d-41dc-883a-25c73b14733a/2d580d68-4f31-43f1-afcf-427bee1e052b.dat
+saves/hi/deaths/f0395c6e-234d-41dc-883a-25c73b14733a/482f3a1f-a679-42c6-a02e-ef527f4dc408.dat
+saves/hi/deaths/f0395c6e-234d-41dc-883a-25c73b14733a/86523efe-705f-4ac6-836a-653c311f3fce.dat
+saves/hi/deaths/f0395c6e-234d-41dc-883a-25c73b14733a/a27c5279-0e6d-4e31-a1c5-c2063bc5202a.dat
+saves/hi/deaths/f0395c6e-234d-41dc-883a-25c73b14733a/a760e2c0-c5e2-4589-b9cf-d4ac6d8bf26f.dat
+saves/hi/deaths/f0395c6e-234d-41dc-883a-25c73b14733a/cfb3ab3a-1ffe-4c26-944c-31046a9f87f2.dat
+saves/hi/deaths/f0395c6e-234d-41dc-883a-25c73b14733a/d66b9c60-299c-4f27-86b3-a893006bdd97.dat
+saves/hi/deaths/f0395c6e-234d-41dc-883a-25c73b14733a/d9e4cdc5-8fbf-4969-b337-9e12ffc0d7bf.dat
+saves/hi/DIM-1/data/crafttweaker_saved_data.dat
+saves/hi/DIM-1/data/neoforge_data_attachments.dat
+saves/hi/DIM-1/data/raids.dat
+saves/hi/DIM-1/entities/r.-1.-1.mca
+saves/hi/DIM-1/entities/r.0.-1.mca
+saves/hi/DIM-1/poi/r.-1.-1.mca
+saves/hi/DIM-1/poi/r.0.-1.mca
+saves/hi/DIM-1/region/r.-1.-1.mca
+saves/hi/DIM-1/region/r.-1.0.mca
+saves/hi/DIM-1/region/r.0.-1.mca
+saves/hi/DIM-1/region/r.0.0.mca
+saves/hi/DIM1/data/crafttweaker_saved_data.dat
+saves/hi/DIM1/data/neoforge_data_attachments.dat
+saves/hi/DIM1/data/raids_end.dat
+saves/hi/DIM1/entities/r.-1.-1.mca
+saves/hi/DIM1/entities/r.0.-1.mca
+saves/hi/DIM1/poi/r.-1.-1.mca
+saves/hi/DIM1/poi/r.0.-1.mca
+saves/hi/DIM1/region/r.-1.-1.mca
+saves/hi/DIM1/region/r.-1.0.mca
+saves/hi/DIM1/region/r.0.-1.mca
+saves/hi/DIM1/region/r.0.0.mca
+saves/hi/entities/r.-1.-1.mca
+saves/hi/entities/r.-1.-2.mca
+saves/hi/entities/r.-1.0.mca
+saves/hi/entities/r.-1.1.mca
+saves/hi/entities/r.-2.-1.mca
+saves/hi/entities/r.-2.-2.mca
+saves/hi/entities/r.-2.0.mca
+saves/hi/entities/r.-2.1.mca
+saves/hi/entities/r.0.-1.mca
+saves/hi/entities/r.0.-2.mca
+saves/hi/entities/r.0.0.mca
+saves/hi/entities/r.0.1.mca
+saves/hi/entities/r.1.-1.mca
+saves/hi/entities/r.1.-2.mca
+saves/hi/entities/r.1.0.mca
+saves/hi/entities/r.1.1.mca
+saves/hi/icon.png
+saves/hi/kubejs_persistent_data.nbt
+saves/hi/level.dat
+saves/hi/level.dat_old
+saves/hi/mfix_stronghold_cache_v2.nbt
+saves/hi/playerdata/f0395c6e-234d-41dc-883a-25c73b14733a.dat
+saves/hi/playerdata/f0395c6e-234d-41dc-883a-25c73b14733a.dat_old
+saves/hi/poi/r.-1.-1.mca
+saves/hi/poi/r.-1.-2.mca
+saves/hi/poi/r.-1.0.mca
+saves/hi/poi/r.-1.1.mca
+saves/hi/poi/r.-2.-1.mca
+saves/hi/poi/r.-2.-2.mca
+saves/hi/poi/r.-2.0.mca
+saves/hi/poi/r.-2.1.mca
+saves/hi/poi/r.0.-1.mca
+saves/hi/poi/r.0.-2.mca
+saves/hi/poi/r.0.0.mca
+saves/hi/poi/r.0.1.mca
+saves/hi/poi/r.1.-1.mca
+saves/hi/poi/r.1.-2.mca
+saves/hi/poi/r.1.0.mca
+saves/hi/poi/r.1.1.mca
+saves/hi/region/r.-1.-1.mca
+saves/hi/region/r.-1.-2.mca
+saves/hi/region/r.-1.0.mca
+saves/hi/region/r.-1.1.mca
+saves/hi/region/r.-2.-1.mca
+saves/hi/region/r.-2.-2.mca
+saves/hi/region/r.-2.0.mca
+saves/hi/region/r.-2.1.mca
+saves/hi/region/r.0.-1.mca
+saves/hi/region/r.0.-2.mca
+saves/hi/region/r.0.0.mca
+saves/hi/region/r.0.1.mca
+saves/hi/region/r.1.-1.mca
+saves/hi/region/r.1.-2.mca
+saves/hi/region/r.1.0.mca
+saves/hi/region/r.1.1.mca
+saves/hi/serverconfig/readme.txt
+saves/hi/session.lock
+saves/hi/stats/f0395c6e-234d-41dc-883a-25c73b14733a.json
+saves/mf flat/advancements/f0395c6e-234d-41dc-883a-25c73b14733a.json
+saves/mf flat/data/buildinggadgets2.dat
+saves/mf flat/data/campfirespawn/overworld/r8_konijn.spawnpoint
+saves/mf flat/data/campfirespawn/the_end/r8_konijn.spawnpoint
+saves/mf flat/data/campfirespawn/the_nether/r8_konijn.spawnpoint
+saves/mf flat/data/collective/itemnametranslation.txt
+saves/mf flat/data/crafttweaker_saved_data.dat
+saves/mf flat/data/InControlData.dat
+saves/mf flat/data/mezz_config/server-id.txt
+saves/mf flat/data/neoforge_data_attachments.dat
+saves/mf flat/data/raids.dat
+saves/mf flat/data/random_sequences.dat
+saves/mf flat/data/spore_world_data.dat
+saves/mf flat/data/starter_cabin.dat
+saves/mf flat/deaths/f0395c6e-234d-41dc-883a-25c73b14733a/e5fada90-d694-415f-93ab-7a6644387b84.dat
+saves/mf flat/deaths/f0395c6e-234d-41dc-883a-25c73b14733a/e6f9f6cc-5393-4fda-a9e9-01565e352fa6.dat
+saves/mf flat/DIM-1/data/crafttweaker_saved_data.dat
+saves/mf flat/DIM-1/data/neoforge_data_attachments.dat
+saves/mf flat/DIM-1/data/raids.dat
+saves/mf flat/DIM-1/entities/r.-1.-1.mca
+saves/mf flat/DIM-1/entities/r.0.-1.mca
+saves/mf flat/DIM-1/poi/r.-1.-1.mca
+saves/mf flat/DIM-1/poi/r.-1.0.mca
+saves/mf flat/DIM-1/poi/r.0.-1.mca
+saves/mf flat/DIM-1/poi/r.0.0.mca
+saves/mf flat/DIM-1/region/r.-1.-1.mca
+saves/mf flat/DIM-1/region/r.-1.0.mca
+saves/mf flat/DIM-1/region/r.0.-1.mca
+saves/mf flat/DIM-1/region/r.0.0.mca
+saves/mf flat/DIM1/data/crafttweaker_saved_data.dat
+saves/mf flat/DIM1/data/neoforge_data_attachments.dat
+saves/mf flat/DIM1/data/raids_end.dat
+saves/mf flat/DIM1/entities/r.-1.-1.mca
+saves/mf flat/DIM1/entities/r.0.-1.mca
+saves/mf flat/DIM1/poi/r.-1.-1.mca
+saves/mf flat/DIM1/poi/r.-1.0.mca
+saves/mf flat/DIM1/poi/r.0.-1.mca
+saves/mf flat/DIM1/poi/r.0.0.mca
+saves/mf flat/DIM1/region/r.-1.-1.mca
+saves/mf flat/DIM1/region/r.-1.0.mca
+saves/mf flat/DIM1/region/r.0.-1.mca
+saves/mf flat/DIM1/region/r.0.0.mca
+saves/mf flat/entities/r.-1.-1.mca
+saves/mf flat/entities/r.-1.-2.mca
+saves/mf flat/entities/r.-1.0.mca
+saves/mf flat/entities/r.-1.1.mca
+saves/mf flat/entities/r.-2.-1.mca
+saves/mf flat/entities/r.-2.-2.mca
+saves/mf flat/entities/r.-2.0.mca
+saves/mf flat/entities/r.-2.1.mca
+saves/mf flat/entities/r.-3.-1.mca
+saves/mf flat/entities/r.-3.-2.mca
+saves/mf flat/entities/r.0.-1.mca
+saves/mf flat/entities/r.0.-2.mca
+saves/mf flat/entities/r.0.0.mca
+saves/mf flat/entities/r.0.1.mca
+saves/mf flat/entities/r.1.-1.mca
+saves/mf flat/entities/r.1.-2.mca
+saves/mf flat/entities/r.1.0.mca
+saves/mf flat/entities/r.1.1.mca
+saves/mf flat/icon.png
+saves/mf flat/kubejs_persistent_data.nbt
+saves/mf flat/level.dat
+saves/mf flat/level.dat_old
+saves/mf flat/mfix_stronghold_cache_v2.nbt
+saves/mf flat/playerdata/f0395c6e-234d-41dc-883a-25c73b14733a.dat
+saves/mf flat/playerdata/f0395c6e-234d-41dc-883a-25c73b14733a.dat_old
+saves/mf flat/poi/r.-1.-1.mca
+saves/mf flat/poi/r.-1.-2.mca
+saves/mf flat/poi/r.-1.0.mca
+saves/mf flat/poi/r.-1.1.mca
+saves/mf flat/poi/r.-2.-1.mca
+saves/mf flat/poi/r.-2.-2.mca
+saves/mf flat/poi/r.-2.0.mca
+saves/mf flat/poi/r.-2.1.mca
+saves/mf flat/poi/r.-3.-1.mca
+saves/mf flat/poi/r.-3.0.mca
+saves/mf flat/poi/r.0.-1.mca
+saves/mf flat/poi/r.0.-2.mca
+saves/mf flat/poi/r.0.0.mca
+saves/mf flat/poi/r.0.1.mca
+saves/mf flat/poi/r.1.-1.mca
+saves/mf flat/poi/r.1.-2.mca
+saves/mf flat/poi/r.1.0.mca
+saves/mf flat/poi/r.1.1.mca
+saves/mf flat/region/r.-1.-1.mca
+saves/mf flat/region/r.-1.-2.mca
+saves/mf flat/region/r.-1.0.mca
+saves/mf flat/region/r.-1.1.mca
+saves/mf flat/region/r.-2.-1.mca
+saves/mf flat/region/r.-2.-2.mca
+saves/mf flat/region/r.-2.0.mca
+saves/mf flat/region/r.-2.1.mca
+saves/mf flat/region/r.-3.-1.mca
+saves/mf flat/region/r.-3.-2.mca
+saves/mf flat/region/r.-3.0.mca
+saves/mf flat/region/r.0.-1.mca
+saves/mf flat/region/r.0.-2.mca
+saves/mf flat/region/r.0.0.mca
+saves/mf flat/region/r.0.1.mca
+saves/mf flat/region/r.1.-1.mca
+saves/mf flat/region/r.1.-2.mca
+saves/mf flat/region/r.1.0.mca
+saves/mf flat/region/r.1.1.mca
+saves/mf flat/serverconfig/readme.txt
+saves/mf flat/session.lock
+saves/mf flat/stats/f0395c6e-234d-41dc-883a-25c73b14733a.json
+saves/New World/advancements/f0395c6e-234d-41dc-883a-25c73b14733a.json
+saves/New World/data/collective/itemnametranslation.txt
+saves/New World/data/crafttweaker_saved_data.dat
+saves/New World/data/InControlData.dat
+saves/New World/data/mezz_config/server-id.txt
+saves/New World/data/neoforge_data_attachments.dat
+saves/New World/data/raids.dat
+saves/New World/data/starter_cabin.dat
+saves/New World/DIM-1/data/crafttweaker_saved_data.dat
+saves/New World/DIM-1/data/neoforge_data_attachments.dat
+saves/New World/DIM-1/data/raids.dat
+saves/New World/DIM1/data/crafttweaker_saved_data.dat
+saves/New World/DIM1/data/neoforge_data_attachments.dat
+saves/New World/DIM1/data/raids_end.dat
+saves/New World/entities/r.-1.-1.mca
+saves/New World/entities/r.-1.-2.mca
+saves/New World/entities/r.-1.0.mca
+saves/New World/entities/r.-1.1.mca
+saves/New World/entities/r.-2.-1.mca
+saves/New World/entities/r.-2.-2.mca
+saves/New World/entities/r.-2.0.mca
+saves/New World/entities/r.-2.1.mca
+saves/New World/entities/r.0.-1.mca
+saves/New World/entities/r.0.-2.mca
+saves/New World/entities/r.0.0.mca
+saves/New World/entities/r.0.1.mca
+saves/New World/entities/r.1.-1.mca
+saves/New World/entities/r.1.-2.mca
+saves/New World/entities/r.1.0.mca
+saves/New World/entities/r.1.1.mca
+saves/New World/kubejs_persistent_data.nbt
+saves/New World/level.dat
+saves/New World/level.dat_old
+saves/New World/mfix_stronghold_cache_v2.nbt
+saves/New World/playerdata/f0395c6e-234d-41dc-883a-25c73b14733a.dat
+saves/New World/playerdata/f0395c6e-234d-41dc-883a-25c73b14733a.dat_old
+saves/New World/poi/r.-1.-1.mca
+saves/New World/poi/r.-1.-2.mca
+saves/New World/poi/r.-1.0.mca
+saves/New World/poi/r.-1.1.mca
+saves/New World/poi/r.-2.-1.mca
+saves/New World/poi/r.-2.-2.mca
+saves/New World/poi/r.-2.0.mca
+saves/New World/poi/r.-2.1.mca
+saves/New World/poi/r.0.-1.mca
+saves/New World/poi/r.0.-2.mca
+saves/New World/poi/r.0.0.mca
+saves/New World/poi/r.0.1.mca
+saves/New World/poi/r.1.-1.mca
+saves/New World/poi/r.1.-2.mca
+saves/New World/poi/r.1.0.mca
+saves/New World/poi/r.1.1.mca
+saves/New World/region/r.-1.-1.mca
+saves/New World/region/r.-1.-2.mca
+saves/New World/region/r.-1.0.mca
+saves/New World/region/r.-1.1.mca
+saves/New World/region/r.-2.-1.mca
+saves/New World/region/r.-2.-2.mca
+saves/New World/region/r.-2.0.mca
+saves/New World/region/r.-2.1.mca
+saves/New World/region/r.0.-1.mca
+saves/New World/region/r.0.-2.mca
+saves/New World/region/r.0.0.mca
+saves/New World/region/r.0.1.mca
+saves/New World/region/r.1.-1.mca
+saves/New World/region/r.1.-2.mca
+saves/New World/region/r.1.0.mca
+saves/New World/region/r.1.1.mca
+saves/New World/serverconfig/readme.txt
+saves/New World/session.lock
+saves/New World/stats/f0395c6e-234d-41dc-883a-25c73b14733a.json
+saves/no distraction (1)/advancements/f0395c6e-234d-41dc-883a-25c73b14733a.json
+saves/no distraction (1)/data/collective/itemnametranslation.txt
+saves/no distraction (1)/data/crafttweaker_saved_data.dat
+saves/no distraction (1)/data/InControlData.dat
+saves/no distraction (1)/data/mezz_config/server-id.txt
+saves/no distraction (1)/data/neoforge_data_attachments.dat
+saves/no distraction (1)/data/raids.dat
+saves/no distraction (1)/data/random_sequences.dat
+saves/no distraction (1)/data/spore_world_data.dat
+saves/no distraction (1)/data/starter_cabin.dat
+saves/no distraction (1)/deaths/f0395c6e-234d-41dc-883a-25c73b14733a/e9f72618-b16e-4cbf-8e4d-d4d1db4b5bc2.dat
+saves/no distraction (1)/DIM-1/data/crafttweaker_saved_data.dat
+saves/no distraction (1)/DIM-1/data/neoforge_data_attachments.dat
+saves/no distraction (1)/DIM-1/data/raids.dat
+saves/no distraction (1)/DIM-1/entities/r.0.-1.mca
+saves/no distraction (1)/DIM-1/region/r.-1.-1.mca
+saves/no distraction (1)/DIM-1/region/r.-1.0.mca
+saves/no distraction (1)/DIM-1/region/r.0.-1.mca
+saves/no distraction (1)/DIM-1/region/r.0.0.mca
+saves/no distraction (1)/DIM1/data/crafttweaker_saved_data.dat
+saves/no distraction (1)/DIM1/data/neoforge_data_attachments.dat
+saves/no distraction (1)/DIM1/data/raids_end.dat
+saves/no distraction (1)/DIM1/entities/r.0.-1.mca
+saves/no distraction (1)/DIM1/region/r.-1.-1.mca
+saves/no distraction (1)/DIM1/region/r.-1.0.mca
+saves/no distraction (1)/DIM1/region/r.0.-1.mca
+saves/no distraction (1)/DIM1/region/r.0.0.mca
+saves/no distraction (1)/entities/r.-1.-1.mca
+saves/no distraction (1)/entities/r.-1.-2.mca
+saves/no distraction (1)/entities/r.-1.0.mca
+saves/no distraction (1)/entities/r.-1.1.mca
+saves/no distraction (1)/entities/r.-2.-1.mca
+saves/no distraction (1)/entities/r.-2.-2.mca
+saves/no distraction (1)/entities/r.-2.0.mca
+saves/no distraction (1)/entities/r.-2.1.mca
+saves/no distraction (1)/entities/r.0.-1.mca
+saves/no distraction (1)/entities/r.0.-2.mca
+saves/no distraction (1)/entities/r.0.0.mca
+saves/no distraction (1)/entities/r.0.1.mca
+saves/no distraction (1)/entities/r.1.-1.mca
+saves/no distraction (1)/entities/r.1.-2.mca
+saves/no distraction (1)/entities/r.1.0.mca
+saves/no distraction (1)/entities/r.1.1.mca
+saves/no distraction (1)/kubejs_persistent_data.nbt
+saves/no distraction (1)/level.dat
+saves/no distraction (1)/level.dat_old
+saves/no distraction (1)/playerdata/f0395c6e-234d-41dc-883a-25c73b14733a.dat
+saves/no distraction (1)/playerdata/f0395c6e-234d-41dc-883a-25c73b14733a.dat_old
+saves/no distraction (1)/poi/r.-1.-1.mca
+saves/no distraction (1)/poi/r.-1.-2.mca
+saves/no distraction (1)/poi/r.-1.0.mca
+saves/no distraction (1)/poi/r.-1.1.mca
+saves/no distraction (1)/poi/r.-2.-1.mca
+saves/no distraction (1)/poi/r.-2.-2.mca
+saves/no distraction (1)/poi/r.-2.0.mca
+saves/no distraction (1)/poi/r.-2.1.mca
+saves/no distraction (1)/poi/r.0.-1.mca
+saves/no distraction (1)/poi/r.0.-2.mca
+saves/no distraction (1)/poi/r.0.0.mca
+saves/no distraction (1)/poi/r.0.1.mca
+saves/no distraction (1)/poi/r.1.-1.mca
+saves/no distraction (1)/poi/r.1.-2.mca
+saves/no distraction (1)/poi/r.1.0.mca
+saves/no distraction (1)/poi/r.1.1.mca
+saves/no distraction (1)/region/r.-1.-1.mca
+saves/no distraction (1)/region/r.-1.-2.mca
+saves/no distraction (1)/region/r.-1.0.mca
+saves/no distraction (1)/region/r.-1.1.mca
+saves/no distraction (1)/region/r.-2.-1.mca
+saves/no distraction (1)/region/r.-2.-2.mca
+saves/no distraction (1)/region/r.-2.0.mca
+saves/no distraction (1)/region/r.-2.1.mca
+saves/no distraction (1)/region/r.0.-1.mca
+saves/no distraction (1)/region/r.0.-2.mca
+saves/no distraction (1)/region/r.0.0.mca
+saves/no distraction (1)/region/r.0.1.mca
+saves/no distraction (1)/region/r.1.-1.mca
+saves/no distraction (1)/region/r.1.-2.mca
+saves/no distraction (1)/region/r.1.0.mca
+saves/no distraction (1)/region/r.1.1.mca
+saves/no distraction (1)/serverconfig/readme.txt
+saves/no distraction (1)/session.lock
+saves/no distraction (1)/stats/f0395c6e-234d-41dc-883a-25c73b14733a.json
+saves/not flat/advancements/f0395c6e-234d-41dc-883a-25c73b14733a.json
+saves/not flat/data/crafttweaker_saved_data.dat
+saves/not flat/data/InControlData.dat
+saves/not flat/data/mezz_config/server-id.txt
+saves/not flat/data/neoforge_data_attachments.dat
+saves/not flat/data/raids.dat
+saves/not flat/data/random_sequences.dat
+saves/not flat/data/starter_cabin.dat
+saves/not flat/DIM-1/data/crafttweaker_saved_data.dat
+saves/not flat/DIM-1/data/neoforge_data_attachments.dat
+saves/not flat/DIM-1/data/raids.dat
+saves/not flat/DIM-1/entities/r.-1.-1.mca
+saves/not flat/DIM-1/entities/r.-1.0.mca
+saves/not flat/DIM-1/entities/r.0.-1.mca
+saves/not flat/DIM-1/entities/r.0.0.mca
+saves/not flat/DIM-1/poi/r.-1.-1.mca
+saves/not flat/DIM-1/poi/r.-1.0.mca
+saves/not flat/DIM-1/poi/r.0.-1.mca
+saves/not flat/DIM-1/poi/r.0.0.mca
+saves/not flat/DIM-1/region/r.-1.-1.mca
+saves/not flat/DIM-1/region/r.-1.0.mca
+saves/not flat/DIM-1/region/r.0.-1.mca
+saves/not flat/DIM-1/region/r.0.0.mca
+saves/not flat/DIM1/data/crafttweaker_saved_data.dat
+saves/not flat/DIM1/data/neoforge_data_attachments.dat
+saves/not flat/DIM1/data/raids_end.dat
+saves/not flat/entities/r.-1.-1.mca
+saves/not flat/entities/r.-1.0.mca
+saves/not flat/entities/r.0.-1.mca
+saves/not flat/entities/r.0.0.mca
+saves/not flat/icon.png
+saves/not flat/kubejs_persistent_data.nbt
+saves/not flat/level.dat
+saves/not flat/level.dat_old
+saves/not flat/mfix_stronghold_cache_v2.nbt
+saves/not flat/playerdata/f0395c6e-234d-41dc-883a-25c73b14733a.dat
+saves/not flat/playerdata/f0395c6e-234d-41dc-883a-25c73b14733a.dat_old
+saves/not flat/playerdata/f0395c6e-234d-41dc-883a-25c73b14733a.questlog.dat
+saves/not flat/playerdata/f0395c6e-234d-41dc-883a-25c73b14733a.questlog.dat_old
+saves/not flat/poi/r.-1.-1.mca
+saves/not flat/poi/r.-1.0.mca
+saves/not flat/poi/r.0.-1.mca
+saves/not flat/poi/r.0.0.mca
+saves/not flat/region/r.-1.-1.mca
+saves/not flat/region/r.-1.0.mca
+saves/not flat/region/r.0.-1.mca
+saves/not flat/region/r.0.0.mca
+saves/not flat/serverconfig/readme.txt
+saves/not flat/session.lock
+saves/not flat/stats/f0395c6e-234d-41dc-883a-25c73b14733a.json
+saves/Playthrough 4/advancements/f0395c6e-234d-41dc-883a-25c73b14733a.json
+saves/Playthrough 4/data/crafttweaker_saved_data.dat
+saves/Playthrough 4/data/InControlData.dat
+saves/Playthrough 4/data/mezz_config/server-id.txt
+saves/Playthrough 4/data/neoforge_data_attachments.dat
+saves/Playthrough 4/data/raids.dat
+saves/Playthrough 4/data/random_sequences.dat
+saves/Playthrough 4/data/starter_cabin.dat
+saves/Playthrough 4/DIM-1/data/crafttweaker_saved_data.dat
+saves/Playthrough 4/DIM-1/data/neoforge_data_attachments.dat
+saves/Playthrough 4/DIM-1/data/raids.dat
+saves/Playthrough 4/DIM1/data/crafttweaker_saved_data.dat
+saves/Playthrough 4/DIM1/data/neoforge_data_attachments.dat
+saves/Playthrough 4/DIM1/data/raids_end.dat
+saves/Playthrough 4/entities/r.-1.-1.mca
+saves/Playthrough 4/entities/r.-1.-2.mca
+saves/Playthrough 4/entities/r.-1.0.mca
+saves/Playthrough 4/entities/r.-1.1.mca
+saves/Playthrough 4/entities/r.-2.-1.mca
+saves/Playthrough 4/entities/r.-2.-2.mca
+saves/Playthrough 4/entities/r.-2.0.mca
+saves/Playthrough 4/entities/r.-2.1.mca
+saves/Playthrough 4/entities/r.0.-1.mca
+saves/Playthrough 4/entities/r.0.-2.mca
+saves/Playthrough 4/entities/r.0.0.mca
+saves/Playthrough 4/entities/r.0.1.mca
+saves/Playthrough 4/entities/r.1.-1.mca
+saves/Playthrough 4/entities/r.1.-2.mca
+saves/Playthrough 4/entities/r.1.0.mca
+saves/Playthrough 4/entities/r.1.1.mca
+saves/Playthrough 4/kubejs_persistent_data.nbt
+saves/Playthrough 4/level.dat
+saves/Playthrough 4/level.dat_old
+saves/Playthrough 4/mfix_stronghold_cache_v2.nbt
+saves/Playthrough 4/playerdata/f0395c6e-234d-41dc-883a-25c73b14733a.dat
+saves/Playthrough 4/playerdata/f0395c6e-234d-41dc-883a-25c73b14733a.dat_old
+saves/Playthrough 4/poi/r.-1.-1.mca
+saves/Playthrough 4/poi/r.-1.-2.mca
+saves/Playthrough 4/poi/r.-1.0.mca
+saves/Playthrough 4/poi/r.-1.1.mca
+saves/Playthrough 4/poi/r.-2.-1.mca
+saves/Playthrough 4/poi/r.-2.-2.mca
+saves/Playthrough 4/poi/r.-2.0.mca
+saves/Playthrough 4/poi/r.-2.1.mca
+saves/Playthrough 4/poi/r.0.-1.mca
+saves/Playthrough 4/poi/r.0.-2.mca
+saves/Playthrough 4/poi/r.0.0.mca
+saves/Playthrough 4/poi/r.0.1.mca
+saves/Playthrough 4/poi/r.1.-1.mca
+saves/Playthrough 4/poi/r.1.-2.mca
+saves/Playthrough 4/poi/r.1.0.mca
+saves/Playthrough 4/poi/r.1.1.mca
+saves/Playthrough 4/region/r.-1.-1.mca
+saves/Playthrough 4/region/r.-1.-2.mca
+saves/Playthrough 4/region/r.-1.0.mca
+saves/Playthrough 4/region/r.-1.1.mca
+saves/Playthrough 4/region/r.-2.-1.mca
+saves/Playthrough 4/region/r.-2.-2.mca
+saves/Playthrough 4/region/r.-2.0.mca
+saves/Playthrough 4/region/r.-2.1.mca
+saves/Playthrough 4/region/r.0.-1.mca
+saves/Playthrough 4/region/r.0.-2.mca
+saves/Playthrough 4/region/r.0.0.mca
+saves/Playthrough 4/region/r.0.1.mca
+saves/Playthrough 4/region/r.1.-1.mca
+saves/Playthrough 4/region/r.1.-2.mca
+saves/Playthrough 4/region/r.1.0.mca
+saves/Playthrough 4/region/r.1.1.mca
+saves/Playthrough 4/serverconfig/readme.txt
+saves/Playthrough 4/session.lock
+saves/Playthrough 4/stats/f0395c6e-234d-41dc-883a-25c73b14733a.json
+saves/rebork/advancements/f0395c6e-234d-41dc-883a-25c73b14733a.json
+saves/rebork/data/collective/itemnametranslation.txt
+saves/rebork/data/crafttweaker_saved_data.dat
+saves/rebork/data/InControlData.dat
+saves/rebork/data/mezz_config/server-id.txt
+saves/rebork/data/neoforge_data_attachments.dat
+saves/rebork/data/raids.dat
+saves/rebork/data/starter_cabin.dat
+saves/rebork/DIM-1/data/crafttweaker_saved_data.dat
+saves/rebork/DIM-1/data/neoforge_data_attachments.dat
+saves/rebork/DIM-1/data/raids.dat
+saves/rebork/DIM1/data/crafttweaker_saved_data.dat
+saves/rebork/DIM1/data/neoforge_data_attachments.dat
+saves/rebork/DIM1/data/raids_end.dat
+saves/rebork/entities/r.-1.-1.mca
+saves/rebork/entities/r.-1.0.mca
+saves/rebork/entities/r.0.-1.mca
+saves/rebork/entities/r.0.0.mca
+saves/rebork/kubejs_persistent_data.nbt
+saves/rebork/level.dat
+saves/rebork/level.dat_old
+saves/rebork/mfix_stronghold_cache_v2.nbt
+saves/rebork/playerdata/f0395c6e-234d-41dc-883a-25c73b14733a.dat
+saves/rebork/playerdata/f0395c6e-234d-41dc-883a-25c73b14733a.dat_old
+saves/rebork/poi/r.-1.-1.mca
+saves/rebork/poi/r.-1.-2.mca
+saves/rebork/poi/r.-1.0.mca
+saves/rebork/poi/r.-1.1.mca
+saves/rebork/poi/r.-2.-1.mca
+saves/rebork/poi/r.-2.-2.mca
+saves/rebork/poi/r.-2.0.mca
+saves/rebork/poi/r.-2.1.mca
+saves/rebork/poi/r.0.-1.mca
+saves/rebork/poi/r.0.-2.mca
+saves/rebork/poi/r.0.0.mca
+saves/rebork/poi/r.0.1.mca
+saves/rebork/poi/r.1.-1.mca
+saves/rebork/poi/r.1.-2.mca
+saves/rebork/poi/r.1.0.mca
+saves/rebork/poi/r.1.1.mca
+saves/rebork/region/r.-1.-1.mca
+saves/rebork/region/r.-1.-2.mca
+saves/rebork/region/r.-1.0.mca
+saves/rebork/region/r.-1.1.mca
+saves/rebork/region/r.-2.-1.mca
+saves/rebork/region/r.-2.-2.mca
+saves/rebork/region/r.-2.0.mca
+saves/rebork/region/r.-2.1.mca
+saves/rebork/region/r.0.-1.mca
+saves/rebork/region/r.0.-2.mca
+saves/rebork/region/r.0.0.mca
+saves/rebork/region/r.0.1.mca
+saves/rebork/region/r.1.-1.mca
+saves/rebork/region/r.1.-2.mca
+saves/rebork/region/r.1.0.mca
+saves/rebork/region/r.1.1.mca
+saves/rebork/serverconfig/readme.txt
+saves/rebork/session.lock
+saves/rebork/stats/f0395c6e-234d-41dc-883a-25c73b14733a.json
+saves/rerebork/advancements/f0395c6e-234d-41dc-883a-25c73b14733a.json
+saves/rerebork/data/collective/itemnametranslation.txt
+saves/rerebork/data/crafttweaker_saved_data.dat
+saves/rerebork/data/InControlData.dat
+saves/rerebork/data/mezz_config/server-id.txt
+saves/rerebork/data/neoforge_data_attachments.dat
+saves/rerebork/data/raids.dat
+saves/rerebork/data/starter_cabin.dat
+saves/rerebork/DIM-1/data/crafttweaker_saved_data.dat
+saves/rerebork/DIM-1/data/neoforge_data_attachments.dat
+saves/rerebork/DIM-1/data/raids.dat
+saves/rerebork/DIM1/data/crafttweaker_saved_data.dat
+saves/rerebork/DIM1/data/neoforge_data_attachments.dat
+saves/rerebork/DIM1/data/raids_end.dat
+saves/rerebork/entities/r.-1.-1.mca
+saves/rerebork/entities/r.-1.-2.mca
+saves/rerebork/entities/r.-1.0.mca
+saves/rerebork/entities/r.-1.1.mca
+saves/rerebork/entities/r.-2.-1.mca
+saves/rerebork/entities/r.-2.-2.mca
+saves/rerebork/entities/r.-2.0.mca
+saves/rerebork/entities/r.-2.1.mca
+saves/rerebork/entities/r.0.-1.mca
+saves/rerebork/entities/r.0.-2.mca
+saves/rerebork/entities/r.0.0.mca
+saves/rerebork/entities/r.0.1.mca
+saves/rerebork/entities/r.1.-1.mca
+saves/rerebork/entities/r.1.-2.mca
+saves/rerebork/entities/r.1.0.mca
+saves/rerebork/entities/r.1.1.mca
+saves/rerebork/kubejs_persistent_data.nbt
+saves/rerebork/level.dat
+saves/rerebork/level.dat_old
+saves/rerebork/mfix_stronghold_cache_v2.nbt
+saves/rerebork/playerdata/f0395c6e-234d-41dc-883a-25c73b14733a.dat
+saves/rerebork/playerdata/f0395c6e-234d-41dc-883a-25c73b14733a.dat_old
+saves/rerebork/poi/r.-1.-1.mca
+saves/rerebork/poi/r.-1.-2.mca
+saves/rerebork/poi/r.-1.0.mca
+saves/rerebork/poi/r.-1.1.mca
+saves/rerebork/poi/r.-2.-1.mca
+saves/rerebork/poi/r.-2.-2.mca
+saves/rerebork/poi/r.-2.0.mca
+saves/rerebork/poi/r.-2.1.mca
+saves/rerebork/poi/r.0.-1.mca
+saves/rerebork/poi/r.0.-2.mca
+saves/rerebork/poi/r.0.0.mca
+saves/rerebork/poi/r.0.1.mca
+saves/rerebork/poi/r.1.-1.mca
+saves/rerebork/poi/r.1.-2.mca
+saves/rerebork/poi/r.1.0.mca
+saves/rerebork/poi/r.1.1.mca
+saves/rerebork/region/r.-1.-1.mca
+saves/rerebork/region/r.-1.-2.mca
+saves/rerebork/region/r.-1.0.mca
+saves/rerebork/region/r.-1.1.mca
+saves/rerebork/region/r.-2.-1.mca
+saves/rerebork/region/r.-2.-2.mca
+saves/rerebork/region/r.-2.0.mca
+saves/rerebork/region/r.-2.1.mca
+saves/rerebork/region/r.0.-1.mca
+saves/rerebork/region/r.0.-2.mca
+saves/rerebork/region/r.0.0.mca
+saves/rerebork/region/r.0.1.mca
+saves/rerebork/region/r.1.-1.mca
+saves/rerebork/region/r.1.-2.mca
+saves/rerebork/region/r.1.0.mca
+saves/rerebork/region/r.1.1.mca
+saves/rerebork/serverconfig/readme.txt
+saves/rerebork/session.lock
+saves/rerebork/stats/f0395c6e-234d-41dc-883a-25c73b14733a.json
+saves/sheep/advancements/f0395c6e-234d-41dc-883a-25c73b14733a.json
+saves/sheep/data/crafttweaker_saved_data.dat
+saves/sheep/data/InControlData.dat
+saves/sheep/data/mezz_config/server-id.txt
+saves/sheep/data/neoforge_data_attachments.dat
+saves/sheep/data/raids.dat
+saves/sheep/data/random_sequences.dat
+saves/sheep/data/starter_cabin.dat
+saves/sheep/DIM-1/data/crafttweaker_saved_data.dat
+saves/sheep/DIM-1/data/neoforge_data_attachments.dat
+saves/sheep/DIM-1/data/raids.dat
+saves/sheep/DIM1/data/crafttweaker_saved_data.dat
+saves/sheep/DIM1/data/neoforge_data_attachments.dat
+saves/sheep/DIM1/data/raids_end.dat
+saves/sheep/entities/r.-1.-1.mca
+saves/sheep/entities/r.-1.0.mca
+saves/sheep/entities/r.0.-1.mca
+saves/sheep/entities/r.0.0.mca
+saves/sheep/icon.png
+saves/sheep/kubejs_persistent_data.nbt
+saves/sheep/level.dat
+saves/sheep/level.dat_old
+saves/sheep/mfix_stronghold_cache_v2.nbt
+saves/sheep/playerdata/f0395c6e-234d-41dc-883a-25c73b14733a.dat
+saves/sheep/playerdata/f0395c6e-234d-41dc-883a-25c73b14733a.dat_old
+saves/sheep/playerdata/f0395c6e-234d-41dc-883a-25c73b14733a.questlog.dat
+saves/sheep/playerdata/f0395c6e-234d-41dc-883a-25c73b14733a.questlog.dat_old
+saves/sheep/poi/r.-1.-1.mca
+saves/sheep/poi/r.-1.-2.mca
+saves/sheep/poi/r.-1.0.mca
+saves/sheep/poi/r.-2.-1.mca
+saves/sheep/poi/r.-2.-2.mca
+saves/sheep/poi/r.0.-1.mca
+saves/sheep/poi/r.0.-2.mca
+saves/sheep/poi/r.0.0.mca
+saves/sheep/region/r.-1.-1.mca
+saves/sheep/region/r.-1.-2.mca
+saves/sheep/region/r.-1.0.mca
+saves/sheep/region/r.-2.-1.mca
+saves/sheep/region/r.-2.-2.mca
+saves/sheep/region/r.-2.0.mca
+saves/sheep/region/r.0.-1.mca
+saves/sheep/region/r.0.-2.mca
+saves/sheep/region/r.0.0.mca
+saves/sheep/serverconfig/readme.txt
+saves/sheep/session.lock
+saves/sheep/stats/f0395c6e-234d-41dc-883a-25c73b14733a.json
+saves/spread test/advancements/f0395c6e-234d-41dc-883a-25c73b14733a.json
+saves/spread test/data/crafttweaker_saved_data.dat
+saves/spread test/data/InControlData.dat
+saves/spread test/data/mezz_config/server-id.txt
+saves/spread test/data/neoforge_data_attachments.dat
+saves/spread test/data/raids.dat
+saves/spread test/data/spore_world_data.dat
+saves/spread test/data/starter_cabin.dat
+saves/spread test/DIM-1/data/crafttweaker_saved_data.dat
+saves/spread test/DIM-1/data/neoforge_data_attachments.dat
+saves/spread test/DIM-1/data/raids.dat
+saves/spread test/DIM-1/entities/r.-1.-1.mca
+saves/spread test/DIM-1/entities/r.-1.0.mca
+saves/spread test/DIM-1/entities/r.0.-1.mca
+saves/spread test/DIM-1/entities/r.0.0.mca
+saves/spread test/DIM-1/region/r.-1.-1.mca
+saves/spread test/DIM-1/region/r.-1.0.mca
+saves/spread test/DIM-1/region/r.0.-1.mca
+saves/spread test/DIM-1/region/r.0.0.mca
+saves/spread test/DIM1/data/crafttweaker_saved_data.dat
+saves/spread test/DIM1/data/neoforge_data_attachments.dat
+saves/spread test/DIM1/data/raids_end.dat
+saves/spread test/DIM1/entities/r.-1.-1.mca
+saves/spread test/DIM1/entities/r.-1.0.mca
+saves/spread test/DIM1/entities/r.0.-1.mca
+saves/spread test/DIM1/entities/r.0.0.mca
+saves/spread test/DIM1/region/r.-1.-1.mca
+saves/spread test/DIM1/region/r.-1.0.mca
+saves/spread test/DIM1/region/r.0.-1.mca
+saves/spread test/DIM1/region/r.0.0.mca
+saves/spread test/entities/r.-1.-1.mca
+saves/spread test/entities/r.-1.0.mca
+saves/spread test/entities/r.0.-1.mca
+saves/spread test/entities/r.0.0.mca
+saves/spread test/icon.png
+saves/spread test/kubejs_persistent_data.nbt
+saves/spread test/level.dat
+saves/spread test/level.dat_old
+saves/spread test/mfix_stronghold_cache_v2.nbt
+saves/spread test/playerdata/f0395c6e-234d-41dc-883a-25c73b14733a.dat
+saves/spread test/playerdata/f0395c6e-234d-41dc-883a-25c73b14733a.dat_old
+saves/spread test/poi/r.-1.-1.mca
+saves/spread test/poi/r.-1.0.mca
+saves/spread test/poi/r.0.-1.mca
+saves/spread test/poi/r.0.0.mca
+saves/spread test/region/r.-1.-1.mca
+saves/spread test/region/r.-1.0.mca
+saves/spread test/region/r.-2.-1.mca
+saves/spread test/region/r.-2.0.mca
+saves/spread test/region/r.0.-1.mca
+saves/spread test/region/r.0.0.mca
+saves/spread test/region/r.1.-1.mca
+saves/spread test/region/r.1.0.mca
+saves/spread test/serverconfig/readme.txt
+saves/spread test/session.lock
+saves/spread test/stats/f0395c6e-234d-41dc-883a-25c73b14733a.json
+saves/test (1)/advancements/f0395c6e-234d-41dc-883a-25c73b14733a.json
+saves/test (1)/data/collective/itemnametranslation.txt
+saves/test (1)/data/crafttweaker_saved_data.dat
+saves/test (1)/data/InControlData.dat
+saves/test (1)/data/mezz_config/server-id.txt
+saves/test (1)/data/neoforge_data_attachments.dat
+saves/test (1)/data/raids.dat
+saves/test (1)/data/starter_cabin.dat
+saves/test (1)/DIM-1/data/crafttweaker_saved_data.dat
+saves/test (1)/DIM-1/data/neoforge_data_attachments.dat
+saves/test (1)/DIM-1/data/raids.dat
+saves/test (1)/DIM1/data/crafttweaker_saved_data.dat
+saves/test (1)/DIM1/data/neoforge_data_attachments.dat
+saves/test (1)/DIM1/data/raids_end.dat
+saves/test (1)/entities/r.-1.-1.mca
+saves/test (1)/entities/r.-1.0.mca
+saves/test (1)/entities/r.0.-1.mca
+saves/test (1)/entities/r.0.0.mca
+saves/test (1)/kubejs_persistent_data.nbt
+saves/test (1)/level.dat
+saves/test (1)/level.dat_old
+saves/test (1)/mfix_stronghold_cache_v2.nbt
+saves/test (1)/playerdata/f0395c6e-234d-41dc-883a-25c73b14733a.dat
+saves/test (1)/playerdata/f0395c6e-234d-41dc-883a-25c73b14733a.dat_old
+saves/test (1)/poi/r.0.0.mca
+saves/test (1)/region/r.-1.-1.mca
+saves/test (1)/region/r.-1.0.mca
+saves/test (1)/region/r.0.-1.mca
+saves/test (1)/region/r.0.0.mca
+saves/test (1)/serverconfig/readme.txt
+saves/test (1)/session.lock
+saves/test (1)/stats/f0395c6e-234d-41dc-883a-25c73b14733a.json
+saves/test/advancements/f0395c6e-234d-41dc-883a-25c73b14733a.json
+saves/test/data/crafttweaker_saved_data.dat
+saves/test/data/InControlData.dat
+saves/test/data/mezz_config/server-id.txt
+saves/test/data/neoforge_data_attachments.dat
+saves/test/data/raids.dat
+saves/test/data/starter_cabin.dat
+saves/test/DIM-1/data/crafttweaker_saved_data.dat
+saves/test/DIM-1/data/neoforge_data_attachments.dat
+saves/test/DIM-1/data/raids.dat
+saves/test/DIM1/data/crafttweaker_saved_data.dat
+saves/test/DIM1/data/neoforge_data_attachments.dat
+saves/test/DIM1/data/raids_end.dat
+saves/test/entities/r.-1.-1.mca
+saves/test/entities/r.-1.0.mca
+saves/test/entities/r.0.-1.mca
+saves/test/entities/r.0.0.mca
+saves/test/kubejs_persistent_data.nbt
+saves/test/level.dat
+saves/test/level.dat_old
+saves/test/mfix_stronghold_cache_v2.nbt
+saves/test/playerdata/f0395c6e-234d-41dc-883a-25c73b14733a.dat
+saves/test/poi/r.0.0.mca
+saves/test/region/r.-1.-1.mca
+saves/test/region/r.-1.-2.mca
+saves/test/region/r.-1.0.mca
+saves/test/region/r.-1.1.mca
+saves/test/region/r.-2.-1.mca
+saves/test/region/r.-2.-2.mca
+saves/test/region/r.-2.0.mca
+saves/test/region/r.-2.1.mca
+saves/test/region/r.0.-1.mca
+saves/test/region/r.0.-2.mca
+saves/test/region/r.0.0.mca
+saves/test/region/r.0.1.mca
+saves/test/region/r.1.-1.mca
+saves/test/region/r.1.-2.mca
+saves/test/region/r.1.0.mca
+saves/test/region/r.1.1.mca
+saves/test/serverconfig/readme.txt
+saves/test/session.lock
+saves/test/stats/f0395c6e-234d-41dc-883a-25c73b14733a.json
+screenshots/2026-09-14_22.08.46.png
+screenshots/2026-09-16_15.34.17.png
+screenshots/2026-09-16_18.31.44.png
+screenshots/2026-09-16_22.17.33.png
+screenshots/2026-09-17_22.50.33.png
+screenshots/2026-09-17_22.52.09.png
+screenshots/2026-09-17_22.52.10.png
+screenshots/2026-09-17_23.00.55.png
+screenshots/2026-09-17_23.01.09.png
+screenshots/2026-09-17_23.01.09_2.png
+screenshots/2026-09-17_23.01.09_3.png
+screenshots/2026-09-19_03.34.30.png
+screenshots/2026-09-23_23.47.41.png
+screenshots/2026-09-28_20.04.51.png
+screenshots/2026-09-29_01.23.47.png
+screenshots/2026-10-01_18.18.29.png
+screenshots/2026-10-03_23.10.26.png
+screenshots/2026-10-05_02.38.34.png
+screenshots/2026-10-11_00.09.43.png
+screenshots/2026-10-11_01.46.46.png
+screenshots/2026-10-11_01.46.49.png
+screenshots/skybox_0.png
+screenshots/skybox_1.png
+screenshots/skybox_2.png
+screenshots/skybox_3.png
+screenshots/skybox_4.png
+screenshots/skybox_5.png
+usercache.json
+usernamecache.json
