@@ -36,6 +36,8 @@ ServerEvents.tick(event => {
         newEntity.x = entity.x
         newEntity.y = entity.y
         newEntity.z = entity.z
+        let nbt = newEntity.nbt.merge({ "evo_points": -1 })
+        newEntity.setNbt(nbt)
         newEntity.spawn()
   }
 })

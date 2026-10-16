@@ -15,6 +15,7 @@ ItemEvents.modifyTooltips(event => {
   event.add('spore:alveolic_sack', '\u00a77Right click a Cow with this item to milk it.')
   event.add('spore:biomass', '\u00a77You can eat this!')
   event.add('spore:biomass', '\u00a77Maybe you could automate this resource at some point?')
+  event.add('spore:biomass', '\u00a77Biomass can be transformed into Bile with a Mechanical Mixer.')
   event.add('create:zinc_nugget', '\u00a77Maybe you could automate this resource at some point?')
   event.add('create:copper_nugget', '\u00a77Maybe you could automate this resource at some point?')
   event.add('minecraft:iron_nugget', '\u00a77Maybe you could automate this resource at some point?')
