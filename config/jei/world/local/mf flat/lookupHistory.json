@@ -1,5 +1,6 @@
 [
   {"version":1},
+  {"ingredient":{"id":"minecraft:soul_sand"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"spore:infested_laboratory_block"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"spore:lab_block"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"create:rose_quartz"},"type":"item_stack","bookmarkType":"INGREDIENT"},
@@ -94,7 +95,6 @@
   {"ingredient":{"id":"create:mechanical_crafter"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"create:crushing_wheel"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"create:sand_paper"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"minecraft:soul_sand"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"minecraft:quartz"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"onlyhammersandexcavators:gold_hammer"},"type":"item_stack","bookmarkType":"INGREDIENT"}
 ]

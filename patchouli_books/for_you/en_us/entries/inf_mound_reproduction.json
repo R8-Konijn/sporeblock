@@ -1,0 +1,15 @@
+{
+    "name": "Mound Reproduction",
+    "icon": "spore:mound_spawnegg",
+    "category": "patchouli:inf",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "You might want more mounds, either to obtain more resources or obtain new Mounds capable of placing a Structure Block. There are two ways to achieve this:$(br2)The first one is to let a chest with at least one food item (such as a piece of Biomass) not too far from a Mound. Stage 3 and 4 Mounds will eventually detect it and grow a Mound on this chest, feeding on the food at their disposal."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "The second way is to wait for Scampers, though this is not a solution that will allow you to obtain Structure Blocks. Scampers are strange looking Spore creatures, which you can recognize easily as they look weird and walk veeeeery slowly. Stage 4 Mounds spawn them every 10 minutes. If a Scamper exists for more than 10 minutes, it will evolve into a Gastgeber, which is basically a bunch of Mounds with legs."
+        }
+    ]
+}

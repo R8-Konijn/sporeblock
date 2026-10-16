@@ -22,4 +22,5 @@ ItemEvents.modifyTooltips(event => {
   event.add('spore:organoid_membrane', '\u00a77Yeah, you could even automate this. Only if you feel up for the challenge of course, hehe.')
   event.add('spore:organoid_membrane', '\u00a77Dropped by Mounds and most other Organoids.')
   event.add('minecraft:quartz', '\u00a77Obtained by washing Soul Sand.')
+  event.add('minecraft:soul_sand', '\u00a77Obtained by right clicking Sand with a Bone Block.')
 })

@@ -2,6 +2,7 @@
     "name": "The Mound",
     "icon": "spore:biomass",
     "category": "patchouli:inf",
+    "priority": true,
     "pages": [
         {
             "type": "patchouli:text",
@@ -17,7 +18,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "Once reaching stage 4, the Mound will summon hostile creatures that will pose a threat if not contained. They will occasionally summon Scampers, might lead to new mounds to be created.$(br2)Once created, a Mound can be quite difficult to move around. However, some Create components might be able to push or move it around."
+            "text": "Once reaching stage 4, the Mound will summon hostile creatures that will pose a threat if not contained.$(br2)Once created, a Mound can be quite difficult to move around. However, some Create components might be able to push or move it around."
         }
     ]
 }

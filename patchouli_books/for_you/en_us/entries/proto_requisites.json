@@ -2,6 +2,7 @@
     "name": "READ ME FIRST",
     "icon": "minecraft:written_book",
     "category": "patchouli:proto",
+    "priority": true,
     "pages": [
         {
             "type": "patchouli:text",
