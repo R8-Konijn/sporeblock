@@ -2232,3 +2232,5 @@ config/jei/world/local/mf flat/lookupHistory.json
 /local
 /logs
 /saves
+config/jei/world/local/mf flat/lookupHistory.json
+/config/jei/world/local

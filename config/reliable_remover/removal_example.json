@@ -85,6 +85,7 @@
         "minecraft:bee_nest", "minecraft:beehive", "create:cuckoo_clock", "minecraft:clock", "create:mysterious_cuckoo_clock", "minecraft:green_bed",
         "minecraft:cyan_bed", "minecraft:light_blue_bed", "minecraft:blue_bed", "minecraft:purple_bed", "minecraft:magenta_bed",
         "minecraft:pink_bed", "minecraft:lime_bed", "minecraft:yellow_bed", "minecraft:orange_bed", "minecraft:red_bed",
-        "minecraft:brown_bed", "minecraft:gray_bed", "minecraft:light_gray_bed", "minecraft:white_bed", "minecraft:black_bed", "spore:laboratory_bed"]
+        "minecraft:brown_bed", "minecraft:gray_bed", "minecraft:light_gray_bed", "minecraft:white_bed", "minecraft:black_bed", "spore:laboratory_bed", 
+        "minecraft:prismarine_shard", "minecraft:prismarine_crystals"]
     }
 ]
