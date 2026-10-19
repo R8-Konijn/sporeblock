@@ -24,4 +24,5 @@ ItemEvents.modifyTooltips(event => {
   event.add('spore:organoid_membrane', '\u00a77Dropped by Mounds and most other Organoids.')
   event.add('minecraft:quartz', '\u00a77Obtained by washing Soul Sand.')
   event.add('minecraft:soul_sand', '\u00a77Obtained by right clicking Sand with a Bone Block.')
+  event.add('spore:gas_mask', '\u00a77Protects against most Spore potion effects.')
 })

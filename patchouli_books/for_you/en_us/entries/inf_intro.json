@@ -10,11 +10,11 @@
         },
         {
             "type": "patchouli:text",
-            "text": "Every 15 minutes, the Mound will grow by one stage, and its infestation radius will increase. It can start to cause serious problems once it reaches stage 4, its final stage. The Mound also grows in size every time its stage increases."
+            "text": "Every 15 minutes, the Mound will grow by one stage, and its infestation radius will increase. It can start to cause serious problems once it reaches stage 4, its final stage. A stage 4 Mound will infest blocks in a radius of 20 blocks around it. The Mound also grows in size every time its stage increases."
         },
         {
             "type": "patchouli:text",
-            "text": "Once reaching stage 3, a Mound will periodically scan nearby chests for food. If it finds one, it will eventually make a level 1 Mound grow on it. Mounds display a similar behavior with Human Remains, which are blocks left behind by Spore creatures dying from starvation. Mounds can feed off any kind of food: if you can eat it, a Mound can too. Not a picky eater, i'm sure you could even invite one next time you go to the restaurant to eat with friends."
+            "text": "Once reaching stage 3, a Mound will periodically scan nearby chests for food in a large radius, and will eventually make a level 1 Mound grow on it. This process can be made quicker by placing multiple chests or using Time in a Bottle. Mounds can feed off any kind of food: if you can eat it, a Mound can too. Not a picky eater, i'm sure you could even invite one next time you go to the restaurant to eat with friends."
         },
         {
             "type": "patchouli:text",
