@@ -25,4 +25,8 @@ ItemEvents.modifyTooltips(event => {
   event.add('minecraft:quartz', '\u00a77Obtained by washing Soul Sand.')
   event.add('minecraft:soul_sand', '\u00a77Obtained by right clicking Sand with a Bone Block.')
   event.add('spore:gas_mask', '\u00a77Protects against most Spore potion effects.')
+  event.add('spore:reforged_biomass_t', '\u00a77Dropped by grounded Calamities at death.')
+  event.add('spore:reforged_biomass_w', '\u00a77Dropped by aquatic Calamities at death.')
+  event.add('spore:reforged_biomass_a', '\u00a77Dropped by airborne Calamities at death.')
+  event.add('minecraft:bucket', '\u00a77Cannot pick up Bile.')
 })

@@ -22,7 +22,7 @@
       "id": "create:mechanical_pump"
     },
     "title": "Fluid manipulation",
-    "description": "Craft a Mechanical Pump. Buckets are not obtainable, so this is how you will be able to place fluids.",
+    "description": "Craft a Mechanical Pump. You will not be able to pick up Bile with a bucket, so you will have to use this.",
     "frame": "task"
   },
   "parents": [
