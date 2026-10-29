@@ -9,7 +9,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "This should be avoided as Hyper Evolved Spore Creatures are very destructive and pose a high risk of containment breach. It is recommended to make sure Spore Creatures are disposed of before they reach their Hyper Evolved form."
+            "text": "$(l)This should be avoided as Hyper Evolved Spore Creatures are very destructive and pose an extremely high risk of containment breach.$() It is recommended to make sure Spore Creatures are disposed of before they reach their Hyper Evolved form."
         }
     ]
 }
