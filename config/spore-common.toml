@@ -63,7 +63,7 @@
 	"Proto Hivemind" = ["spore:mutated_fiber|100|10|20", "spore:armor_fragment|80|4|14", "spore:organoid_membrane|80|4|8", "spore:mutated_heart|80|1|6", "spore:cerebrum|100|2|11", "spore:spine_fragment|80|2|8"]
 	"Hive Tumor" = ["spore:mutated_fiber|100|10|20", "spore:organoid_membrane|80|4|8", "spore:mutated_heart|80|1|6", "spore:cerebrum|100|2|5"]
 	Verwa = ["spore:mutated_fiber|70|2|5", "spore:organoid_membrane|80|1|2"]
-	Womb = ["spore:mutated_fiber|70|2|5", "spore:organoid_membrane|80|1|2"]
+	Womb = ["spore:mutated_fiber|70|2|5", "spore:organoid_membrane|100|2|3"]
 	Delusioner = ["spore:mutated_fiber|70|2|5", "spore:organoid_membrane|80|1|3"]
 	Mound = ["spore:mutated_fiber|70|2|8", "spore:organoid_membrane|100|2|5"]
 	Vigil = ["spore:mutated_fiber|100|6|15", "spore:vigil_eye|100|1|1", "spore:organoid_membrane|80|1|4", "spore:mutated_heart|30|1|1"]

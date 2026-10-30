@@ -120,7 +120,7 @@ craftingTable.addShaped("moo_egg", <item:minecraft:mooshroom_spawn_egg>, [[<item
 <tag:item:sporeblock:infest_to_gold>.add(<item:spore:infested_stone_bricks>);
 <tag:item:sporeblock:infest_to_gold>.add(<item:spore:infested_cobblestone>);
 
-<recipetype:create:crushing>.addJsonRecipe("create/crushing/inf_to_gold", {type: "create:crushing", processing_time: 100, results: [{id: "minecraft:gold_nugget", count: 1, chance: 0.25}, {id: "spore:biomass", count: 1, chance: 0.5}, {id: "minecraft:cobblestone", count: 1, chance: 0.25}], ingredients: [{tag: "sporeblock:infest_to_gold"}]});
+<recipetype:create:crushing>.addJsonRecipe("create/crushing/inf_to_gold", {type: "create:crushing", processing_time: 100, results: [{id: "minecraft:gold_nugget", count: 1, chance: 0.25}, {id: "spore:biomass", count: 1, chance: 0.05}, {id: "minecraft:cobblestone", count: 1, chance: 0.25}], ingredients: [{tag: "sporeblock:infest_to_gold"}]});
 
 <recipetype:create:splashing>.removeByName("create:splashing/red_sand");
 
