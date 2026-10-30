@@ -1,0 +1,31 @@
+{
+  "criteria": {
+    "0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "create:crushing_wheel"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "0"
+    ]
+  ],
+  "parent": "sporeblock:blazeburner",
+  "display": {
+    "icon": {
+      "id": "create:crushing_wheel"
+    },
+    "title": "Not For Crushing Cars",
+    "description": "Obtain Crushing Wheels",
+    "frame": "task"
+  },
+  "parents": [
+    "sporeblock:blazeburner"
+  ]
+}

@@ -1358,8 +1358,8 @@
           160
         ],
         "sporeblock:clock": [
-          -50,
-          98
+          127,
+          214
         ],
         "sporeblock:waterwheel": [
           93,
@@ -1462,12 +1462,12 @@
           291
         ],
         "sporeblock:snowball": [
-          25,
+          24,
           186
         ],
         "sporeblock:cdu": [
-          25,
-          213
+          24,
+          214
         ],
         "sporeblock:reforged_biomass": [
           -26,
@@ -1520,6 +1520,14 @@
         "sporeblock:fungal_bonemeal": [
           -78,
           80
+        ],
+        "sporeblock:frozen_decayed_biomass": [
+          52,
+          214
+        ],
+        "sporeblock:crusher": [
+          61,
+          160
         ]
       }
     },
@@ -3587,17 +3595,17 @@
       "title": "\"Water wheels.... with no water?\"",
       "icon": "create:water_wheel"
     },
-    "sporeblock:clock": {
-      "owner": "reliable_advancements:standalone",
-      "tab": "sporeblock:start",
-      "title": "\"One rotation per 15 minutes\"",
-      "icon": "create:cuckoo_clock"
-    },
     "sporeblock:human_remains": {
       "owner": "reliable_advancements:standalone",
       "tab": "sporeblock:start",
       "title": "\"More Recycling\"",
       "icon": "spore:remains"
+    },
+    "sporeblock:frozen_decayed_biomass": {
+      "owner": "reliable_advancements:standalone",
+      "tab": "sporeblock:start",
+      "title": "\"You\u0027re So Cool\"",
+      "icon": "spore:frozen_decayed_biomass"
     }
   },
   "derived_presentation": {

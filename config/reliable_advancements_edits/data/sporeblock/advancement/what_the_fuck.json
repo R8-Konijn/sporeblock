@@ -19,12 +19,12 @@
   ],
   "parent": "sporeblock:creative_motor",
   "display": {
+    "frame": "challenge",
     "icon": {
       "id": "create:creative_motor"
     },
     "title": "Bonus achievement if you\u0027re feeling crazy",
-    "description": "Prove your ability to automate anything: hold a full stack of Creative Motors in your inventory",
-    "frame": "task"
+    "description": "Prove your ability to automate anything: hold a full stack of Creative Motors in your inventory"
   },
   "parents": [
     "sporeblock:creative_motor"

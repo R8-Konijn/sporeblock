@@ -107,15 +107,25 @@ craftingTable.remove(<item:create:rose_quartz>);
 
 //Eggs
 <recipetype:create:mixing>.addJsonRecipe("normal_egg", {type: "create:mixing", heat_requirement: "heated", results: [{id: "minecraft:egg"}], ingredients: [{item: "spore:biomass"}, {item: "spore:armor_fragment"}, {item: "spore:armor_fragment"}, {type: "neoforge:single", fluid: "spore:bile", amount: 100}]});
-craftingTable.addShaped("moo_egg", <item:minecraft:mooshroom_spawn_egg>, [[<item:spore:organoid_membrane>, <item:spore:organoid_membrane>, <item:spore:organoid_membrane>], [<item:spore:organoid_membrane>,<item:minecraft:egg>,<item:spore:organoid_membrane>],[<item:spore:organoid_membrane>,<item:spore:organoid_membrane>,<item:spore:organoid_membrane>]]);
+craftingTable.addShaped("moo_egg", <item:minecraft:mooshroom_spawn_egg>, [[<item:minecraft:air>, <item:spore:organoid_membrane>, <item:minecraft:air>], [<item:spore:organoid_membrane>,<item:minecraft:egg>,<item:spore:organoid_membrane>],[<item:minecraft:air>,<item:spore:organoid_membrane>,<item:minecraft:air>]]);
 
 //Sugar
 <recipetype:create:mixing>.addJsonRecipe("new_sugar", {type: "create:mixing", heat_requirement: "heated", results: [{id: "minecraft:sugar"}], ingredients: [{type: "neoforge:single", fluid: "minecraft:milk", amount: 100}, {type: "neoforge:single", fluid: "spore:bile", amount: 100}]});
 
+//Crushing & Gold obtention
+<recipetype:create:crushing>.removeByName("create:crushing/gravel");
+<recipetype:create:crushing>.addJsonRecipe("create/crushing_gravel_new", {type: "create:crushing", processing_time: 250, results: [{id: "minecraft:sand"}, {id: "minecraft:flint"}, {id: "minecraft:clay_ball", chance: 0.1}], ingredients: [{item: "minecraft:gravel"}]});
+
+<tag:item:sporeblock:infest_to_gold>.add(<item:spore:infested_stone>);
+<tag:item:sporeblock:infest_to_gold>.add(<item:spore:infested_stone_bricks>);
+<tag:item:sporeblock:infest_to_gold>.add(<item:spore:infested_cobblestone>);
+
+<recipetype:create:crushing>.addJsonRecipe("create/crushing/inf_to_gold", {type: "create:crushing", processing_time: 100, results: [{id: "minecraft:gold_nugget", count: 1, chance: 0.25}, {id: "spore:biomass", count: 1, chance: 0.5}, {id: "minecraft:cobblestone", count: 1, chance: 0.25}], ingredients: [{tag: "sporeblock:infest_to_gold"}]});
+
+<recipetype:create:splashing>.removeByName("create:splashing/red_sand");
 
 //Dome
 <recipetype:create:mixing>.addJsonRecipe("spore_bile", {type: "create:mixing", results: [{id: "spore:bile", amount: 1000}], ingredients: [{item: "spore:gastric_biomass_block"}]});
-
 
 //Creative Motor
 craftingTable.addShaped("create/mechanical_crafting/creative_motor", <item:create:creative_motor> , [[<item:spore:sicken_biomass_block>, <item:spore:sicken_biomass_block>, <item:spore:sicken_biomass_block>, <item:spore:sicken_biomass_block>, <item:spore:sicken_biomass_block>], [<item:spore:gastric_biomass_block>, <item:spore:gastric_biomass_block>, <item:spore:gastric_biomass_block>, <item:spore:gastric_biomass_block>, <item:spore:gastric_biomass_block>], [<item:spore:calcified_biomass_block>,<item:spore:brain_remnants>,<item:create:brass_ingot>,<item:spore:brain_remnants>,<item:spore:calcified_biomass_block>], [<item:spore:calcified_biomass_block>,<tag:item:spore:amalgamated_biomass>,<item:create:brass_ingot>,<tag:item:spore:amalgamated_biomass>,<item:spore:calcified_biomass_block>], [<item:minecraft:air>,<item:minecraft:air>,<item:create:brass_ingot>,<item:minecraft:air>,<item:minecraft:air>]]);

@@ -18,3 +18,6 @@ craftingTable.addShaped("create/chute", <item:create:chute>, [[<item:create:ande
 craftingTable.addShaped("basic_laser_turret", <item:creategbd:basic_laser_turret>, [[<tag:item:c:glass_blocks>, <tag:item:c:glass_blocks>, <tag:item:c:glass_blocks>], [<tag:item:c:glass_blocks>, <item:create:electron_tube> ,<tag:item:c:glass_blocks>], [<item:spore:armor_fragment>,<item:create:shaft>,<item:spore:armor_fragment>]]);
 
 craftingTable.addShaped("advanced_laser_turret", <item:creategbd:advanced_laser_turret>, [[<tag:item:c:glass_blocks>, <tag:item:c:glass_blocks>, <tag:item:c:glass_blocks>, <tag:item:c:glass_blocks>, <tag:item:c:glass_blocks>], [<tag:item:c:glass_blocks>, <item:create:electron_tube>, <item:create:electron_tube> , <item:create:electron_tube>, <tag:item:c:glass_blocks>], [<item:create:brass_ingot>, <item:spore:armor_fragment>,<item:create:shaft>,<item:spore:armor_fragment>, <item:create:brass_ingot>]]);
+
+//Cleanup
+<recipetype:create:crushing>.removeByName("create:crushing/diorite_recycling");

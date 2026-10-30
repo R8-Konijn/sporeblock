@@ -18,12 +18,12 @@
   ],
   "parent": "sporeblock:reforged_biomass",
   "display": {
+    "frame": "challenge",
     "icon": {
       "id": "create:creative_motor"
     },
     "title": "Complete Mastery",
-    "description": "Prove your ability to subdue a completely developped infection by crafting the final item of this modpack: the Creative Motor!",
-    "frame": "task"
+    "description": "Prove your ability to subdue a completely developped infection by crafting the final item of this modpack: the Creative Motor!"
   },
   "parents": [
     "sporeblock:reforged_biomass",
