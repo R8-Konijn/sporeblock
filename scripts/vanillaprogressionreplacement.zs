@@ -124,6 +124,7 @@ craftingTable.addShaped("moo_egg", <item:minecraft:mooshroom_spawn_egg>, [[<item
 
 <recipetype:create:splashing>.removeByName("create:splashing/red_sand");
 
+
 //Dome
 <recipetype:create:mixing>.addJsonRecipe("spore_bile", {type: "create:mixing", results: [{id: "spore:bile", amount: 1000}], ingredients: [{item: "spore:gastric_biomass_block"}]});
 
