@@ -83,6 +83,9 @@
         "minecraft:cyan_bed", "minecraft:light_blue_bed", "minecraft:blue_bed", "minecraft:purple_bed", "minecraft:magenta_bed",
         "minecraft:pink_bed", "minecraft:lime_bed", "minecraft:yellow_bed", "minecraft:orange_bed", "minecraft:red_bed",
         "minecraft:brown_bed", "minecraft:gray_bed", "minecraft:light_gray_bed", "minecraft:white_bed", "minecraft:black_bed", "spore:laboratory_bed", 
-        "minecraft:prismarine_shard", "minecraft:prismarine_crystals"]
+        "minecraft:prismarine_shard", "minecraft:prismarine_crystals", "minecraft:leather_horse_armor", "minecraft:iron_horse_armor", "minecraft:golden_horse_armor",
+        "minecraft:diamond_horse_armor", "spore:flesh_horse_armor", "spore:plated_horse_armor", "spore:living_horse_armor", "minecraft:tuff", "create:ochrum", "minecraft:gilded_blackstone",
+        "minecraft:amethyst_block", "minecraft:budding_amethyst", "minecraft:small_amethyst_bud", "minecraft:medium_amethyst_bud", "minecraft:large_amethyst_bud", 
+        "minecraft:amethyst_cluster", "minecraft:amethyst_shard", "minecraft:ender_eye"]
     }
 ]

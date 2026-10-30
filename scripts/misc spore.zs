@@ -17,8 +17,6 @@ craftingTable.addShaped("decayed_stairs", <item:spore:rotten_stair>*4, [[<item:s
 <tag:block:minecraft:stairs>.add(<block:spore:rotten_stair>);
 <tag:block:minecraft:wooden_stairs>.add(<block:spore:rotten_stair>);
 
-craftingTable.addShaped("bcu", <item:spore:container> * 2, [[<item:create:iron_sheet>, <item:create:iron_sheet>, <item:create:iron_sheet>], [<item:minecraft:glass>, <item:minecraft:air>, <item:minecraft:glass>], [<item:create:iron_sheet>, <item:create:iron_sheet>, <item:create:iron_sheet>]]);
-
 //Lab blocks recipe buff
 craftingTable.remove(<item:spore:lab_block>);
 
