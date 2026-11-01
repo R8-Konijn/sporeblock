@@ -25,7 +25,7 @@
         "minecraft:emerald_ore", "minecraft:deepslate_emerald_ore", "minecraft:lapis_ore", "minecraft:deepslate_lapis_ore",
         "minecraft:diamond_ore", "minecraft:deepslate_diamond_ore", "minecraft:nether_gold_ore", "minecraft:nether_quartz_ore",
         "create:zinc_ore", "create:deepslate_zinc_ore", "create:crushed_raw_iron", "create:crushed_raw_copper",
-        "create:crushed_raw_zinc", "minecraft:diamond", "minecraft:diamond_block", "minecraft:oak_stairs", "minecraft:oak_fence",
+        "create:crushed_raw_zinc", "minecraft:diamond", "minecraft:diamond_block", "minecraft:oak_stairs",
         "minecraft:oak_fence_gate", "minecraft:oak_pressure_plate", "minecraft:oak_button", "minecraft:dark_oak_stairs", "minecraft:dark_oak_fence",
         "minecraft:dark_oak_fence_gate", "minecraft:dark_oak_door", "minecraft:dark_oak_trapdoor", "minecraft:dark_oak_pressure_plate",
         "minecraft:dark_oak_button", "minecraft:oak_leaves", "minecraft:dark_oak_leaves", "minecraft:oak_sapling", "minecraft:dark_oak_sapling",

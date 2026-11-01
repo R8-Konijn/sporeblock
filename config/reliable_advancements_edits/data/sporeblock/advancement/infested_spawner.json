@@ -1,0 +1,31 @@
+{
+  "criteria": {
+    "0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "spore:overgrown_spawner"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "0"
+    ]
+  ],
+  "parent": "sporeblock:blazeburner",
+  "display": {
+    "icon": {
+      "id": "spore:overgrown_spawner"
+    },
+    "title": "Magic Box",
+    "description": "Craft an Infested Spawner. Make sure to read its entry in the book before placing it!",
+    "frame": "task"
+  },
+  "parents": [
+    "sporeblock:blazeburner"
+  ]
+}

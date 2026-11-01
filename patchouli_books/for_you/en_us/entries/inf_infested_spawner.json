@@ -1,0 +1,15 @@
+{
+    "name": "Infested Spawner",
+    "icon": "spore:overgrown_spawner",
+    "category": "patchouli:inf",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "The Infested Spawner is a block meant to boost the Spore infestation. When placed, it will appear with a stage 1 Mound on top of it, which means Mounds are indirectly craftable. The Infested Spawner will however not generate an other Mound if this Mound is moved away or killed. Creating Mounds is however not the only function of the Infested Spawner."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Every 18 seconds, the Infested Spawner will give a Kill Point to most Spore creatures and $(l:inf_bm_rm)structure blocks$(/l) in a radius of 32 blocks. Kills points help structure blocks evolve and allow Spore creatures to give themselves various positive potion effects. When an Infested Spawner is destroyed, an $(l:inf_scent)Overcharged Scent$(/l) will be summoned at its location."
+        }
+    ]
+}

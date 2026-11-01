@@ -1,12 +1,15 @@
 [
   {"version":1},
+  {"ingredient":{"id":"minecraft:flint"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"spore:overgrown_spawner"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"spore:compound_plate"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"spore:altered_spleen"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"minecraft:water"},"type":"fluid_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"minecraft:snowball"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"minecraft:blue_ice"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"minecraft:packed_ice"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"minecraft:ice"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"minecraft:lava"},"type":"fluid_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"minecraft:flint"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"minecraft:sand"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"minecraft:gravel"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"create:cinder_flour"},"type":"item_stack","bookmarkType":"INGREDIENT"},
@@ -96,8 +99,5 @@
   {"ingredient":{"id":"spore:circuit_board"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"spore:incubator"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"minecraft:repeater"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"minecraft:comparator"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"spore:incubator","components":"{\"spore:incubator_fuel\":0}"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"create_netherless:coal_rod"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"minecraft:blast_furnace"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+  {"ingredient":{"id":"minecraft:comparator"},"type":"item_stack","bookmarkType":"INGREDIENT"}
 ]

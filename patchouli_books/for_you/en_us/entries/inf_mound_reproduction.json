@@ -5,11 +5,19 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "You might want more mounds, either to obtain more resources or obtain new Mounds capable of placing a Structure Block. There are two ways to achieve this:$(br2)The first one is to let a chest with at least one food item (such as a piece of Biomass) not too far from a Mound. Stage 3 and 4 Mounds will eventually detect it and grow a Mound on this chest, feeding on the food at their disposal."
+            "text": "You might want more mounds, either to obtain more resources or obtain new Mounds capable of placing a Structure Block. There are three ways to achieve this:$(br2)The first one is to let a chest with at least one food item (such as a piece of Biomass) not too far from a Mound. Stage 3 and 4 Mounds will eventually detect it and grow a Mound on this chest, feeding on the food at their disposal."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Every puff, a Stage 3 or 4 Mound has a 10% chance to look for a container nearby containing food, and will not do it if there is a player less than 8 blocks from the container or the Mound. As such, it can take some time to create new Mounds this way, although this is probably the safest way."
         },
         {
             "type": "patchouli:text",
             "text": "The second way is to wait for Scamper. Scampers are strange looking Spore creatures, which you can recognize easily as they look weird and walk veeeeery slowly. Stage 4 Mounds spawn them every 10 minutes. If a Scamper exists for more than 10 minutes, they will usually turn into two or three Mounds, or more rarely into a Gastgeber, which is a dangerous evolved creature that has stronger infecting capabilites than a Mound, and can move, although it cannot place structure blocks."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "The third way is to craft an Infested Spawner. See: $(l:inf_infested_spawner)Infested Spawner$(/l) for more information. Make sure to read this entry before placing an Infested Spawner, as it can be a quite hazardous block. Note that despite its name, this block doesn't really function like a standard Spawner."
         }
     ]
 }

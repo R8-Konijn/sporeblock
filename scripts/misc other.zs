@@ -14,6 +14,8 @@ craftingTable.addShaped("wooden_door", <item:minecraft:oak_door>*3, [[<item:spor
 
 craftingTable.addShaped("wooden_trapdoor", <item:minecraft:oak_trapdoor>*2, [[<item:spore:rotten_planks>, <item:spore:rotten_planks>, <item:spore:rotten_planks>],[<item:spore:rotten_planks>, <item:spore:rotten_planks>, <item:spore:rotten_planks>]]);
 
+craftingTable.addShaped("wooden_fence", <item:minecraft:oak_fence>*3, [[<item:spore:rotten_planks>, <item:minecraft:stick>, <item:spore:rotten_planks>],[<item:spore:rotten_planks>, <item:minecraft:stick>, <item:spore:rotten_planks>]]);
+
 craftingTable.addShaped("book", <item:patchouli:guide_book>.withJsonComponent(<componenttype:patchouli:book>, "patchouli:for_you"), [[<item:spore:biomass>]]);
 
 craftingTable.remove(<item:minecraft:dried_kelp>);

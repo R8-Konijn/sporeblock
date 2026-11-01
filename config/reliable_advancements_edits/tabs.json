@@ -1418,15 +1418,15 @@
           160
         ],
         "sporeblock:egg": [
-          -30,
-          186
+          -50,
+          195
         ],
         "sporeblock:lab_blocks": [
           79,
           330
         ],
         "sporeblock:mooshroom": [
-          -30,
+          -17,
           213
         ],
         "sporeblock:brain": [
@@ -1462,12 +1462,12 @@
           291
         ],
         "sporeblock:snowball": [
-          24,
-          186
+          25,
+          213
         ],
         "sporeblock:cdu": [
-          24,
-          214
+          25,
+          244
         ],
         "sporeblock:reforged_biomass": [
           -26,
@@ -1528,6 +1528,10 @@
         "sporeblock:crusher": [
           61,
           160
+        ],
+        "sporeblock:infested_spawner": [
+          60,
+          196
         ]
       }
     },
