@@ -687,7 +687,7 @@
 		#Default 80
 		# Default: 80
 		# Range: > 1
-		"Sets the range in which a mound checks for feedable blocks" = 80
+		"Sets the range in which a mound checks for feedable blocks" = 50
 		#Default 2
 		# Default: 2
 		# Range: > 1
@@ -832,11 +832,10 @@
 		# Default: 100
 		# Range: > 1
 		"Sets the required biomass before it summons a calamity" = 100
-		"Mobs that are summoned for ground support" = ["spore:sieger", "spore:howitzer", "spore:stahl"]
-		"Mobs that are summoned for air support" = ["spore:hindenburg", "spore:verfall"]
-		"Mobs that are summoned for water support" = ["spore:gazenbreacher", "spore:kraken", "spore:leviathan"]
+		"Mobs that are summoned for ground support" = ["spore:hohlfresser"]
+		"Mobs that are summoned for air support" = ["spore:verfall","spore:hindenburg"]
+		"Mobs that are summoned for water support" = ["spore:hohlfresser"]
 		"Mobs that are summoned for underground support" = ["spore:hohlfresser"]
-
 	[Mobs.Scent]
 		#Default true
 		"Should Scents spawn?" = true

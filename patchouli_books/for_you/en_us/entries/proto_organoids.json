@@ -9,7 +9,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "In order to prevent this, you will need some kind of floor they cannot grow on. Laboratory Blocks (or any blocks as hard as them) prevent the growth of Organoids, and can be invaluable to make your base Spore-proof. However, they will lose this ability if they get infested, in which case you will need to purify them with a C.D.U."
+            "text": "In order to prevent this, you will need some kind of floor they cannot grow on. Laboratory Blocks (or any blocks as hard as them, such as Obsidian) prevent the growth of Organoids, and can be invaluable to make your base Spore-proof. However, they will lose this ability if they get infested by a nearby Mound or a Proto-Hivemind, in which case you will need to purify them with a C.D.U.. It is very recommended to make the ground of your base out of Laboratory Blocks or harder before letting a Reconstructed Hivemind evolve."
         }
     ]
 }

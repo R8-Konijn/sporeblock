@@ -1,11 +1,15 @@
 {
-    "name": "The Flesh Domes",
+    "name": "The Biomass Domes",
     "icon": "spore:biomass_block",
     "category": "patchouli:proto",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "As a Reconstructed Mind evolves into a Proto-Hivemind, it will start building two flesh domes around it. It is made of Biomass Blocks, some of which may inflict negative effects upon being manually mined. However, they constitute a source of Biomass, and are required materials to craft the Creative Motor."
+            "text": "As a Reconstructed Mind evolves into a Proto-Hivemind, it will start building two biomass domes around it. They are made of Biomass Blocks, some of which may inflict negative effects upon being manually mined. However, they constitute a source of Biomass, and are required materials to craft the Creative Motor."
+        },
+        {
+          "type": "patchouli:text",
+          "text": "The two biomass domes are centered around the Proto-Hivemind, and have a radius of 15 blocks and 30 blocks each."
         }
-    ]
-}
+      ]
+    }

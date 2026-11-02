@@ -9,7 +9,11 @@
         },
         {
             "type": "patchouli:text",
-            "text": "Calamities requires a long process to be created, requiring the creation of a Womb. When a Womb is created, the message 'Prepare...' is sent in the chat. A player killing Spore creatures increases the odds that the Proto Hivemind creates a Womb. Wombs spawn inside the $(l:proto_dome)Flesh Domes.$(/l)"
+            "text": "The Proto-Hivemind creates calamities with a Womb, which will need some time to form a Calamity. The Proto-Hivemind creates a Womb when it detects a living entity (such as a player) killing Spore creatures. This means you will need to kill Spore Creatures around the Proto-Hivemind to encourage it to grow a Womb. Wombs spawn inside the $(l:proto_dome)Flesh Domes.$(/l)"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Most of the time, the Womb will give birth to a Hohlfresser, a worm-like calamity capable of digging through blocks. However, if the targeted living entity was close to the bedrock layer when it was detected (y>90), it might try to create a flying calamity instead."
         }
     ]
 }
