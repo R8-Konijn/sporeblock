@@ -9,7 +9,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "Every 18 seconds, the Infested Spawner will give a Kill Point to most Spore creatures and $(l:inf_bm_rm)structure blocks$(/l) in a radius of 32 blocks. Kills points help structure blocks evolve and allow Spore creatures to give themselves various positive potion effects. When an Infested Spawner is destroyed, an $(l:inf_scent)Overcharged Scent$(/l) will be summoned at its location."
+            "text": "Every 18 seconds, the Infested Spawner will give a Kill Point to most Spore creatures and $(l:inf_bm_rm)Reconstructed Minds$(/l) in a radius of 32 blocks. Kills points help structure blocks evolve and allow Spore creatures to give themselves various positive potion effects. When an Infested Spawner is destroyed, an $(l:inf_scent)Overcharged Scent$(/l) will be summoned at its location."
         }
     ]
 }

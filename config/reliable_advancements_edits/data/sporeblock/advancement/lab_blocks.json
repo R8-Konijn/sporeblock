@@ -21,7 +21,7 @@
     "icon": {
       "id": "spore:lab_block"
     },
-    "title": "Building the laboratory",
+    "title": "Building The Laboratory",
     "description": "Craft Laboratory Blocks. Being tougher than Stone, Spore Organoids such as the Mound cannot grow on top of this block, unless they get infested.",
     "frame": "task"
   },

@@ -1,12 +1,4 @@
 {
-  "display": {
-    "icon": {
-      "id": "onlyhammersandexcavators:stone_hammer"
-    },
-    "title": "Bonk",
-    "description": "Make a Stone Hammer to mine more blocks at once",
-    "frame": "task"
-  },
   "criteria": {
     "0": {
       "trigger": "minecraft:inventory_changed",
@@ -19,13 +11,21 @@
       }
     }
   },
-  "parent": "sporeblock:wood",
-  "parents": [
-    "sporeblock:wood"
-  ],
   "requirements": [
     [
       "0"
     ]
+  ],
+  "parent": "sporeblock:wood",
+  "display": {
+    "icon": {
+      "id": "onlyhammersandexcavators:stone_hammer"
+    },
+    "title": "Bonk",
+    "description": "Craft a Stone Hammer to mine more blocks at once",
+    "frame": "task"
+  },
+  "parents": [
+    "sporeblock:wood"
   ]
 }

@@ -2235,3 +2235,5 @@ config/jei/world/local/mf flat/lookupHistory.json
 config/jei/world/local/mf flat/lookupHistory.json
 /config/jei/world/local
 /screenshots
+/crash-reports
+/simplebackups

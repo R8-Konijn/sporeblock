@@ -9,7 +9,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "Scents will only spawn a mob if there is a target (a player or any non Spore creature) in a 32x32x32 area around it, or if it is Overcharged. The Scent will spawn mobs within a 23x2x23 block rectangle centered around it. Overcharged Scents summon creatures with potion effects and capable of evolving, and will summon creatures even if there are no targets nearby."
+            "text": "Scents will only spawn a mob if there is a target (a player or any non Spore creature) in a 32x32x32 area around it, or if it is Overcharged. The Scent will spawn mobs within a 23x2x23 block rectangle centered around it. Overcharged Scents summon creatures with potion effects and capable of evolving twice as fast, and will summon creatures even if there are no targets nearby. Note that the scent entity itself is small, invisible (though you can tell where it is thanks to the particles it creates) and affected by gravity."
         }
     ]
 }

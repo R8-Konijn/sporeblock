@@ -1,0 +1,31 @@
+{
+  "criteria": {
+    "0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "onlyhammersandexcavators:iron_hammer"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "0"
+    ]
+  ],
+  "parent": "sporeblock:hammer",
+  "display": {
+    "icon": {
+      "id": "onlyhammersandexcavators:iron_hammer"
+    },
+    "title": "Thor",
+    "description": "Craft an Iron Hammer to clear a wider area",
+    "frame": "task"
+  },
+  "parents": [
+    "sporeblock:hammer"
+  ]
+}

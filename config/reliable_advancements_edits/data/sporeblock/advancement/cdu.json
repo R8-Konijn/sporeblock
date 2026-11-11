@@ -22,7 +22,7 @@
       "id": "spore:cdu"
     },
     "title": "AC Overkill",
-    "description": "Make a C.D.U. to purify an area from the Spore in a 8 blocks radius, killing creatures and purifying blocks. You will need Ice Canisters to use it!",
+    "description": "Make a C.D.U. to purify an area from the Spore in a 10 blocks radius, killing creatures and purifying blocks. You will need Ice Canisters to use it!",
     "frame": "task"
   },
   "parents": [

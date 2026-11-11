@@ -121,7 +121,7 @@
 	#Default 20
 	# Default: 20
 	# Range: > 0
-	Range = 8
+	Range = 10
 	#Default 12000
 	# Default: 12000
 	# Range: > 0

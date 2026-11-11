@@ -1,0 +1,31 @@
+{
+  "criteria": {
+    "0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "generatorgalore:redstone_generator"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "0"
+    ]
+  ],
+  "parent": "sporeblock:mining_gadget",
+  "display": {
+    "icon": {
+      "id": "generatorgalore:redstone_generator"
+    },
+    "title": "Japan Is Turning Redstone Into Electricity",
+    "description": "Craft an Energy Generator to recharge your Mining Gadget with Redstone Dust",
+    "frame": "task"
+  },
+  "parents": [
+    "sporeblock:mining_gadget"
+  ]
+}

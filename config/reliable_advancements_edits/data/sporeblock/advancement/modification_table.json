@@ -1,0 +1,31 @@
+{
+  "criteria": {
+    "0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "mininggadgets:modificationtable"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "0"
+    ]
+  ],
+  "parent": "sporeblock:mining_gadget",
+  "display": {
+    "icon": {
+      "id": "mininggadgets:modificationtable"
+    },
+    "title": "Harder, Better, Faster, Stronger",
+    "description": "Craft a Modification Table to upgrade your Mining Gadget",
+    "frame": "task"
+  },
+  "parents": [
+    "sporeblock:mining_gadget"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "criteria": {
+    "0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "mininggadgets:mininggadget_simple"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "0"
+    ]
+  ],
+  "parent": "sporeblock:crusher",
+  "display": {
+    "icon": {
+      "id": "mininggadgets:mininggadget_simple"
+    },
+    "title": "Tired Of Hammers?",
+    "description": "Craft a Mining Gadget. Can be way more powerful and versatile than Hammers, but will require an automated source of Redstone to charge and upgrade it!",
+    "frame": "task"
+  },
+  "parents": [
+    "sporeblock:crusher"
+  ]
+}

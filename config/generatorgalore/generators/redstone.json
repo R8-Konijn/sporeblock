@@ -1,0 +1,8 @@
+{
+  "generationRate": 1000,
+  "transferRate": 500,
+  "consumptionRate": 20,
+  "bufferCapacity": 1000000,
+  "fuelType": "SOLID",
+  "fuelTag": "c:dusts/redstone"
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Backing up your world",
+    "icon": "minecraft:writable_book",
+    "category": "patchouli:introduction",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Genuine game overs are possible in this pack, in particular if hyper-evolved creatures breach containment. Simple Backups is installed and will automatically do a backup every 30 minutes of playing time, and with the following command:$(br2)/simplebackups backup start$(br2) you can also manually backup your world at any time."
+        },
+        {
+            "type": "patchouli:text",
+            "text":" You can disable automated backups by editing the minecraft/config/simplebackups-common.toml file (look at the second line). If you are playing on a server and do not want every player to have the ability to start backups, look for the minecraft/config/simplebackups-server.toml file."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Simple Backups saves backups in the minecraft/simplebackups, in a folder that has the name of your world. Of course, if you want to manually backup your world without using this mod, just copying the save file of your world somewhere works perfectly fine too."
+        }
+    ]
+}

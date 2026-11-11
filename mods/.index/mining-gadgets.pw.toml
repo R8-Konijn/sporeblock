@@ -1,0 +1,18 @@
+filename = 'mininggadgets-1.18.8.jar'
+name = 'Mining Gadgets'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'MiningGadgets NeoForge 1.18.8'
+
+[download]
+hash = '2f97c2d52b384a59d54ec68bd6271608a775ad30'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8860674
+project-id = 351748

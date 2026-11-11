@@ -1302,7 +1302,8 @@
         "sporeblock:scent",
         "sporeblock:waterwheel",
         "sporeblock:andesite_casing",
-        "sporeblock:armor_fragment"
+        "sporeblock:armor_fragment",
+        "sporeblock:emerald_hammer"
       ],
       "positions": {
         "sporeblock:mound_copy": [
@@ -1358,8 +1359,8 @@
           160
         ],
         "sporeblock:clock": [
-          93,
-          160
+          -86,
+          330
         ],
         "sporeblock:waterwheel": [
           93,
@@ -1442,7 +1443,7 @@
           15
         ],
         "sporeblock:core_destruction": [
-          -94,
+          -86,
           15
         ],
         "sporeblock:trap": [
@@ -1514,7 +1515,7 @@
           40
         ],
         "sporeblock:lighter": [
-          31,
+          30,
           40
         ],
         "sporeblock:fungal_bonemeal": [
@@ -1526,12 +1527,40 @@
           214
         ],
         "sporeblock:crusher": [
-          61,
+          30,
           160
         ],
         "sporeblock:infested_spawner": [
           60,
           196
+        ],
+        "sporeblock:emerald_hammer": [
+          -158,
+          -21
+        ],
+        "sporeblock:iron_hammer": [
+          -86,
+          -21
+        ],
+        "sporeblock:obsidian_hammer": [
+          -122,
+          -21
+        ],
+        "sporeblock:placeholder": [
+          -122,
+          15
+        ],
+        "sporeblock:mining_gadget": [
+          61,
+          160
+        ],
+        "sporeblock:energy_generator": [
+          93,
+          160
+        ],
+        "sporeblock:modification_table": [
+          93,
+          134
         ]
       }
     },
@@ -3610,6 +3639,30 @@
       "tab": "sporeblock:start",
       "title": "\"You\u0027re So Cool\"",
       "icon": "spore:frozen_decayed_biomass"
+    },
+    "sporeblock:placeholder": {
+      "owner": "reliable_advancements:standalone",
+      "tab": "sporeblock:start",
+      "title": "\"New Advancement\"",
+      "icon": "minecraft:stone"
+    },
+    "sporeblock:obsidian_hammer": {
+      "owner": "reliable_advancements:standalone",
+      "tab": "sporeblock:start",
+      "title": "\"Solid Bonk\"",
+      "icon": "onlyhammersandexcavators:obsidian_hammer"
+    },
+    "sporeblock:emerald_hammer": {
+      "owner": "reliable_advancements:standalone",
+      "tab": "sporeblock:start",
+      "title": "\"Elite Bonk\"",
+      "icon": "onlyhammersandexcavators:emerald_hammer"
+    },
+    "sporeblock:core_destruction": {
+      "owner": "reliable_advancements:standalone",
+      "tab": "sporeblock:start",
+      "title": "\"Cooler Hammer\"",
+      "icon": "constructionwand:core_destruction"
     }
   },
   "derived_presentation": {

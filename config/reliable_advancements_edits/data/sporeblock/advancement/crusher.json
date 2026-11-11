@@ -22,7 +22,7 @@
       "id": "create:crushing_wheel"
     },
     "title": "Not For Crushing Cars",
-    "description": "Obtain Crushing Wheels",
+    "description": "Obtain Crushing Wheels. Useful to extract gold from infested blocks!",
     "frame": "task"
   },
   "parents": [
