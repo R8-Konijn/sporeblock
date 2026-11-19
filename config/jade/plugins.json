@@ -75,5 +75,9 @@
   },
   "tiabfix": {
     "entity_accel": true
+  },
+  "item_descriptions": {
+    "block_descriptions": true,
+    "entity_descriptions": true
   }
 }

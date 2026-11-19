@@ -10,7 +10,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "Every 15 minutes, the Mound will grow by one stage, and its infestation radius will increase. It can start to cause serious problems once it reaches stage 4, its final stage. A stage 4 Mound will infest blocks in a radius of 20 blocks around it. The Mound also grows in size every time its stage increases."
+            "text": "Every 15 minutes, the Mound will grow by one stage, and its infestation radius will increase. It can start to cause serious problems once it reaches stage 4, its final stage. A stage 4 Mound will infest blocks in a radius of 20 blocks around it. The Mound also grows in size every time its stage increases. $(l)You will not be able to prevent the Mound from infesting the area around it until you unlock the C.D.U., so you will need to keep your distances with it!"
         },
         {
             "type": "patchouli:text",
@@ -18,7 +18,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "Once reaching stage 4, the Mound will summon hostile creatures that will pose a threat, $(l:inf_evolution)$(l)especially if you let them evolve$(/l). It will occasionally summon a Scamper, which is a creature that can turn into more Mounds, or occasionally evolve into a Gastgeber, which is... something scarier."
+            "text": "Once reaching stage 4, the Mound will summon hostile creatures that will pose a threat, $(l:inf_evolution)$(l)especially if you let them evolve$(/l). It will occasionally summon a Scamper, which is a creature that can turn into more Mounds, or occasionally evolve into a Gastgeber, which is basically a mobile Mound with very large block infestation capabilities."
         },
         {
             "type": "patchouli:text",

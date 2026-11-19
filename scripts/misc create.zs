@@ -8,7 +8,11 @@ craftingTable.addShaped("create/goggles", <item:create:goggles>, [[<item:minecra
 
 //Chute
 craftingTable.remove(<item:create:chute>);
-craftingTable.addShaped("create/chute", <item:create:chute>, [[<item:create:andesite_alloy>, <item:minecraft:air>, <item:create:andesite_alloy>],[<item:create:andesite_alloy>, <item:minecraft:air>, <item:create:andesite_alloy>],[<item:create:andesite_alloy>, <item:minecraft:air>, <item:create:andesite_alloy>]]);
+craftingTable.addShaped("create/chute", <item:create:chute>, [[<item:create:andesite_alloy>, <item:minecraft:air>, <item:create:andesite_alloy>],[<item:create:andesite_alloy>, <item:minecraft:air>, <item:create:andesite_alloy>]]);
+
+//Hooper
+craftingTable.remove(<item:minecraft:hopper>);
+craftingTable.addShaped("minecraft/hopper", <item:minecraft:hopper>, [[<item:create:andesite_alloy>, <item:minecraft:air>, <item:create:andesite_alloy>],[<item:create:andesite_alloy>, <item:minecraft:chest>, <item:create:andesite_alloy>], [<item:minecraft:air>,<item:create:andesite_alloy>,<item:minecraft:air>]]);
 
 //Guardian Beam Defense
 <recipetype:create:mechanical_crafting>.remove(<item:creategbd:beam_reactor_helmet>);
